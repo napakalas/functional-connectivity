@@ -1,0 +1,31 @@
+{
+    "id": "functional-connectivity",
+    "models": "FunctionalConnectivity",
+    "sources": [
+        {
+            "id": "organ-blocks",
+            "href": "FC_flatmap_Organ_system_blocks_v1.pptx",
+            "kind": "fc_base"
+        },
+        {
+            "id": "cardiorespiratory",
+            "href": "FC_flatmap_Cardiorespiratory_system_v1.pptx",
+            "kind": "fc_layer"
+        },
+        {
+            "id": "digestive",
+            "href": "FC_flatmap_Digestive_system_v1.pptx",
+            "kind": "fc_layer"
+        },
+        {
+            "id": "naso-oral-pharyngeal",
+            "href": "FC_flatmap_Naso-Oral-pharyngeal_system_v1.pptx",
+            "kind": "fc_layer"
+        },
+        {
+            "id": "urinary",
+            "href": "FC_flatmap_Urinary_system_v1.pptx",
+            "kind": "fc_layer"
+        }
+    ]
+}
