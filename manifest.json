@@ -27,6 +27,16 @@
             "id": "urinary",
             "href": "FC_flatmap_Urinary_system_v1.pptx",
             "kind": "layer"
+        },
+        {
+            "id": "reproductive",
+            "href": "FC_flatmap_Reproductive_system.pptx",
+            "kind": "layer"
+        },
+        {
+            "id": "sense-organs",
+            "href": "FC_flatmap_Special-Sense-Organs.pptx",
+            "kind": "layer"
         }
     ]
 }
