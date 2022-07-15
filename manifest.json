@@ -1,6 +1,7 @@
 {
     "id": "functional-connectivity",
     "kind": "functional",
+    "annotation": "annotation.xlsx",
     "models": "FunctionalConnectivity",
     "sources": [
         {
