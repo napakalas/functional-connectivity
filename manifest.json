@@ -1,42 +1,42 @@
 {
     "id": "functional-connectivity",
     "kind": "functional",
-    "annotation": "annotation.xlsx",
+    "annotation": "annotation.json",
     "models": "FunctionalConnectivity",
     "sources": [
         {
             "id": "organ-blocks",
-            "href": "FC_flatmap_Organ_system_blocks_v1.pptx",
+            "href": "Organ_System_Blocks.pptx",
             "kind": "base"
         },
         {
             "id": "cardiorespiratory",
-            "href": "FC_flatmap_Cardiorespiratory_system_v1.pptx",
+            "href": "Cardiorespiratory_System.pptx",
             "kind": "layer"
         },
         {
             "id": "digestive",
-            "href": "FC_flatmap_Digestive_system_v1.pptx",
+            "href": "Digestive_System.pptx",
             "kind": "layer"
         },
         {
             "id": "naso-oral-pharyngeal",
-            "href": "FC_flatmap_Naso-Oral-pharyngeal_system_v1.pptx",
+            "href": "Naso-Oral-Pharyngeal_System.pptx",
             "kind": "layer"
         },
         {
             "id": "urinary",
-            "href": "FC_flatmap_Urinary_system_v1.pptx",
+            "href": "Urinary_System.pptx",
             "kind": "layer"
         },
         {
             "id": "reproductive",
-            "href": "FC_flatmap_Reproductive_system.pptx",
+            "href": "Reproductive_System.pptx",
             "kind": "layer"
         },
         {
             "id": "sense-organs",
-            "href": "FC_flatmap_Special-Sense-Organs.pptx",
+            "href": "Special-Sense_Organs.pptx",
             "kind": "layer"
         }
     ]
