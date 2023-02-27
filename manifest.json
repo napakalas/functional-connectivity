@@ -1,7 +1,7 @@
 {
     "id": "functional-connectivity",
     "kind": "functional",
-    "annotation": "annotation.xlsx",
+    "annotation": "annotation.json",
     "models": "FunctionalConnectivity",
     "sources": [
         {
