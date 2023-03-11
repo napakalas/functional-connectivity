@@ -10494,12 +10494,6 @@
             "Label": "breast"
         },
         {
-            "Nerve Name": "Breasts",
-            "Systems": "REPRODUCTIVE SYSTEM MALE, REPRODUCTIVE SYSTEM FEMALE",
-            "Models": "",
-            "Label": ""
-        },
-        {
             "Organ Name": "Carotid body",
             "Systems": "CARDIORESPIRATORY SYSTEM",
             "Models": "UBERON:0001629",
@@ -10692,12 +10686,6 @@
             "Label": ""
         },
         {
-            "Nerve Name": "Lower airways",
-            "Systems": "CARDIORESPIRATORY SYSTEM",
-            "Models": "",
-            "Label": ""
-        },
-        {
             "Organ Name": "Lower airways",
             "Systems": "CARDIORESPIRATORY SYSTEM, NASO-ORAL-PHARYNGEAL SYSTEM",
             "Models": "",
@@ -10824,20 +10812,8 @@
             "Label": "Peyer's patch"
         },
         {
-            "Nerve Name": "Pharynx",
-            "Systems": "CARDIORESPIRATORY SYSTEM, NASO-ORAL-PHARYNGEAL SYSTEM",
-            "Models": "",
-            "Label": ""
-        },
-        {
             "Organ Name": "Pharynx",
             "Systems": "DIGESTIVE SYSTEM, NASO-ORAL-PHARYNGEAL SYSTEM",
-            "Models": "",
-            "Label": ""
-        },
-        {
-            "Nerve Name": "Pharynx",
-            "Systems": "MSK SYSTEM",
             "Models": "",
             "Label": ""
         },
