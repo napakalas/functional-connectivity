@@ -8176,6 +8176,12 @@
         },
         {
             "Nerve Name": "C1",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "C1",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006469",
             "Label": "C1 segment of cervical spinal cord",
@@ -8184,6 +8190,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "C2",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "C2",
@@ -8198,6 +8210,12 @@
         },
         {
             "Nerve Name": "C3",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "C3",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006488",
             "Label": "C3 segment of cervical spinal cord",
@@ -8206,6 +8224,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "C4",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "C4",
@@ -8220,6 +8244,12 @@
         },
         {
             "Nerve Name": "C5",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "C5",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006491",
             "Label": "C5 segment of cervical spinal cord",
@@ -8228,6 +8258,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "C6",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "C6",
@@ -8242,6 +8278,12 @@
         },
         {
             "Nerve Name": "C7",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "C7",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006493",
             "Label": "C7 segment of cervical spinal cord",
@@ -8250,6 +8292,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "C8",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "C8",
@@ -8319,6 +8367,12 @@
         },
         {
             "Nerve Name": "Celiac g.",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "Celiac g.",
             "Organ/System": "Prevertebral g.",
             "Models": "UBERON:0002262",
             "Label": "celiac ganglion",
@@ -8338,6 +8392,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - The model is specific (nerve), but the nerve name is not and there is a match for it: \"Celiac Plexus\" (ILX:0483403).",
             "Unnamed: 8": "KB - i think its safe to assume it is a nerve plexus (opposed to something else like blood vessel plexus)\nAG - Agreed. I think I still hadn't realised that column A is about nerve names when I was doing this one. :)"
+        },
+        {
+            "Nerve Name": "Cerebral cortex",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Cervical cardiac branches",
@@ -8472,6 +8532,12 @@
             "Unnamed: 8": ""
         },
         {
+            "Nerve Name": "Diencephalon",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "DMNV",
             "Organ/System": "Medulla",
             "Models": "UBERON:0002870",
@@ -8481,6 +8547,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - I am assuming that the nerve name stands for the label name.",
             "Unnamed: 8": "KB - yup it does"
+        },
+        {
+            "Nerve Name": "DRG",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Esophageal branch of recurrent laryngeal nerve",
@@ -8538,7 +8610,25 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "G",
+            "Nerve Name": "Ganglion",
+            "Organ/System": "Intercalated pancreatic duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "Ganglion",
+            "Organ/System": "Interlobular pancreatic duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "Ganglion",
+            "Organ/System": "Intralobular pancreatic duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "Ganglion",
             "Organ/System": "Lobar pancreatic duct",
             "Models": "",
             "Label": "",
@@ -8547,6 +8637,24 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - Need more information.",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "Ganglion",
+            "Organ/System": "Main pancreatic duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "Ganglion",
+            "Organ/System": "Pancreatic parenchyma",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "Ganglion",
+            "Organ/System": "Striated pancreatic duct",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Gastric branch of anterior vagal trunk",
@@ -8791,6 +8899,30 @@
             "Unnamed: 8": ""
         },
         {
+            "Nerve Name": "L. middle cerebral",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "L. posterior cerebral",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "L. superior cerebral",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "L1",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "L1",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006448",
@@ -8811,6 +8943,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - It looks like we are talking about some \"paravertebral ganglion\" (UBERON:0001807), but nothing specific to the L1 segment.",
             "Unnamed: 8": "KB - the current model is synonymous with L1 sympathetic ganglion, which is also the PV ganglion. is it better to put this ILX term or the UBERON term for general PV ganglia? (confirming this confirms the cases below)"
+        },
+        {
+            "Nerve Name": "L2",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "L2",
@@ -8836,6 +8974,12 @@
         },
         {
             "Nerve Name": "L3",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "L3",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006449",
             "Label": "L3 segment",
@@ -8855,6 +8999,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - It looks like we are talking about some \"paravertebral ganglion\" (UBERON:0001807), but nothing specific to the L3 segment.",
             "Unnamed: 8": "KB - third lumbar ganglion ILX:0788315"
+        },
+        {
+            "Nerve Name": "L4",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "L4",
@@ -8880,6 +9030,12 @@
         },
         {
             "Nerve Name": "L5",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "L5",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006447",
             "Label": "L5 segment",
@@ -8902,6 +9058,12 @@
         },
         {
             "Nerve Name": "L6",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "L6",
             "Organ/System": "Spinal cord",
             "Models": "ILX:0738432",
             "Label": "Sixth lumbar spinal cord segment",
@@ -8921,6 +9083,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - It looks like we are talking about some \"paravertebral ganglion\" (UBERON:0001807), but nothing specific to the L6 segment.",
             "Unnamed: 8": "KB - sixth lumbar sympathetic ganglion ILX:0739297"
+        },
+        {
+            "Nerve Name": "Least splanchnic n.",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Least splanchnic n.",
@@ -9088,6 +9256,12 @@
             "Unnamed: 8": ""
         },
         {
+            "Nerve Name": "Medulla",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Meningeal branch of vagus nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0793828",
@@ -9097,6 +9271,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "Midbrain",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "MnPO",
@@ -9143,6 +9323,12 @@
             "Unnamed: 8": "KB - yup it does. but there is solitary nucleus UBERON:0009050\nAG - Ok, I went for it. Might want to flag it though?"
         },
         {
+            "Nerve Name": "Olfactory cortex",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "OT",
             "Organ/System": "Olfactory cortex",
             "Models": "UBERON:0001883",
@@ -9174,6 +9360,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "Paravertebral g.",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Pelvic g.",
@@ -9275,6 +9467,12 @@
             "Unnamed: 8": ""
         },
         {
+            "Nerve Name": "Pons",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Posterior cervical cardiac branch of vagus nerve",
             "Organ/System": "DIGESTIVE SYSTEM",
             "Models": "",
@@ -9295,6 +9493,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - Can't tell from the nerve name whether this is the right model.",
             "Unnamed: 8": "KB - im certain model is correct. synonyms also list posterior vagus x nerve trunk"
+        },
+        {
+            "Nerve Name": "Prevertebral g.",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Pterygopalatine g.",
@@ -9341,6 +9545,24 @@
             "Unnamed: 8": ""
         },
         {
+            "Nerve Name": "R. middle cerebral",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "R. posterior cerebral",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "R. superior cerebral",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Recurrent laryngeal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0003716",
@@ -9375,6 +9597,12 @@
         },
         {
             "Nerve Name": "S1",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "S1",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006460",
             "Label": "S1 segment",
@@ -9394,6 +9622,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "ZE: we should put \"First sacral ganglion\" with ILX:0789109.",
             "Unnamed: 8": "KB - agree"
+        },
+        {
+            "Nerve Name": "S2",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "S2",
@@ -9419,6 +9653,12 @@
         },
         {
             "Nerve Name": "S3",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "S3",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006462",
             "Label": "S3 segment",
@@ -9438,6 +9678,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "ZE: we should put \"Third sacral ganglion\" with ILX:0790394.",
             "Unnamed: 8": "KB - agree"
+        },
+        {
+            "Nerve Name": "S4",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "S4",
@@ -9493,6 +9739,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "ZE: SCG \"hasRelatedSynonym\" with the label. What is the difference between related and exaxct synonym? Should we consider both as synonym?",
             "Unnamed: 8": "KB - i think this is superior cervical ganglion anyway. makes sense"
+        },
+        {
+            "Nerve Name": "Spinal cord",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "SSN",
@@ -9628,6 +9880,12 @@
         },
         {
             "Nerve Name": "T1",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "T1",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006457",
             "Label": "first thoracic spinal cord segment",
@@ -9636,6 +9894,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "T10",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "T10",
@@ -9661,6 +9925,12 @@
         },
         {
             "Nerve Name": "T11",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "T11",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006467",
             "Label": "T11 segment",
@@ -9680,6 +9950,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "T12",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "T12",
@@ -9705,6 +9981,12 @@
         },
         {
             "Nerve Name": "T2",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "T2",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006458",
             "Label": "T2 segment",
@@ -9724,6 +10006,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "T3",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "T3",
@@ -9749,6 +10037,12 @@
         },
         {
             "Nerve Name": "T4",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "T4",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006452",
             "Label": "T4 segment",
@@ -9768,6 +10062,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "T5",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "T5",
@@ -9793,6 +10093,12 @@
         },
         {
             "Nerve Name": "T6",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "T6",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006454",
             "Label": "T6 segment",
@@ -9812,6 +10118,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "T7",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "T7",
@@ -9837,6 +10149,12 @@
         },
         {
             "Nerve Name": "T8",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "T8",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006456",
             "Label": "T8 segment",
@@ -9859,6 +10177,12 @@
         },
         {
             "Nerve Name": "T9",
+            "Organ/System": "DRG",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "T9",
             "Organ/System": "Spinal cord",
             "Models": "UBERON:0006465",
             "Label": "T9 segment",
@@ -9878,6 +10202,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "Thalamus",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Thoracic cardiac branch",
@@ -10136,6 +10466,12 @@
             "Label": "breast"
         },
         {
+            "Nerve Name": "Breasts",
+            "Systems": "REPRODUCTIVE SYSTEM MALE, REPRODUCTIVE SYSTEM FEMALE",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Organ Name": "Carotid body",
             "Systems": "CARDIORESPIRATORY SYSTEM",
             "Models": "UBERON:0001629",
@@ -10328,6 +10664,12 @@
             "Label": ""
         },
         {
+            "Nerve Name": "Lower airways",
+            "Systems": "CARDIORESPIRATORY SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Organ Name": "Lower airways",
             "Systems": "CARDIORESPIRATORY SYSTEM, NASO-ORAL-PHARYNGEAL SYSTEM",
             "Models": "",
@@ -10454,8 +10796,20 @@
             "Label": "Peyer's patch"
         },
         {
+            "Nerve Name": "Pharynx",
+            "Systems": "CARDIORESPIRATORY SYSTEM, NASO-ORAL-PHARYNGEAL SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Organ Name": "Pharynx",
             "Systems": "DIGESTIVE SYSTEM, NASO-ORAL-PHARYNGEAL SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "Pharynx",
+            "Systems": "MSK SYSTEM",
             "Models": "",
             "Label": ""
         },
