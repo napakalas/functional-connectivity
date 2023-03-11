@@ -843,13 +843,13 @@
         {
             "FTU Name": "Bladder dome/fundus",
             "Organ": "Bladder",
-            "Model": "ILX:0738433",
+            "Model": "UBERON:0006082",
             "Label": "Dome of the Bladder",
             "Connected": "YES",
             "Correct?": "Yes",
             "Confirmed by": "AG",
             "Checked by": "KB",
-            "Unnamed: 8": "",
+            "Updated": "DB",
             "Unnamed: 9": ""
         },
         {
