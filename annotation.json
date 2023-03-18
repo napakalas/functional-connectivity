@@ -5978,6 +5978,17 @@
         },
         {
             "FTU Name": "Quadratus femoris",
+            "Organ": "Lower limb - gluteal",
+            "Model": "UBERON:0008537",
+            "Label": "quadratus femoris",
+            "Connected": "",
+            "Correct?": "",
+            "Confirmed by": "",
+            "Checked by": "",
+            "Updated": "DB"
+        },
+        {
+            "FTU Name": "Quadratus femoris",
             "Organ": "Thigh muscles",
             "Model": "UBERON:0008537",
             "Label": "quadratus femoris",
