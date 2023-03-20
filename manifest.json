@@ -3,6 +3,7 @@
     "kind": "functional",
     "annotation": "annotation.json",
     "models": "FunctionalConnectivity",
+    "sckan-version": "production",
     "sources": [
         {
             "id": "organ-blocks",
