@@ -853,7 +853,7 @@
             "Unnamed: 9": ""
         },
         {
-            "FTU Name": "Bladder neck",
+            "FTU Name": "Bladder neck (Trigone)",
             "Organ": "Bladder",
             "Model": "UBERON:0001258",
             "Label": "neck of urinary bladder",
@@ -5979,11 +5979,6 @@
         {
             "FTU Name": "Quadratus femoris",
             "Organ": "Lower limb - gluteal",
-<<<<<<< HEAD
-            "Models": "",
-            "Label": "",
-            "Connected": ""
-=======
             "Model": "UBERON:0008537",
             "Label": "quadratus femoris",
             "Connected": "",
@@ -5991,7 +5986,6 @@
             "Confirmed by": "",
             "Checked by": "",
             "Updated": "DB"
->>>>>>> main
         },
         {
             "FTU Name": "Quadratus femoris",
