@@ -8341,6 +8341,12 @@
             "Unnamed: 8": "KB - most likely to be branch of vagus nerve but still an assumption\nAG - Ok, I have set the model and label to what I believe it might be. We should flag this entry though, just in case."
         },
         {
+            "Nerve Name": "Carotid body",
+            "Organ/System": "CARDIORESPIRATORY SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Carotid plexus",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0740661",
@@ -8350,6 +8356,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - There are different types of \"carotid plexus\": e.g., common, internal, external. Also, there are both \"Common carotid plexus (swannt)\" (ILX:0740661) and \"common carotid plexus (TA98)\" (ILX:0745318).",
             "Unnamed: 8": "KB - i think because there is no specification its safe to go with common (unless there is meant to be some specification). and dont think the TA98/swannt issue matters - Andre to confirm\nAG - Flagging it for David/Andre."
+        },
+        {
+            "Nerve Name": "Carotid sinus",
+            "Organ/System": "CARDIORESPIRATORY SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Carotid sinus nerve",
