@@ -10578,7 +10578,7 @@
         },
         {
             "Organ Name": "Bile duct",
-            "Systems": "DIGESTIVE SYSTEM",
+            "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -10644,7 +10644,7 @@
         },
         {
             "Organ Name": "Duodenum",
-            "Systems": "DIGESTIVE SYSTEM",
+            "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -10662,7 +10662,7 @@
         },
         {
             "Organ Name": "Esophagus",
-            "Systems": "DIGESTIVE SYSTEM",
+            "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -10722,7 +10722,7 @@
         },
         {
             "Organ Name": "Gallbladder",
-            "Systems": "DIGESTIVE SYSTEM",
+            "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
             "Models": "UBERON:0002110",
             "Label": "gall bladder"
         },
@@ -10788,7 +10788,7 @@
         },
         {
             "Organ Name": "Liver",
-            "Systems": "DIGESTIVE SYSTEM",
+            "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -10800,7 +10800,7 @@
         },
         {
             "Organ Name": "Lower GI tract",
-            "Systems": "DIGESTIVE SYSTEM",
+            "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -10872,13 +10872,13 @@
         },
         {
             "Organ Name": "Pancreas",
-            "Systems": "DIGESTIVE SYSTEM",
+            "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Organ Name": "Pancreaticobiliary duct",
-            "Systems": "DIGESTIVE SYSTEM",
+            "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -10974,7 +10974,7 @@
         },
         {
             "Organ Name": "Stomach",
-            "Systems": "DIGESTIVE SYSTEM",
+            "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -11111,6 +11111,11 @@
         },
         {
             "System Name": "ENDOCRINE SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "System Name": "ENTERIC SYSTEM",
             "Models": "",
             "Label": ""
         },
