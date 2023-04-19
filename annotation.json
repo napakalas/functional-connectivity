@@ -8120,6 +8120,12 @@
             "Unnamed: 8": "KB - pretty certain it does so model is connect. also cant find any alternates"
         },
         {
+            "Nerve Name": "Atrial ICG",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Auricular branch of vagus nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:3010740",
@@ -8162,6 +8168,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "Branch of right vagus nerve to pancreas",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "BRGTN",
@@ -8563,6 +8575,12 @@
             "Unnamed: 8": ""
         },
         {
+            "Nerve Name": "Deep cardiac plexus",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Diencephalon",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
@@ -8617,6 +8635,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "Esophageal plexus",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "External carotid plexus",
@@ -8730,6 +8754,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - Need more information. It looks like the nerve name should be \"Glomeruli\" rather than \"Glumeruli\", but still too generic.",
             "Unnamed: 8": "KB - agree that its most likely meant to be glomeruli. but glomeruli are blood vessels, not nerves"
+        },
+        {
+            "Nerve Name": "Glumeruli",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Greater splanchnic n.",
@@ -8851,6 +8881,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - Duplicate of row 61.",
             "Unnamed: 8": "KB - model is correct, agree that another duplicate"
+        },
+        {
+            "Nerve Name": "Inferior hypogastric pl.",
+            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Inferior hypogastric plexus",
@@ -9293,6 +9329,12 @@
             "Unnamed: 8": ""
         },
         {
+            "Nerve Name": "Mediastinal g.",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Medulla",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
@@ -9493,6 +9535,12 @@
             "Unnamed: 8": ""
         },
         {
+            "Nerve Name": "Pharyngeal nerve plexus",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Piriform cortex",
             "Organ/System": "Olfactory cortex",
             "Models": "UBERON:0004725",
@@ -9622,6 +9670,12 @@
             "Unnamed: 8": ""
         },
         {
+            "Nerve Name": "Renal branches of vagus nerve",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Renal plexus",
             "Organ/System": "",
             "Models": "UBERON:0018676",
@@ -9631,6 +9685,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "Renal plexus",
+            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "S1",
@@ -9853,6 +9913,12 @@
             "Unnamed: 8": "KB - i think it is the same "
         },
         {
+            "Nerve Name": "Superficial cardiac plexus",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Superior cardiac nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0740631",
@@ -9884,6 +9950,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "ZE: is it the same as line 137?",
             "Unnamed: 8": "KB - repeated term"
+        },
+        {
+            "Nerve Name": "Superior hypogastric pl.",
+            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Superior hypogastric plexus",
@@ -10338,6 +10410,12 @@
             "Unnamed: 8": "KB - uterine cervical ganlion ILX:0740224 "
         },
         {
+            "Nerve Name": "Uterine cervical g.",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "V. Trigeminal n.",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001645",
@@ -10369,6 +10447,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "",
             "Unnamed: 8": ""
+        },
+        {
+            "Nerve Name": "Ventricular ICG",
+            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Vestibular g.",
