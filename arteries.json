@@ -2,7 +2,7 @@
     "Femoral artery": [
         {
             "Arteries": "Femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0002060",
             "Parent artery": "Extrenal illiac artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -12,7 +12,7 @@
         },
         {
             "Arteries": "Femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0002060",
             "Parent artery": "Extrenal illiac artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -24,7 +24,7 @@
     "Deep femoral artery": [
         {
             "Arteries": "Deep femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001355",
             "Parent artery": "Femoral artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -33,7 +33,7 @@
         },
         {
             "Arteries": "Deep femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001355",
             "Parent artery": "Femoral artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -44,7 +44,7 @@
     "Medial circumflex femoral artery": [
         {
             "Arteries": "Medial circumflex femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001356",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
 				"Adductor longus muscle",
@@ -57,11 +57,11 @@
 			],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes ",
-            "Duplicated in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
         },
         {
             "Arteries": "Medial circumflex femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001356",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
 				"Adductor longus muscle",
@@ -74,13 +74,13 @@
 			],
             "Laterality": "Left",
             "Added in FC flatmap": "No ",
-            "Duplicated in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Lateral circumflex femoral artery": [
         {
             "Arteries": "Lateral circumflex femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0741412",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
 				"Tensor fasciae latae muscle",
@@ -94,7 +94,7 @@
         },
         {
             "Arteries": "Lateral circumflex femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0741412",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
 				"Tensor fasciae latae muscle",
@@ -110,7 +110,7 @@
     "Descending branch of lateral circumflex femoral artery": [
         {
             "Arteries": "Descending branch of lateral circumflex femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0747134",
             "Parent artery": "Lateral circumflex femoral artery",
             "Target FTU": [
 				"Vastus lateralis",
@@ -124,7 +124,7 @@
         },
         {
             "Arteries": "Descending branch of lateral circumflex femoral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0747134",
             "Parent artery": "Lateral circumflex femoral artery",
             "Target FTU": [
 				"Vastus lateralis",
@@ -140,7 +140,7 @@
     "Perforating femoral arteries": [
         {
             "Arteries": "Perforating femoral arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744287",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
 				"Adductor longus",
@@ -155,7 +155,7 @@
         },
         {
             "Arteries": "Perforating femoral arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744287",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
 				"Adductor longus",
@@ -172,7 +172,7 @@
     "Superficial epigastric artery": [
         {
             "Arteries": "Superficial epigastric artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0034964",
             "Parent artery": "Femoral artery",
             "Target FTU": "Dermatome for T10",
             "Laterality": "Right",
@@ -183,7 +183,7 @@
         },
         {
             "Arteries": "Superficial epigastric artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0034964",
             "Parent artery": "Femoral artery",
             "Target FTU": "Dermatome for T10",
             "Laterality": "Left",
@@ -191,10 +191,10 @@
             "Duplicated in FC flatmap": "No"
         }
     ],
-	    "Superficial external pudendal artery": [
+    "Superficial external pudendal artery": [
         {
             "Arteries": "Superficial external pudendal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0007317",
             "Parent artery": "Femoral artery",
             "Target FTU": [
 				"Skin of genitalia",
@@ -207,7 +207,7 @@
         },
         {
             "Arteries": "Superficial external pudendal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0007317",
             "Parent artery": "Femoral artery",
             "Target FTU": [
 				"Skin of genitalia",
@@ -221,7 +221,7 @@
     "Deep external pudendal artery": [
         {
             "Arteries": "Deep external pudendal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0007316",
             "Parent artery": "Femoral artery",
             "Target FTU": "Skin of genitalia",
             "Laterality": "Right",
@@ -231,7 +231,7 @@
         },
         {
             "Arteries": "Deep external pudendal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0007316",
             "Parent artery": "Femoral artery",
             "Target FTU": "Skin of genitalia",
             "Laterality": "Left",
@@ -242,7 +242,7 @@
     "Popliteal artery": [
         {
             "Arteries": "Popliteal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0002250",
             "Parent artery": "Femoral artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -251,7 +251,7 @@
         },
         {
             "Arteries": "Popliteal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0002250",
             "Parent artery": "Femoral artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -262,7 +262,7 @@
     "Superior lateral genicular artery": [
         {
             "Arteries": "Superior lateral genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743858",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -272,7 +272,7 @@
         },
         {
             "Arteries": "Superior lateral genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743858",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -284,7 +284,7 @@
     "Superior medial genicular artery": [
         {
             "Arteries": "Superior medial genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745868",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -294,7 +294,7 @@
         },
         {
             "Arteries": "Superior medial genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745868",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -306,7 +306,7 @@
     "Middle genicular artery": [
         {
             "Arteries": "Middle genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746484",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -316,7 +316,7 @@
         },
         {
             "Arteries": "Middle genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746484",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -328,7 +328,7 @@
     "Inferior lateral genicular artery": [
         {
             "Arteries": "Inferior lateral genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743923",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -338,7 +338,7 @@
         },
         {
             "Arteries": "Inferior lateral genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743923",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -350,7 +350,7 @@
     "Inferior medial genicular artery": [
         {
             "Arteries": "Inferior medial genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743543",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -360,7 +360,7 @@
         },
         {
             "Arteries": "Inferior medial genicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743543",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -372,7 +372,7 @@
     "Patellar anastomosis": [
         {
             "Arteries": "Patellar anastomosis",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744660",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -382,7 +382,7 @@
         },
         {
             "Arteries": "Patellar anastomosis",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744660",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -394,7 +394,7 @@
     "Anterior tibial artery": [
         {
             "Arteries": "Anterior tibial artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001537",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -403,7 +403,7 @@
         },
         {
             "Arteries": "Anterior tibial artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001537",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -414,7 +414,7 @@
     "Dorsalis pedis artery": [
         {
             "Arteries": "Dorsalis pedis artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001539",
             "Parent artery": "Anterior tibial artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -423,7 +423,7 @@
         },
         {
             "Arteries": "Dorsalis pedis artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001539",
             "Parent artery": "Anterior tibial artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -434,7 +434,7 @@
     "Lateral tarsal artery": [
         {
             "Arteries": "Lateral tarsal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742961",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -443,7 +443,7 @@
         },
         {
             "Arteries": "Lateral tarsal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742961",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -454,7 +454,7 @@
     "Arcuate artery": [
         {
             "Arteries": "Arcuate artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745825",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -463,7 +463,7 @@
         },
         {
             "Arteries": "Arcuate artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745825",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -474,7 +474,7 @@
     "Dorsal metatarsal arteries": [
         {
             "Arteries": "Dorsal metatarsal arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0035195",
             "Parent artery": "Arcuate artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -483,7 +483,7 @@
         },
         {
             "Arteries": "Dorsal metatarsal arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0035195",
             "Parent artery": "Arcuate artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -494,7 +494,7 @@
     "Dorsal digital arteries of foot": [
         {
             "Arteries": "Dorsal digital arteries of foot",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0006145",
             "Parent artery": "Dorsal metatarsal arteries",
             "Target FTU": [
 				"Dorsal interossei muscles of foot",
@@ -506,7 +506,7 @@
         },
         {
             "Arteries": "Dorsal digital arteries of foot",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0006145",
             "Parent artery": "Dorsal metatarsal arteries",
             "Target FTU": [
 				"Dorsal interossei muscles of foot",
@@ -520,7 +520,7 @@
     "Deep plantar artery": [
         {
             "Arteries": "Deep plantar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742543",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -529,7 +529,7 @@
         },
         {
             "Arteries": "Deep plantar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742543",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -540,7 +540,7 @@
     "Posterior tibial artery": [
         {
             "Arteries": "Posterior tibial artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001538",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -549,7 +549,7 @@
         },
         {
             "Arteries": "Posterior tibial artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001538",
             "Parent artery": "Popliteal artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -560,7 +560,7 @@
     "Calcaneal branches of posterior tibial artery": [
         {
             "Arteries": "Calcaneal branches of posterior tibial artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:71562",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
 				"Adductor hallucis",
@@ -573,7 +573,7 @@
         },
         {
             "Arteries": "Calcaneal branches of posterior tibial artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:71562",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
 				"Adductor hallucis",
@@ -588,7 +588,7 @@
     "Fibular artery": [
         {
             "Arteries": "Fibular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746577",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
 				"Popliteus",
@@ -604,7 +604,7 @@
         },
         {
             "Arteries": "Fibular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746577",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
 				"Popliteus",
@@ -622,7 +622,7 @@
     "Calcaneal branches of fibular artery": [
         {
             "Arteries": "Calcaneal branches of fibular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:44630",
             "Parent artery": "Fibular artery",
             "Target FTU": [
 				"Lateral head of gastrocnemius",
@@ -635,7 +635,7 @@
         },
         {
             "Arteries": "Calcaneal branches of fibular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:44630",
             "Parent artery": "Fibular artery",
             "Target FTU": [
 				"Lateral head of gastrocnemius",
@@ -650,7 +650,7 @@
     "Medial plantar artery": [
         {
             "Arteries": "Medial plantar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001541",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -659,7 +659,7 @@
         },
         {
             "Arteries": "Medial plantar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001541",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -670,7 +670,7 @@
     "Superficial branch of medial plantar artery": [
         {
             "Arteries": "Superficial branch of medial plantar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0749036",
             "Parent artery": "Medial plantar artery",
             "Target FTU": "Skin of medial foot",
             "Laterality": "Right",
@@ -680,7 +680,7 @@
         },
         {
             "Arteries": "Superficial branch of medial plantar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0749036",
             "Parent artery": "Medial plantar artery",
             "Target FTU": "Medial plantar artery",
             "Laterality": "Left",
@@ -691,7 +691,7 @@
     "Lateral plantar artery": [
         {
             "Arteries": "Lateral plantar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746324",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -700,7 +700,7 @@
         },
         {
             "Arteries": "Lateral plantar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746324",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -711,7 +711,7 @@
     "Plantar arch": [
         {
             "Arteries": "Plantar arch",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:43942",
             "Parent artery": "Lateral plantar artery",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -720,7 +720,7 @@
         },
         {
             "Arteries": "Plantar arch",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:43942",
             "Parent artery": "Lateral plantar artery",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -731,7 +731,7 @@
     "Plantar metatarsal arteries": [
         {
             "Arteries": "Plantar metatarsal arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0035195",
             "Parent artery": "Plantar arch",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -740,7 +740,7 @@
         },
         {
             "Arteries": "Plantar metatarsal arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0035195",
             "Parent artery": "Plantar arch",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -751,7 +751,7 @@
     "Perforating branches of plantar metatarsal arteries": [
         {
             "Arteries": "Perforating of plantar metatarsal arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742520",
             "Parent artery": "Plantar metatarsal arteries",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -760,7 +760,7 @@
         },
         {
             "Arteries": "Perforating branches of plantar metatarsal arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742520",
             "Parent artery": "Plantar metatarsal arteries",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -771,7 +771,7 @@
     "Common plantar digital arteries": [
         {
             "Arteries": "Common plantar digital arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0002455",
             "Parent artery": "Plantar metatarsal arteries",
             "Target FTU": "NA",
             "Laterality": "Right",
@@ -780,7 +780,7 @@
         },
         {
             "Arteries": "Common plantar digital arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0002455",
             "Parent artery": "Plantar metatarsal arteries",
             "Target FTU": "NA",
             "Laterality": "Left",
@@ -791,7 +791,7 @@
     "Proper plantar digital arteries": [
         {
             "Arteries": "Proper plantar digital arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0004540",
             "Parent artery": "Common plantar digital arteries",
             "Target FTU": [
 				"Lumbrical muscles of foot",
@@ -799,7 +799,7 @@
 				"Adductor hallucis",
 				"Medial head of flexor hallucis brevis",
 				"Lateral head of flexor hallucis brevis",
-				"Abductor digiti minimi of foot",
+				"Abductor digiti minimi of foot"
 			],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes ",
@@ -808,7 +808,7 @@
         },
         {
             "Arteries": "Proper plantar digital arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0004540",
             "Parent artery": "Common plantar digital arteries",
             "Target FTU": [
 				"Lumbrical muscles of foot",
@@ -816,7 +816,7 @@
 				"Adductor hallucis",
 				"Medial head of flexor hallucis brevis",
 				"Lateral head of flexor hallucis brevis",
-				"Abductor digiti minimi of foot",
+				"Abductor digiti minimi of foot"
 			],
             "Laterality": "Left",
             "Added in FC flatmap": "No ",
@@ -827,7 +827,7 @@
     "Ascending aorta": [
         {
             "Arteries": "Ascending aorta",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001496",
             "Parent artery": "NA",
             "Target FTU": "NA",
             "Laterality": "NA",
@@ -839,7 +839,7 @@
     "Aortic arch": [
         {
             "Arteries": "Aortic arch",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001508",
             "Parent artery": "Ascending aorta",
             "Target FTU": "NA",
             "Laterality": "NA",
@@ -851,7 +851,7 @@
     "Brachiocephalic trunk": [
         {
             "Arteries": "Brachiocephalic trunk",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744963",
             "Parent artery": "Aortic arch",
             "Target FTU": "NA",
             "Laterality": "NA",
@@ -862,7 +862,7 @@
     "Thoracic aorta": [
         {
             "Arteries": "Thoracic aorta",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001515",
             "Parent artery": "Aortic arch",
             "Target FTU": "NA",
             "Laterality": "NA",
@@ -874,7 +874,7 @@
     "Posterior intercostal arteries": [
         {
             "Arteries": "Posterior intercostal arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743226",
             "Parent artery": "Thoracic aorta",
             "Target FTU": [
 				"External intercostals",
@@ -891,7 +891,7 @@
         },
         {
             "Arteries": "Posterior intercostal arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743226",
             "Parent artery": "Thoracic aorta",
             "Target FTU": [
 				"External intercostals",
@@ -911,7 +911,7 @@
     "Subcostal artery": [
         {
             "Arteries": "Subcostal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001561",
             "Parent artery": "Thoracic aorta",
             "Target FTU": [
 				"Quadratus lumborum",
@@ -926,7 +926,7 @@
         },
         {
             "Arteries": "Subcostal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001561",
             "Parent artery": "Thoracic aorta",
             "Target FTU": [
 				"Quadratus lumborum",
@@ -944,7 +944,7 @@
     "Superior phrenic arteries": [
         {
             "Arteries": "Superior phrenic arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0013133",
             "Parent artery": "Thoracic aorta",
             "Target FTU": "Diaphragm",
             "Laterality": "NA",
@@ -956,7 +956,7 @@
     "Abdominal aorta": [
         {
             "Arteries": "Abdominal aorta",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001516",
             "Parent artery": "Thoracic aorta",
             "Target FTU": "NA",
             "Laterality": "NA",
@@ -968,7 +968,7 @@
     "Inferior phrenic artery": [
         {
             "Arteries": "Inferior phrenic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0012255",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "Diaphragm",
             "Laterality": "NA",
@@ -980,7 +980,7 @@
     "Lumbar arteries": [
         {
             "Arteries": "Lumbar arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0006636",
             "Parent artery": "Abdominal aorta",
             "Target FTU": [
 				"Iliocostalis lumborum",
@@ -998,7 +998,7 @@
         },
         {
             "Arteries": "Lumbar arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0006636",
             "Parent artery": "Abdominal aorta",
             "Target FTU": [
 				"Iliocostalis lumborum",
@@ -1019,7 +1019,7 @@
     "Coeliac trunk": [
         {
             "Arteries": "Coeliac trunk",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0006637",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "NA",
             "Laterality": "NA",
@@ -1030,7 +1030,7 @@
     "Left gastric artery": [
         {
             "Arteries": "Left gastric artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001192",
             "Parent artery": "Coeliac trunk",
             "Target FTU": [
 				"Stomach",
@@ -1046,7 +1046,7 @@
     "Splenic artery": [
         {
             "Arteries": "Splenic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001194",
             "Parent artery": "Coeliac trunk",
             "Target FTU": [
 				"Spleen",
@@ -1062,18 +1062,18 @@
     "Common hepatic artery": [
         {
             "Arteries": "Common hepatic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0005436",
             "Parent artery": "Coeliac trunk",
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "NA"
         }
     ],
     "Gastroduodenal artery": [
         {
             "Arteries": "Gastroduodenal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0010132",
             "Parent artery": "Common hepatic artery",
             "Target FTU": [
 				"Stomach",
@@ -1089,7 +1089,7 @@
     "Proper hepatic artery": [
         {
             "Arteries": "Proper hepatic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0015480",
             "Parent artery": "Common hepatic artery",
             "Target FTU": [
 				"Liver",
@@ -1105,7 +1105,7 @@
     "Superior mesenteric artery": [
         {
             "Arteries": "Superior mesentric artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001182",
             "Parent artery": "Abdominal aorta",
             "Target FTU": [
 				"Pancreas",
@@ -1125,7 +1125,7 @@
     "Middle colic artery": [
         {
             "Arteries": "Middle colic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001196",
             "Parent artery": "Superior mesenteric artery",
             "Target FTU": "Transverse colon",
             "Laterality": "NA",
@@ -1138,7 +1138,7 @@
     "Right colic artery": [
         {
             "Arteries": "Right colic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0774820",
             "Parent artery": "Superior mesenteric artery",
             "Target FTU": "Ascending colon",
             "Laterality": "Right",
@@ -1150,7 +1150,7 @@
     "Marginal artery": [
         {
             "Arteries": "Marginal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742315",
             "Parent artery": "Superior mesenteric artery",
             "Target FTU": "nan",
             "Laterality": "nan",
@@ -1162,7 +1162,7 @@
     "Ileocolic artery": [
         {
             "Arteries": "Ileocolic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001197",
             "Parent artery": "Superior mesenteric artery",
             "Target FTU": "NA",
             "Laterality": "NA",
@@ -1174,7 +1174,7 @@
     "Appendicular artery": [
         {
             "Arteries": "Appendicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745208",
             "Parent artery": "Ileocolic artery",
             "Target FTU": "Appendix",
             "Laterality": "NA",
@@ -1186,7 +1186,7 @@
     "Ileal branch of ileocolic artery": [
         {
             "Arteries": "Ileal branch of ileocolic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742399",
             "Parent artery": "Ileocolic artery",
             "Target FTU": [
 				"Ileum",
@@ -1203,7 +1203,7 @@
     "Colic branch of ileocolic artery": [
         {
             "Arteries": "Colic branch of ileocolic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745487",
             "Parent artery": "Ileocolic artery",
             "Target FTU": "Ascending colon",
             "Laterality": "NA",
@@ -1215,7 +1215,7 @@
     "Inferior pancreaticoduodenal artery": [
         {
             "Arteries": "Inferior pancreaticoduodenal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001195",
             "Parent artery": "Superior mesenteric artery",
             "Target FTU": "NA",
             "Laterality": "NA",
@@ -1227,7 +1227,7 @@
     "Anterior inferior pancreaticoduodenal artery": [
         {
             "Arteries": "Anterior inferior pancreaticoduodenal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0747993",
             "Parent artery": "Inferior pancreaticoduodenal artery",
             "Target FTU": [
 				"Pancreas",
@@ -1242,7 +1242,7 @@
     "Inferior mesenteric artery": [
         {
             "Arteries": "Inferior mesentric artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001183",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "NA",
             "Laterality": "NA",
@@ -1253,9 +1253,9 @@
     "Left colic artery": [
         {
             "Arteries": "Left colic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743668",
             "Parent artery": "Inferior mesenteric artery",
-            "Target FTU": "NA"
+            "Target FTU": "NA",
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -1264,7 +1264,7 @@
     "Ascending branch of left colic artery": [
         {
             "Arteries": "Ascending branch of left colic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:14828",
             "Parent artery": "Left colic artery",
             "Target FTU": "Descending colon",
             "Laterality": "NA",
@@ -1276,7 +1276,7 @@
     "Descending branch of left colic artery": [
         {
             "Arteries": "Descending branch of left colic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:14829",
             "Parent artery": "Left colic artery",
             "Target FTU": [
 				"Descending colon",
@@ -1291,7 +1291,7 @@
     "Sigmoid arteries": [
         {
             "Arteries": "Sigmoid arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0035180",
             "Parent artery": "Inferior mesenteric artery",
             "Target FTU": "nan",
             "Laterality": "nan",
@@ -1315,7 +1315,7 @@
     "Left testicular artery ": [
         {
             "Arteries": "Left testicular artery ",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001189",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1327,7 +1327,7 @@
     "Right testicular artery": [
         {
             "Arteries": "Right testicular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001188",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1339,7 +1339,7 @@
     "Left renal artery": [
         {
             "Arteries": "Left renal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001186",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1351,7 +1351,7 @@
     "Inferior suprarenal artery": [
         {
             "Arteries": "Inferior suprarenal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0002056",
             "Parent artery": "Left renal artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1361,7 +1361,7 @@
         },
         {
             "Arteries": "Inferior suprarenal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0002056",
             "Parent artery": "Right renal artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1373,7 +1373,7 @@
     "Anterior branch of renal artery": [
         {
             "Arteries": "Anterior branch of renal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0747080",
             "Parent artery": "Left renal artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1383,7 +1383,7 @@
         },
         {
             "Arteries": "Anterior branch of renal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0747080",
             "Parent artery": "Right renal artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1395,7 +1395,7 @@
     "Posterior branch of renal artery": [
         {
             "Arteries": "Posterior branch of renal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743027",
             "Parent artery": "Left renal artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1405,7 +1405,7 @@
         },
         {
             "Arteries": "Posterior branch of renal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743027",
             "Parent artery": "Right renal artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1417,7 +1417,7 @@
     "Intrarenal arteries of the left kidney": [
         {
             "Arteries": "Intrarenal arteries of the left kidney",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:86337",
             "Parent artery": "Left renal artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1429,7 +1429,7 @@
     "Right renal artery": [
         {
             "Arteries": "Right renal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001185",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1441,7 +1441,7 @@
     "Intrarenal arteries of the right kidney": [
         {
             "Arteries": "Intrarenal arteries of the right kidney",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:86336",
             "Parent artery": "Right renal artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1453,7 +1453,7 @@
     "Aortic bifurcation": [
         {
             "Arteries": "Aortic bifurcation",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744099",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "nan",
@@ -1465,7 +1465,7 @@
     "Median sacral artery": [
         {
             "Arteries": "Median sacral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0005464",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "nan",
             "Laterality": "nan",
@@ -1477,7 +1477,7 @@
     "Common iliac artery": [
         {
             "Arteries": "Common iliac artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001191",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1487,7 +1487,7 @@
         },
         {
             "Arteries": "Common iliac artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001191",
             "Parent artery": "Abdominal aorta",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1499,7 +1499,7 @@
     "External iliac artery": [
         {
             "Arteries": "External iliac artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001308",
             "Parent artery": "Common iliac artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1509,7 +1509,7 @@
         },
         {
             "Arteries": "External iliac artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001308",
             "Parent artery": "Common iliac artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1521,7 +1521,7 @@
     "Inferior epigastric artery": [
         {
             "Arteries": "Inferior epigastric artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001354",
             "Parent artery": "External iliac artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1531,7 +1531,7 @@
         },
         {
             "Arteries": "Inferior epigastric artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001354",
             "Parent artery": "External iliac artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1543,7 +1543,7 @@
     "Internal iliac artery": [
         {
             "Arteries": "Internal iliac artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001309",
             "Parent artery": "Common iliac artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1553,7 +1553,7 @@
         },
         {
             "Arteries": "Internal iliac artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001309",
             "Parent artery": "Common iliac artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1587,7 +1587,7 @@
     "Iliolumbar artery": [
         {
             "Arteries": "Iliolumbar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001313",
             "Parent artery": "Posterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1597,7 +1597,7 @@
         },
         {
             "Arteries": "Iliolumbar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001313",
             "Parent artery": "Posterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1609,7 +1609,7 @@
     "Lumbar branch of iliolumbar artery": [
         {
             "Arteries": "Lumbar branch of iliolumbar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743592",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1619,7 +1619,7 @@
         },
         {
             "Arteries": "Lumbar branch of iliolumbar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743592",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1631,7 +1631,7 @@
     "Spinal branch of iliolumbar artery": [
         {
             "Arteries": "Spinal branch of iliolumbar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0748730",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1641,7 +1641,7 @@
         },
         {
             "Arteries": "Spinal branch of iliolumbar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0748730",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1653,7 +1653,7 @@
     "Iliacus branch of iliolumbar artery": [
         {
             "Arteries": "Iliacus branch of iliolumbar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744226",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1663,7 +1663,7 @@
         },
         {
             "Arteries": "Iliacus branch of iliolumbar artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744226",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1675,7 +1675,7 @@
     "Superior gluteal artery": [
         {
             "Arteries": "Superior gluteal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001315",
             "Parent artery": "Posterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1685,7 +1685,7 @@
         },
         {
             "Arteries": "Superior gluteal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001315",
             "Parent artery": "Posterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1697,7 +1697,7 @@
     "Anterior division of iliac artery": [
         {
             "Arteries": "Anterior division of iliac artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:69797",
             "Parent artery": "Internal iliac artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1707,7 +1707,7 @@
         },
         {
             "Arteries": "Anterior division of iliac artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:69797",
             "Parent artery": "Internal iliac artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1719,7 +1719,7 @@
     "Inferior gluteal artery": [
         {
             "Arteries": "Inferior gluteal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742448",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1729,7 +1729,7 @@
         },
         {
             "Arteries": "Inferior gluteal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742448",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1741,7 +1741,7 @@
     "Internal pudendal artery": [
         {
             "Arteries": "Internal pudendal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0007315",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1751,7 +1751,7 @@
         },
         {
             "Arteries": "Internal pudendal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0007315",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1763,7 +1763,7 @@
     "Dorsal artery of penis": [
         {
             "Arteries": "Dorsal artery of penis",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001340",
             "Parent artery": "Internal pudendal artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1773,7 +1773,7 @@
         },
         {
             "Arteries": "Dorsal artery of penis",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001340",
             "Parent artery": "Internal pudendal artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1785,7 +1785,7 @@
     "Deep artery of penis": [
         {
             "Arteries": "Deep artery of penis",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0008321",
             "Parent artery": "Internal pudendal artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1795,7 +1795,7 @@
         },
         {
             "Arteries": "Deep artery of penis",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0008321",
             "Parent artery": "Internal pudendal artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1807,7 +1807,7 @@
     "Obturator artery": [
         {
             "Arteries": "Obturator artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001314",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1817,7 +1817,7 @@
         },
         {
             "Arteries": "Obturator artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:000131",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -1829,7 +1829,7 @@
     "Right subclavian artery ": [
         {
             "Arteries": "Right subclavian artery ",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001534",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1841,7 +1841,7 @@
     "Vertebral artery": [
         {
             "Arteries": "Vertebral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001535",
             "Parent artery": "Right subclavian artery ",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -1851,7 +1851,7 @@
         },
         {
             "Arteries": "Vertebral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001535",
             "Parent artery": "left subclavian artery ",
             "Target FTU": "nan",
             "Laterality": "Left",
