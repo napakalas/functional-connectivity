@@ -3879,7 +3879,7 @@
     "Insular branches of middle cerebral artery": [
         {
             "Arteries": "Insular branches of middle cerebral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745613",
             "Parent artery": "Middle cerebral artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -3889,7 +3889,7 @@
         },
         {
             "Arteries": "Insular branches of middle cerebral artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745613",
             "Parent artery": "Middle cerebral artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -3923,7 +3923,7 @@
     "Artery of precentral sulcus": [
         {
             "Arteries": "Artery of precentral sulcus",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745891",
             "Parent artery": "Insular branches of middle cerebral artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -3933,7 +3933,7 @@
         },
         {
             "Arteries": "Artery of precentral sulcus",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745891",
             "Parent artery": "Insular branches of middle cerebral artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -3967,7 +3967,7 @@
     "Artery of central sulcus": [
         {
             "Arteries": "Artery of central sulcus",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745823",
             "Parent artery": "Middle cerebral artery (M3-segment)",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -3977,7 +3977,7 @@
         },
         {
             "Arteries": "Artery of central sulcus",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745823",
             "Parent artery": "Middle cerebral artery (M3-segment)",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -3995,7 +3995,7 @@
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
-            "Note": "nan"
+            "Note": "Anterior/posterior parietal arteries exist."
         },
         {
             "Arteries": "Parietal branches of middle cerebral artery",
@@ -4005,7 +4005,7 @@
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No",
-            "Note": "nan"
+            "Note": "Anterior/posterior parietal arteries exist."
         }
     ],
     "Postcentral arterial branch": [
@@ -4033,7 +4033,7 @@
     "Posterior parietal artery": [
         {
             "Arteries": "Posterior parietal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0035222",
             "Parent artery": "Middle cerebral artery (M3-segment)",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4043,7 +4043,7 @@
         },
         {
             "Arteries": "Posterior parietal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0035222",
             "Parent artery": "Middle cerebral artery (M3-segment)",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4055,7 +4055,7 @@
     "Posterior temporal branch": [
         {
             "Arteries": "Posterior temporal branch",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744994",
             "Parent artery": "Middle cerebral artery (M3-segment)",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4065,7 +4065,7 @@
         },
         {
             "Arteries": "Posterior temporal branch",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744994",
             "Parent artery": "Middle cerebral artery (M3-segment)",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4083,7 +4083,7 @@
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
-            "Note": "nan"
+            "Note": "anterior, posterior, middle temporal branches exist"
         },
         {
             "Arteries": "Temporal branches of middle cerebral artery",
@@ -4093,7 +4093,7 @@
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No",
-            "Note": "nan"
+            "Note": "anterior, posterior, middle temporal branches exist"
         }
     ],
     "Temporal occipital branch": [
@@ -4143,7 +4143,7 @@
     "Prefrontal artery": [
         {
             "Arteries": "Prefrontal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743920",
             "Parent artery": "Insular branches of middle cerebral artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4153,7 +4153,7 @@
         },
         {
             "Arteries": "Prefrontal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743920",
             "Parent artery": "Insular branches of middle cerebral artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4165,7 +4165,7 @@
     "Lateral frontobasal artery": [
         {
             "Arteries": "Lateral frontobasal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743336",
             "Parent artery": "Prefrontal artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4175,7 +4175,7 @@
         },
         {
             "Arteries": "Lateral frontobasal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743336",
             "Parent artery": "Prefrontal artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4187,7 +4187,7 @@
     "Proximal lateral striate branches ": [
         {
             "Arteries": "Proximal lateral striate branches ",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746803",
             "Parent artery": "Middle cerebral artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4197,7 +4197,7 @@
         },
         {
             "Arteries": "Proximal lateral striate branches ",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746803",
             "Parent artery": "Middle cerebral artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4209,7 +4209,7 @@
     "Ophthalmic artery": [
         {
             "Arteries": "Ophthalmic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001619",
             "Parent artery": "Internal carotid artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4219,7 +4219,7 @@
         },
         {
             "Arteries": "Ophthalmic artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001619",
             "Parent artery": "Internal carotid artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4231,7 +4231,7 @@
     "Anterior ethmoidal artery": [
         {
             "Arteries": "Anterior ethmoidal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0012318",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4241,7 +4241,7 @@
         },
         {
             "Arteries": "Anterior ethmoidal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0012318",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4253,7 +4253,7 @@
     "Anterior septal branches of anterior ethmoidal artery": [
         {
             "Arteries": "Anterior septal branches of anterior ethmoidal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745330",
             "Parent artery": "Anterior ethmoidal artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4263,7 +4263,7 @@
         },
         {
             "Arteries": "Anterior septal branches of anterior ethmoidal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745330",
             "Parent artery": "Anterior ethmoidal artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4275,7 +4275,7 @@
     "Central retinal artery": [
         {
             "Arteries": "Central retinal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001620",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4285,7 +4285,7 @@
         },
         {
             "Arteries": "Central retinal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001620",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4297,7 +4297,7 @@
     "Lacrimal artery": [
         {
             "Arteries": "Lacrimal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001622",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4307,7 +4307,7 @@
         },
         {
             "Arteries": "Lacrimal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001622",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4319,7 +4319,7 @@
     "Long posterior ciliary arteries": [
         {
             "Arteries": "Long posterior ciliary arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742402",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4329,7 +4329,7 @@
         },
         {
             "Arteries": "Long posterior ciliary arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742402",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4341,7 +4341,7 @@
     "Posterior ethmoidal artery": [
         {
             "Arteries": "Posterior ethmoidal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0012319",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4351,7 +4351,7 @@
         },
         {
             "Arteries": "Posterior ethmoidal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0012319",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4385,7 +4385,7 @@
     "Short posterior ciliary arteries": [
         {
             "Arteries": "Short posterior ciliary arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745836",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4395,7 +4395,7 @@
         },
         {
             "Arteries": "Short posterior ciliary arteries",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745836",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4407,7 +4407,7 @@
     "Supra-orbital artery": [
         {
             "Arteries": "Supra-orbital artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0015160",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4417,7 +4417,7 @@
         },
         {
             "Arteries": "Supra-orbital artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0015160",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4429,7 +4429,7 @@
     "Supratrochlear artery": [
         {
             "Arteries": "Supratrochlear artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746692",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4439,7 +4439,7 @@
         },
         {
             "Arteries": "Supratrochlear artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746692",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4451,7 +4451,7 @@
     "Left common carotid artery": [
         {
             "Arteries": "Left common carotid artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001536",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4463,7 +4463,7 @@
     "Anterior communicating artery": [
         {
             "Arteries": "Anterior communicating artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0006764",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "nan",
@@ -4475,7 +4475,7 @@
     "Posterior communicating artery": [
         {
             "Arteries": "Posterior communicating artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001628",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4485,19 +4485,19 @@
         },
         {
             "Arteries": "Posterior communicating artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001628",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes",
-            "Note": "In the group of the Cerebral arterial circle - Top in th egroup but the posterior communicating artery is a small blood vessel in the brain that connects the internal carotid artery (ICA) to the posterior cerebral artery (PCA). "
+            "Note": "In the group of the Cerebral arterial circle - Top in the group but the posterior communicating artery is a small blood vessel in the brain that connects the internal carotid artery (ICA) to the posterior cerebral artery (PCA). "
         }
     ],
     "Anterior spinal artery": [
         {
             "Arteries": "Anterior spinal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0005431",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4507,7 +4507,7 @@
         },
         {
             "Arteries": "Anterior spinal artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0005431",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4519,7 +4519,7 @@
     "Pulmonary trunk": [
         {
             "Arteries": "Pulmonary trunk",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0002333",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "nan",
@@ -4531,7 +4531,7 @@
     "Bifurcation of pulmonary trunk": [
         {
             "Arteries": "Bifurcation of pulmonary trunk",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742047",
             "Parent artery": "Pulmonary trunk",
             "Target FTU": "nan",
             "Laterality": "nan",
@@ -4543,7 +4543,7 @@
     "Right pulmonary artery": [
         {
             "Arteries": "Right pulmonary artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001651",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4555,7 +4555,7 @@
     "Superior lobar artery of right lung": [
         {
             "Arteries": "Superior lobar artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0746742",
             "Parent artery": "Right pulmonary artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4567,7 +4567,7 @@
     "Apical segmental artery of right lung": [
         {
             "Arteries": "Apical segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8617",
             "Parent artery": "Superior lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4579,7 +4579,7 @@
     "Anterior segmental artery of right lung": [
         {
             "Arteries": "Anterior segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8620",
             "Parent artery": "Superior lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4591,7 +4591,7 @@
     "Posterior segmental artery of right lung": [
         {
             "Arteries": "Posterior segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8619",
             "Parent artery": "Superior lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4603,7 +4603,7 @@
     "Middle lobar artery of right lung": [
         {
             "Arteries": "Middle lobar artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745810",
             "Parent artery": "Right pulmonary artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4615,7 +4615,7 @@
     "Medial segmental artery of right lung": [
         {
             "Arteries": "Medial segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0745176",
             "Parent artery": "Middle lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4627,7 +4627,7 @@
     "Lateral segmental artery of right lung": [
         {
             "Arteries": "Lateral segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0748722",
             "Parent artery": "Middle lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4639,7 +4639,7 @@
     "Inferior lobar artery of right lung": [
         {
             "Arteries": "Inferior lobar artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0748221",
             "Parent artery": "Right pulmonary artery",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4651,7 +4651,7 @@
     "Superior segmental artery of right lung": [
         {
             "Arteries": "Superior segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0747971",
             "Parent artery": "Inferior lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4663,7 +4663,7 @@
     "Anterior basal segmental artery of right lung": [
         {
             "Arteries": "Anterior basal segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8630",
             "Parent artery": "Inferior lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4675,7 +4675,7 @@
     "Lateral basal segmental artery of right lung": [
         {
             "Arteries": "Lateral basal segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8631",
             "Parent artery": "Inferior lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4687,7 +4687,7 @@
     "Medial basal segmental artery of right lung": [
         {
             "Arteries": "Medial basal segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8628",
             "Parent artery": "Inferior lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4699,7 +4699,7 @@
     "Posterior basal segmental artery of right lung": [
         {
             "Arteries": "Posterior basal segmental artery of right lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8632",
             "Parent artery": "Inferior lobar artery of right lung",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4711,7 +4711,7 @@
     "Left pulmonary artery": [
         {
             "Arteries": "Left pulmonary artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001652",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4735,7 +4735,7 @@
     "Apical segmental artery of left lung": [
         {
             "Arteries": "Apical segmental artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0748629",
             "Parent artery": "Superior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4747,7 +4747,7 @@
     "Anterior segmental artery of left lung": [
         {
             "Arteries": "Anterior segmental artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:13279",
             "Parent artery": "Superior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4759,7 +4759,7 @@
     "Posterior segmental artery of left lung": [
         {
             "Arteries": "Posterior segmental artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8635",
             "Parent artery": "Superior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4771,7 +4771,7 @@
     "Inferior lingular artery of left lung": [
         {
             "Arteries": "Inferior lingular artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0744343",
             "Parent artery": "Superior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4783,7 +4783,7 @@
     "Superior lingular artery of left lung": [
         {
             "Arteries": "Superior lingular artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743458",
             "Parent artery": "Superior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4795,7 +4795,7 @@
     "Inferior lobar artery of left lung": [
         {
             "Arteries": "Inferior lobar artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742642",
             "Parent artery": "Right pulmonary artery",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4807,7 +4807,7 @@
     "Superior segmental artery of left lung": [
         {
             "Arteries": "Superior segmental artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0742452",
             "Parent artery": "Inferior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4819,7 +4819,7 @@
     "Anterior basal segmental artery of left lung": [
         {
             "Arteries": "Anterior basal segmental artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8645",
             "Parent artery": "Inferior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4831,7 +4831,7 @@
     "Lateral basal segmental artery of left lung": [
         {
             "Arteries": "Lateral basal segmental artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8646",
             "Parent artery": "Inferior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4843,7 +4843,7 @@
     "Madial basal segmental artery of left lung": [
         {
             "Arteries": "Madial basal segmental artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8644",
             "Parent artery": "Inferior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4855,7 +4855,7 @@
     "Posterior basal segmental artery of left lung": [
         {
             "Arteries": "Posterior basal segmental artery of left lung",
-            "Ontology ID": "nan",
+            "Ontology ID": "FMA:8647",
             "Parent artery": "Inferior lobar artery of left lung",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4867,7 +4867,7 @@
     "Right coronary artery": [
         {
             "Arteries": "Right coronary artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001625",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Right",
@@ -4891,7 +4891,7 @@
     "Left coronary artery": [
         {
             "Arteries": "Left coronary artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "UBERON:0001626",
             "Parent artery": "nan",
             "Target FTU": "nan",
             "Laterality": "Left",
@@ -4903,7 +4903,7 @@
     "Anterior interventricular artery": [
         {
             "Arteries": "Anterior interventricular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0743606",
             "Parent artery": "Left coronary artery",
             "Target FTU": "nan",
             "Laterality": "nan",
@@ -4915,7 +4915,7 @@
     "Septal branches of anterior interventricular artery": [
         {
             "Arteries": "Septal branches of anterior interventricular artery",
-            "Ontology ID": "nan",
+            "Ontology ID": "ILX:0774036",
             "Parent artery": "Anterior interventricular artery",
             "Target FTU": "nan",
             "Laterality": "nan",
@@ -4924,9 +4924,9 @@
             "Note": "nan"
         }
     ],
-    "Circumflex srtey of heart": [
+    "Circumflex artery of heart": [
         {
-            "Arteries": "Circumflex srtey of heart",
+            "Arteries": "Circumflex artery of heart",
             "Ontology ID": "nan",
             "Parent artery": "Left coronary artery",
             "Target FTU": "nan",
