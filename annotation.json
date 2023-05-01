@@ -8851,7 +8851,7 @@
         },
         {
             "Nerve Name": "Inferior cervical cardiac branch of vagus nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0788259",
             "Label": "Inferior cervical cardiac branch of vagus nerve",
             "Correct?": "Yes",
@@ -8884,7 +8884,7 @@
         },
         {
             "Nerve Name": "Inferior hypogastric pl.",
-            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -9253,7 +9253,7 @@
         },
         {
             "Nerve Name": "Lower branch of internal laryngeal nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0785556",
             "Label": "Lower branch of internal laryngeal nerve",
             "Correct?": "Yes",
@@ -9559,7 +9559,7 @@
         },
         {
             "Nerve Name": "Posterior cervical cardiac branch of vagus nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": "",
             "Correct?": "",
@@ -9609,7 +9609,7 @@
         },
         {
             "Nerve Name": "Pulmonary branches of vagus nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0789095",
             "Label": "Pulmonary branch of vagus nerve",
             "Correct?": "Yes",
@@ -9620,7 +9620,7 @@
         },
         {
             "Nerve Name": "Pulmonary plexus",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0002009",
             "Label": "pulmonary nerve plexus",
             "Correct?": "Yes",
@@ -9688,7 +9688,7 @@
         },
         {
             "Nerve Name": "Renal plexus",
-            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -9953,7 +9953,7 @@
         },
         {
             "Nerve Name": "Superior hypogastric pl.",
-            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -10345,7 +10345,7 @@
         },
         {
             "Nerve Name": "Tracheal branch of recurrent laryngeal nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0793070",
             "Label": "Tracheal branch of recurrent laryngeal nerve",
             "Correct?": "Yes",
@@ -10389,7 +10389,7 @@
         },
         {
             "Nerve Name": "Upper branch of internal laryngeal nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0789613",
             "Label": "Upper branch of internal laryngeal nerve",
             "Correct?": "Yes",
@@ -10450,7 +10450,7 @@
         },
         {
             "Nerve Name": "Ventricular ICG",
-            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
