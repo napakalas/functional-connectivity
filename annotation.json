@@ -8087,7 +8087,7 @@
             "Unnamed: 8": "KB - yeah if you search AON olfactory cortex the label name comes up so model is correct"
         },
         {
-            "Nerve Name": "Aortic depressor n.",
+            "Nerve Name": "Aortic depressor nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0738312",
             "Label": "Aortic arch depressor nerve",
@@ -8098,7 +8098,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Aorticorenal g.",
+            "Nerve Name": "Aorticorenal ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0740412",
             "Label": "Aorticorenal ganglion (swannt)",
@@ -8137,7 +8137,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "auriculotemporal n.",
+            "Nerve Name": "auriculotemporal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0793723",
             "Label": "Auriculotemporal nerve",
@@ -8148,7 +8148,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Bladder n.",
+            "Nerve Name": "Bladder nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0793559",
             "Label": "bladder nerve",
@@ -8409,14 +8409,14 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Celiac g.",
+            "Nerve Name": "Celiac ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "Celiac g.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Celiac ganglion",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0002262",
             "Label": "celiac ganglion",
             "Correct?": "Yes",
@@ -8454,8 +8454,8 @@
             "Unnamed: 8": "KB - again, another assumption that it is just the general cervical cardiac branch of the vagus nerve. probably better to follow that assumption instead of putting only part of the branch (i.e. superior/inferior). Andre to confirm?\nAG - Same as for row 27. My bad, I should have gone back to my notes once I realised column A was about nerve names!"
         },
         {
-            "Nerve Name": "Cervico-thoracic g.",
-            "Organ/System": "Paravertebral g.",
+            "Nerve Name": "Cervico-thoracic ganglion",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "UBERON:0002441",
             "Label": "cervicothoracic ganglion",
             "Correct?": "Yes",
@@ -8465,7 +8465,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Chorda tympani n.",
+            "Nerve Name": "Chorda tympani nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0009675",
             "Label": "chorda tympani branch of facial nerve",
@@ -8487,7 +8487,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Cochlear g.",
+            "Nerve Name": "Cochlear ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0000395",
             "Label": "cochlear ganglion",
@@ -8498,7 +8498,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Cochlear n.",
+            "Nerve Name": "Cochlear nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0004727",
             "Label": "cochlear nerve",
@@ -8734,7 +8734,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Geniculate g.",
+            "Nerve Name": "Geniculate ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001700",
             "Label": "geniculate ganglion",
@@ -8762,7 +8762,7 @@
             "Label": ""
         },
         {
-            "Nerve Name": "Greater splanchnic n.",
+            "Nerve Name": "Greater splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018680",
             "Label": "greater splanchnic nerve",
@@ -8795,7 +8795,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Hypogastric n.",
+            "Nerve Name": "Hypogastric nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0005303",
             "Label": "hypogastric nerve",
@@ -8806,7 +8806,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "II. Optic n.",
+            "Nerve Name": "II. Optic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0743421",
             "Label": "optic nerve (TA98)",
@@ -8839,7 +8839,7 @@
             "Unnamed: 8": "KB - inferior ganglion of the glossopharyngeal nerve. also known as petrosal ganglion so model is correct"
         },
         {
-            "Nerve Name": "Inf. mes. g.",
+            "Nerve Name": "Inf. mes. ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0005453",
             "Label": "inferior mesenteric ganglion",
@@ -8890,7 +8890,7 @@
         },
         {
             "Nerve Name": "Inferior hypogastric plexus",
-            "Organ/System": "Prevertebral g.",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0002014",
             "Label": "inferior hypogastric nerve plexus",
             "Correct?": "",
@@ -8900,8 +8900,8 @@
             "Unnamed: 8": "KB - model is correct, agree that another duplicate"
         },
         {
-            "Nerve Name": "Inferior mesenteric g.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Inferior mesenteric ganglion",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0005453",
             "Label": "inferior mesenteric ganglion",
             "Correct?": "Yes",
@@ -9003,7 +9003,7 @@
         },
         {
             "Nerve Name": "L1pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0785692",
             "Label": "First lumbar ganglion",
             "Correct?": "",
@@ -9032,7 +9032,7 @@
         },
         {
             "Nerve Name": "L2pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0786933",
             "Label": "Second lumbar ganglion",
             "Correct?": "",
@@ -9061,7 +9061,7 @@
         },
         {
             "Nerve Name": "L3pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0788315",
             "Label": "Third lumbar ganglion",
             "Correct?": "",
@@ -9090,7 +9090,7 @@
         },
         {
             "Nerve Name": "L4pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0790472",
             "Label": "Fourth lumbar ganglion",
             "Correct?": "",
@@ -9119,7 +9119,7 @@
         },
         {
             "Nerve Name": "L5pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0739296",
             "Label": "fifth lumbar sympathetic ganglion",
             "Correct?": "",
@@ -9148,7 +9148,7 @@
         },
         {
             "Nerve Name": "L6pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0739297",
             "Label": "sixth lumbar sympathetic ganglion",
             "Correct?": "",
@@ -9158,14 +9158,14 @@
             "Unnamed: 8": "KB - sixth lumbar sympathetic ganglion ILX:0739297"
         },
         {
-            "Nerve Name": "Least splanchnic n.",
+            "Nerve Name": "Least splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "Least splanchnic n.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Least splanchnic nerve",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0001964",
             "Label": "least splanchnic nerve",
             "Correct?": "Yes",
@@ -9186,7 +9186,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Lesser petrosal n.",
+            "Nerve Name": "Lesser petrosal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0793722",
             "Label": "Lesser petrosal nerve",
@@ -9197,8 +9197,8 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Lesser splanchnic n.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Lesser splanchnic nerve",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0018681",
             "Label": "lesser splanchnic nerve",
             "Correct?": "Yes",
@@ -9241,7 +9241,7 @@
             "Unnamed: 8": "KB - agree with Zohreh, we should put ILX:0791434"
         },
         {
-            "Nerve Name": "Lingual n.",
+            "Nerve Name": "Lingual nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0003721",
             "Label": "lingual nerve",
@@ -9274,7 +9274,7 @@
             "Unnamed: 8": "KB - if LPOA and LPN are synonymous then model is correct right?"
         },
         {
-            "Nerve Name": "Lumbar splanchnic n.",
+            "Nerve Name": "Lumbar splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018683",
             "Label": "lumbar splanchnic nerve",
@@ -9296,7 +9296,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Maxillary n. (CN V2)",
+            "Nerve Name": "Maxillary nerve (CN V2)",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0000377",
             "Label": "maxillary nerve",
@@ -9308,7 +9308,7 @@
         },
         {
             "Nerve Name": "MCG",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "UBERON:0001990",
             "Label": "middle cervical ganglion",
             "Correct?": "",
@@ -9318,7 +9318,7 @@
             "Unnamed: 8": "KB - yup it does"
         },
         {
-            "Nerve Name": "Mediastinal g.",
+            "Nerve Name": "Mediastinal ganglion",
             "Organ/System": "",
             "Models": "ILX:0793557",
             "Label": "mediastinal ganglion",
@@ -9329,7 +9329,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Mediastinal g.",
+            "Nerve Name": "Mediastinal ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
@@ -9419,7 +9419,7 @@
             "Unnamed: 8": "KB - olfactory tubercle UBERON:0001883"
         },
         {
-            "Nerve Name": "Otic g.",
+            "Nerve Name": "Otic ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0003963",
             "Label": "otic ganglion",
@@ -9441,13 +9441,13 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Paravertebral g.",
+            "Nerve Name": "Paravertebral ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "Pelvic g.",
+            "Nerve Name": "Pelvic ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0016508",
             "Label": "pelvic ganglion",
@@ -9469,7 +9469,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Pelvic splanch. n.",
+            "Nerve Name": "Pelvic splanch. nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018675",
             "Label": "pelvic splanchnic nerve",
@@ -9480,7 +9480,7 @@
             "Unnamed: 8": "KB - model is right. agree its a duplicate"
         },
         {
-            "Nerve Name": "Pelvic splanchnic n.",
+            "Nerve Name": "Pelvic splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018675",
             "Label": "pelvic splanchnic nerve",
@@ -9491,7 +9491,7 @@
             "Unnamed: 8": "KB - model is right. agree its a duplicate"
         },
         {
-            "Nerve Name": "Penis dorsal n.",
+            "Nerve Name": "Penis dorsal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0019197",
             "Label": "dorsal nerve of penis",
@@ -9580,13 +9580,13 @@
             "Unnamed: 8": "KB - im certain model is correct. synonyms also list posterior vagus x nerve trunk"
         },
         {
-            "Nerve Name": "Prevertebral g.",
+            "Nerve Name": "Prevertebral ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "Pterygopalatine g.",
+            "Nerve Name": "Pterygopalatine ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0003962",
             "Label": "pterygopalatine ganglion",
@@ -9597,7 +9597,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Pudendal n.",
+            "Nerve Name": "Pudendal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0011390",
             "Label": "pudendal nerve",
@@ -9712,7 +9712,7 @@
         },
         {
             "Nerve Name": "S1pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0789109",
             "Label": "First sacral ganglion",
             "Correct?": "",
@@ -9741,7 +9741,7 @@
         },
         {
             "Nerve Name": "S2pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0789655",
             "Label": "Second sacral ganglion ",
             "Correct?": "",
@@ -9770,7 +9770,7 @@
         },
         {
             "Nerve Name": "S3pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0790394",
             "Label": "Third sacral ganglion",
             "Correct?": "",
@@ -9798,7 +9798,7 @@
         },
         {
             "Nerve Name": "S4pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0786049",
             "Label": "Fourth sacral ganglion",
             "Correct?": "",
@@ -9808,7 +9808,7 @@
             "Unnamed: 8": "KB - agree"
         },
         {
-            "Nerve Name": "Sacral splanchnic n.",
+            "Nerve Name": "Sacral splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018684",
             "Label": "sacral splanchnic nerve",
@@ -9831,7 +9831,7 @@
         },
         {
             "Nerve Name": "SCG",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "UBERON:0001989",
             "Label": "superior cervical ganglion",
             "Correct?": "",
@@ -9859,7 +9859,7 @@
         },
         {
             "Nerve Name": "Stellate/ICG",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "UBERON:0002440",
             "Label": "inferior cervical ganglion",
             "Correct?": "",
@@ -9869,7 +9869,7 @@
             "Unnamed: 8": "KB - the stellate ganglion UBERON:0002440. also known as inferior cervical ganglion. probably should change name. ZE: It again\"hasrelatedSynonym\". Are they both the same, then? KB - yup they are the same"
         },
         {
-            "Nerve Name": "Submandibular g.",
+            "Nerve Name": "Submandibular ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0002059",
             "Label": "submandibular ganglion",
@@ -9980,8 +9980,8 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Superior mesenteric g.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Superior mesenteric ganglion",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0005479",
             "Label": "superior mesenteric ganglion",
             "Correct?": "Yes",
@@ -10028,7 +10028,7 @@
         },
         {
             "Nerve Name": "T10pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738343",
             "Label": "T10 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10057,7 +10057,7 @@
         },
         {
             "Nerve Name": "T11pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738344",
             "Label": "T11 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10085,7 +10085,7 @@
         },
         {
             "Nerve Name": "T12pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738345",
             "Label": "T12 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10114,7 +10114,7 @@
         },
         {
             "Nerve Name": "T2pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738346",
             "Label": "T2 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10143,7 +10143,7 @@
         },
         {
             "Nerve Name": "T3pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738347",
             "Label": "T3 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10172,7 +10172,7 @@
         },
         {
             "Nerve Name": "T4pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738348",
             "Label": "T4 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10201,7 +10201,7 @@
         },
         {
             "Nerve Name": "T5pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738349",
             "Label": "T5 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10230,7 +10230,7 @@
         },
         {
             "Nerve Name": "T6pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738350",
             "Label": "T6 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10259,7 +10259,7 @@
         },
         {
             "Nerve Name": "T7pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738351",
             "Label": "T7 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10288,7 +10288,7 @@
         },
         {
             "Nerve Name": "T8pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738352",
             "Label": "T8 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10317,7 +10317,7 @@
         },
         {
             "Nerve Name": "T9pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738353",
             "Label": "T9 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10355,14 +10355,14 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Trigeminal nerve g.",
+            "Nerve Name": "Trigeminal nerve ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001675",
             "Label": "trigeminal ganglion",
             "Correct?": "",
             "Confirmed by": "",
             "Checked by": "KB",
-            "Unnamed: 7": "ZE: Not sure if nerve g. refers to nerve or ganglion.",
+            "Unnamed: 7": "ZE: Not sure if nerve ganglion refers to nerve or ganglion.",
             "Unnamed: 8": "KB - i assume its not referring to the nerve because the trigeminial nerve is already listed below. and a ganglion is a collection of nerve cells so i assume its ganglion...? ZE: Not sure if it refers to nerve or ganglion? KB - most likely nerve"
         },
         {
@@ -10377,7 +10377,7 @@
             "Unnamed: 8": "KB - TSN = tractus solitarius nucleus. repeat of 95"
         },
         {
-            "Nerve Name": "Tympanic n.",
+            "Nerve Name": "Tympanic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0036216",
             "Label": "tympanic nerve",
@@ -10399,7 +10399,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Uterine cervical g.",
+            "Nerve Name": "Uterine cervical ganglion",
             "Organ/System": "",
             "Models": "ILX:0740224",
             "Label": "Uterine cervical ganglion",
@@ -10410,13 +10410,13 @@
             "Unnamed: 8": "KB - uterine cervical ganlion ILX:0740224 "
         },
         {
-            "Nerve Name": "Uterine cervical g.",
+            "Nerve Name": "Uterine cervical ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "V. Trigeminal n.",
+            "Nerve Name": "V. Trigeminal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001645",
             "Label": "trigeminal nerve",
@@ -10455,25 +10455,25 @@
             "Label": ""
         },
         {
-            "Nerve Name": "Vestibular g.",
+            "Nerve Name": "Vestibular ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0002824",
             "Label": "Vestibular ganglion",
             "Correct?": "",
             "Confirmed by": "",
             "Checked by": "KB",
-            "Unnamed: 7": "ZE: it is correct if g. refers to ganglion.",
+            "Unnamed: 7": "ZE: it is correct if ganglion refers to ganglion.",
             "Unnamed: 8": "KB - i think it does. dont think it can be gland because thats not in brain?"
         },
         {
-            "Nerve Name": "Vestibular n.",
+            "Nerve Name": "Vestibular nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0003723",
             "Label": "vestibular nerve",
             "Correct?": "",
             "Confirmed by": "",
             "Checked by": "KB",
-            "Unnamed: 7": "ZE: it is correct if n. refers to nerve.",
+            "Unnamed: 7": "ZE: it is correct if nerve refers to nerve.",
             "Unnamed: 8": "KB - most likely to be nerve, considering its part of nervous system. but there is also vestibular nucleus UBERON:0007228 which is a cranial nucleus so is it nerve or nuclues? ZE: not sure if it is nerve or nucleus. KB - most likely to be nerve."
         },
         {
@@ -10488,7 +10488,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "VII . Facial n.",
+            "Nerve Name": "VII . Facial nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001647",
             "Label": "facial nerve",
@@ -10499,7 +10499,7 @@
             "Unnamed: 8": "KB - duplicate term"
         },
         {
-            "Nerve Name": "VII. Facial n.",
+            "Nerve Name": "VII. Facial nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001647",
             "Label": "facial nerve",
