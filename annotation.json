@@ -8087,7 +8087,7 @@
             "Unnamed: 8": "KB - yeah if you search AON olfactory cortex the label name comes up so model is correct"
         },
         {
-            "Nerve Name": "Aortic depressor n.",
+            "Nerve Name": "Aortic depressor nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0738312",
             "Label": "Aortic arch depressor nerve",
@@ -8098,7 +8098,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Aorticorenal g.",
+            "Nerve Name": "Aorticorenal ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0740412",
             "Label": "Aorticorenal ganglion (swannt)",
@@ -8137,7 +8137,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "auriculotemporal n.",
+            "Nerve Name": "auriculotemporal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0793723",
             "Label": "Auriculotemporal nerve",
@@ -8148,7 +8148,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Bladder n.",
+            "Nerve Name": "Bladder nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0793559",
             "Label": "bladder nerve",
@@ -8354,6 +8354,12 @@
         },
         {
             "Nerve Name": "Carotid body",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "Carotid body",
             "Organ/System": "CARDIORESPIRATORY SYSTEM",
             "Models": "",
             "Label": ""
@@ -8368,6 +8374,12 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - There are different types of \"carotid plexus\": e.g., common, internal, external. Also, there are both \"Common carotid plexus (swannt)\" (ILX:0740661) and \"common carotid plexus (TA98)\" (ILX:0745318).",
             "Unnamed: 8": "KB - i think because there is no specification its safe to go with common (unless there is meant to be some specification). and dont think the TA98/swannt issue matters - Andre to confirm\nAG - Flagging it for David/Andre."
+        },
+        {
+            "Nerve Name": "Carotid sinus",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "Carotid sinus",
@@ -8409,14 +8421,14 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Celiac g.",
+            "Nerve Name": "Celiac ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "Celiac g.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Celiac ganglion",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0002262",
             "Label": "celiac ganglion",
             "Correct?": "Yes",
@@ -8454,8 +8466,8 @@
             "Unnamed: 8": "KB - again, another assumption that it is just the general cervical cardiac branch of the vagus nerve. probably better to follow that assumption instead of putting only part of the branch (i.e. superior/inferior). Andre to confirm?\nAG - Same as for row 27. My bad, I should have gone back to my notes once I realised column A was about nerve names!"
         },
         {
-            "Nerve Name": "Cervico-thoracic g.",
-            "Organ/System": "Paravertebral g.",
+            "Nerve Name": "Cervico-thoracic ganglion",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "UBERON:0002441",
             "Label": "cervicothoracic ganglion",
             "Correct?": "Yes",
@@ -8465,7 +8477,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Chorda tympani n.",
+            "Nerve Name": "Chorda tympani nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0009675",
             "Label": "chorda tympani branch of facial nerve",
@@ -8487,7 +8499,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Cochlear g.",
+            "Nerve Name": "Cochlear ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0000395",
             "Label": "cochlear ganglion",
@@ -8498,7 +8510,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Cochlear n.",
+            "Nerve Name": "Cochlear nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0004727",
             "Label": "cochlear nerve",
@@ -8734,7 +8746,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Geniculate g.",
+            "Nerve Name": "Geniculate ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001700",
             "Label": "geniculate ganglion",
@@ -8762,7 +8774,7 @@
             "Label": ""
         },
         {
-            "Nerve Name": "Greater splanchnic n.",
+            "Nerve Name": "Greater splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018680",
             "Label": "greater splanchnic nerve",
@@ -8795,7 +8807,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Hypogastric n.",
+            "Nerve Name": "Hypogastric nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0005303",
             "Label": "hypogastric nerve",
@@ -8806,7 +8818,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "II. Optic n.",
+            "Nerve Name": "II. Optic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0743421",
             "Label": "optic nerve (TA98)",
@@ -8839,7 +8851,7 @@
             "Unnamed: 8": "KB - inferior ganglion of the glossopharyngeal nerve. also known as petrosal ganglion so model is correct"
         },
         {
-            "Nerve Name": "Inf. mes. g.",
+            "Nerve Name": "Inf. mes. ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0005453",
             "Label": "inferior mesenteric ganglion",
@@ -8851,7 +8863,7 @@
         },
         {
             "Nerve Name": "Inferior cervical cardiac branch of vagus nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0788259",
             "Label": "Inferior cervical cardiac branch of vagus nerve",
             "Correct?": "Yes",
@@ -8884,13 +8896,13 @@
         },
         {
             "Nerve Name": "Inferior hypogastric pl.",
-            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Inferior hypogastric plexus",
-            "Organ/System": "Prevertebral g.",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0002014",
             "Label": "inferior hypogastric nerve plexus",
             "Correct?": "",
@@ -8900,8 +8912,8 @@
             "Unnamed: 8": "KB - model is correct, agree that another duplicate"
         },
         {
-            "Nerve Name": "Inferior mesenteric g.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Inferior mesenteric ganglion",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0005453",
             "Label": "inferior mesenteric ganglion",
             "Correct?": "Yes",
@@ -9003,7 +9015,7 @@
         },
         {
             "Nerve Name": "L1pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0785692",
             "Label": "First lumbar ganglion",
             "Correct?": "",
@@ -9032,7 +9044,7 @@
         },
         {
             "Nerve Name": "L2pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0786933",
             "Label": "Second lumbar ganglion",
             "Correct?": "",
@@ -9061,7 +9073,7 @@
         },
         {
             "Nerve Name": "L3pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0788315",
             "Label": "Third lumbar ganglion",
             "Correct?": "",
@@ -9090,7 +9102,7 @@
         },
         {
             "Nerve Name": "L4pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0790472",
             "Label": "Fourth lumbar ganglion",
             "Correct?": "",
@@ -9119,7 +9131,7 @@
         },
         {
             "Nerve Name": "L5pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0739296",
             "Label": "fifth lumbar sympathetic ganglion",
             "Correct?": "",
@@ -9148,7 +9160,7 @@
         },
         {
             "Nerve Name": "L6pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0739297",
             "Label": "sixth lumbar sympathetic ganglion",
             "Correct?": "",
@@ -9158,14 +9170,14 @@
             "Unnamed: 8": "KB - sixth lumbar sympathetic ganglion ILX:0739297"
         },
         {
-            "Nerve Name": "Least splanchnic n.",
+            "Nerve Name": "Least splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "Least splanchnic n.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Least splanchnic nerve",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0001964",
             "Label": "least splanchnic nerve",
             "Correct?": "Yes",
@@ -9186,7 +9198,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Lesser petrosal n.",
+            "Nerve Name": "Lesser petrosal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0793722",
             "Label": "Lesser petrosal nerve",
@@ -9197,8 +9209,8 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Lesser splanchnic n.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Lesser splanchnic nerve",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0018681",
             "Label": "lesser splanchnic nerve",
             "Correct?": "Yes",
@@ -9241,7 +9253,7 @@
             "Unnamed: 8": "KB - agree with Zohreh, we should put ILX:0791434"
         },
         {
-            "Nerve Name": "Lingual n.",
+            "Nerve Name": "Lingual nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0003721",
             "Label": "lingual nerve",
@@ -9253,7 +9265,7 @@
         },
         {
             "Nerve Name": "Lower branch of internal laryngeal nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0785556",
             "Label": "Lower branch of internal laryngeal nerve",
             "Correct?": "Yes",
@@ -9274,7 +9286,7 @@
             "Unnamed: 8": "KB - if LPOA and LPN are synonymous then model is correct right?"
         },
         {
-            "Nerve Name": "Lumbar splanchnic n.",
+            "Nerve Name": "Lumbar splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018683",
             "Label": "lumbar splanchnic nerve",
@@ -9296,7 +9308,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Maxillary n. (CN V2)",
+            "Nerve Name": "Maxillary nerve (CN V2)",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0000377",
             "Label": "maxillary nerve",
@@ -9308,7 +9320,7 @@
         },
         {
             "Nerve Name": "MCG",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "UBERON:0001990",
             "Label": "middle cervical ganglion",
             "Correct?": "",
@@ -9318,7 +9330,7 @@
             "Unnamed: 8": "KB - yup it does"
         },
         {
-            "Nerve Name": "Mediastinal g.",
+            "Nerve Name": "Mediastinal ganglion",
             "Organ/System": "",
             "Models": "ILX:0793557",
             "Label": "mediastinal ganglion",
@@ -9329,7 +9341,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Mediastinal g.",
+            "Nerve Name": "Mediastinal ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
@@ -9367,6 +9379,2088 @@
             "Checked by": "KB",
             "Unnamed: 7": "AG - I am assuming that the nerve name stands for the label name.",
             "Unnamed: 8": "KB - yup it does"
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "10th Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "11th Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "12th Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "1st Metacarpal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "1st Metatarsal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "1st Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "2nd Metacarpal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "2nd Metatarsal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "2nd Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "3rd Metacarpal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "3rd Metatarsal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "3rd Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "4th Metacarpal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "4th Metatarsal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "4th Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "5th Metacarpal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "5th Metatarsal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "5th Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "6th Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "7th Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "8th Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "9th Rib",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Abductor digiti minimi",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Abductor hallucis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Abductor pollicis brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Abductor pollicis longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Adductor brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Adductor hallucis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Adductor longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Adductor magnus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Adductor pollicis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Anconeus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Articularis genus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Arytenoid - oblique",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Arytenoid - transverse",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Auricularis anterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Auricularis posterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Auricularis superior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Biceps brachii",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Biceps femoris long",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Biceps femoris short",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Brachialis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Brachioradialis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Buccinator",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Bulbospongiosus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "C1 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "C2 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "C3 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "C4 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "C5 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "C6 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "C7 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Calcaneus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Capitate bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Ceratocricoid ligament",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Chondroglossus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Clavicle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Coccygeus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Coccyx",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Coracobrachialis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Corrugator supercilii",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Cricothyroid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Cuboid bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Deep transverse perineal muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Deltoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Depressor anguli oris (triangularis)",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Depressor labii inferioris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Depressor septi nasi",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Depressor supercilii",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Digastricus anterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Digastricus posterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Distal Phalanges",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Dorsal interossei I",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Dorsal interossei II",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Dorsal interossei III",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Dorsal interossei IV",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Ethmoid bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor carpi radialis brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor carpi radialis longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor carpi ulnaris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor digiti minimi",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor digitorum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor digitorum brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor digitorum longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor hallucis brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor hallucis longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor indicis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor pollicis brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Extensor pollicis longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "External oblique",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Femur",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Fibula",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Fibularis brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Fibularis longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Fibularis tertius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor carpi radialis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor carpi ulnaris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor digiti minimi brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor digitorum brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor digitorum longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor digitorum profundus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor digitorum superficialis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor hallucis brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor hallucis longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor pollicis brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Flexor pollicis longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Frontal bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Frontalis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Gastrocnemius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Genioglossus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Geniohyoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Gluteus maximus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Gluteus medius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Gluteus minimus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Gracilis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Guadratus femoris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Hamate bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Hip bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Humerus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Hyoglossus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Hyoid bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Iliacus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Iliococcygeus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Iliocostalis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Incus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Inferior gemellus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Inferior longitudinal muscle of tongue",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Inferior oblique muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Inferior pharyngeal constrictor muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Inferior rectus muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Infraspinatus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Intercostals - external",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Intercostals - innermost",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Intercostals - internal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Intermediate Cuneiform bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Intermediate Phalanges",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Internal oblique",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Interspinales",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Intertransversarii",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Ischiocavernosus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "L1 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "L2 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "L3 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "L4 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "L5 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lacrimal bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lateral cricoarytenoid muscles",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lateral Cuneiform bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lateral pterygoid muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lateral rectus muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Latissimus dorsi",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Levator anguli oris (caninus)",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Levator labii superioris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Levator labii superioris alaeque nasi",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Levator palpebrae superioris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Levator scapulae",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Levator veli palatini",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Levatores costarum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Longissimus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Longissimus capitis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Longus capitis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Longus colli inferior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Longus colli superior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Longus colli vertical",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lower Canines",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lower Incisors",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lower Molars",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lower Premolars",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lumbrical foot I",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lumbrical foot II",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lumbrical foot III",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lumbrical foot IV",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lumbrical I",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lumbrical II",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lumbrical III",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lumbrical IV",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Lunate bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Malleus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Mandible (Lower jaw)",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Manubrium",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Masseter",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Maxilla (Upper jaw)",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Medial Cuneiform bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Medial pterygoid muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Medial rectus muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Mentalis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Middle pharyngeal constrictor muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Multifidus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Mylohyoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Nasal bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Nasal concha",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Nasalis - alar part",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Nasalis - transverse part",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Navicular bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Obliquus capitis inferior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Obliquus capitis superior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Obturator externus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Obturator internus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Occipital bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Occipitalis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Omohyoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Opponens digiti minimi",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Opponens pollicis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Orbicularis oculi",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Orbicularis oris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palatine bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palatine uvula",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palatoglossus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palatopharyngeus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palmar interossei I",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palmar interossei II",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palmar interossei III",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palmar interossei IV",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palmaris brevis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Palmaris longus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Parietal bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Patella",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Pectineus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Pectoralis major",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Pectoralis minor",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Perpendicular plate of Ethmoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Piriformis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Pisiform bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Plantar interossei I",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Plantar interossei II",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Plantar interossei III",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Plantaris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Platysma",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Popliteus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Posterior cricoarytenoid muscles",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Procerus muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Pronator quadratus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Pronator teres",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Proximal Phalanges",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Psoas major",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Psoas minor",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Pubococcygeus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Puborectalis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Pyramidalis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Quadratus femoris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Quadratus lumborum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Quadratus plantae",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Radius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Rectus abdominis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Rectus capitis anterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Rectus capitis lateralis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Rectus capitis posterior major",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Rectus capitis posterior minor",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Rectus femoris",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Rhomboid major",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Rhomboid minor",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Risorius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Rotatores",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sacrum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Salpingopharyngeus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sartorius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Scalenus anterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Scalenus middle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Scalenus posterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Scaphoid bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Scapula",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Semimembranosus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Semispinalis capitis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Semispinalis cervicis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Semispinalis thoracis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Semitendinosus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Serratus anterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Serratus posterior - inferior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Serratus posterior - superior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Soleus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sphenoid bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sphincter ani - externus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sphincter ani - internus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sphincter urethrae membranaceae",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Spinalis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Splenius - cervicis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Splenius capitis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Stapedius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Stapes",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sternocleidomastoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sternohyoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sternothyroid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Sternum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Styloglossus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Stylohyoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Stylopharyngeus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Subclavius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Subcostales",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Subscapularis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Superficial transverse perineal muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Superior gemellus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Superior longitudinal muscle of tongue",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Superior oblique muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Superior pharyngeal constrictor muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Superior rectus muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Superior tarsal/Muller's Muscle",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Supinator",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Supraspinatus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T1 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T10 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T11 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T12 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T2 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T3 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T4 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T5 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T6 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T7 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T8 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "T9 Vertebra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Talus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Temporal bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Temporalis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Temporoparietalis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Tensor fasciae latae",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Tensor tympani",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Tensor veli palatini",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Teres major",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Teres minor",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Thoracic diaphragm",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Thyroarytenoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Thyrohyoid",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Tibia",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Tibialis anterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Tibialis posterior",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Transversus abdominis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Transversus muscle of tongue",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Transversus thoracis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Trapezium bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Trapezius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Trapezoid bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Triceps brachii",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Triquetral bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Ulna",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Upper Canines",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Upper Incisors",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Upper Molars",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Upper Premolars",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Vastus intermedius",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Vastus lateralis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Vastus medialis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Verticalis muscle of tongue",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Vomer bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Xyphoid Process",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Zygomatic bone",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Zygomaticus major",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "motor ganglion",
+            "Organ/System": "Zygomaticus minor",
+            "Models": "",
+            "Label": ""
         },
         {
             "Nerve Name": "MPOA",
@@ -9419,7 +11513,7 @@
             "Unnamed: 8": "KB - olfactory tubercle UBERON:0001883"
         },
         {
-            "Nerve Name": "Otic g.",
+            "Nerve Name": "Otic ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0003963",
             "Label": "otic ganglion",
@@ -9441,13 +11535,439 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Paravertebral g.",
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Alveolar duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Alveolus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Ampulla of Vater",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Anal canal and sphincter",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Ascending thin limb",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Biliary canaliculus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Body of uterus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Caecum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Canal of Hering",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Common bile duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Common hepatic duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Conducting bronchiole",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Connecting tubule",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Cortical connecting tubule",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Descending thin limb",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Distal convoluted tubule",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Distal free ureter",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Distal straight tubule",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Epiglottis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "External nasal mucosa",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Fallopian tube",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Final thick ascending limb",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Gastric body",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Gastric cardia",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Gastric fundus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Hepatic duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Inner medullary col. duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Interlobular bile duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Internal nasal mucosa",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Intrahepatic duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Intravesical ureter",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Jejunum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Laryngophayrnx",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Lobar bronchus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Lower 1/3 of vagina",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Major calyx",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Major duodenal papilla",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Minor calyx",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Mucosa of larynx (subglottis)",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Mucosa of larynx (supraglottis)",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Nasophayrnx",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Orophayrnx",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Outer medullary col. duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Pancreaticobiliary sphincter",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Parietal Bowman capsule",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Penile urethra",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Perilobular bile duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Post-ampullary duodenum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Post-splenic pre-rectal colon",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Pre-ampullary duodenum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Pre-splenic colon",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Primary bronchiole",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Primary bronchus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Proximal convoluted tubule",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Proximal free ureter",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Proximal ileum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Proximal straight tubule",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Pyloric antrum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Pyloric canal",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Rectum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Renal pelvis",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Respiratory bronchiole",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Segmental bronchus",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Terminal bile duct",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Terminal bronchiole",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Terminal ileum",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Trachea",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Upper 2/3 of vagina",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Uterine cervix",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "parasympathetic ganglion",
+            "Organ/System": "Visceral Bowman capsule",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "Nerve Name": "Paravertebral ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "Pelvic g.",
+            "Nerve Name": "Pelvic ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0016508",
             "Label": "pelvic ganglion",
@@ -9469,7 +11989,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Pelvic splanch. n.",
+            "Nerve Name": "Pelvic splanch. nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018675",
             "Label": "pelvic splanchnic nerve",
@@ -9480,7 +12000,7 @@
             "Unnamed: 8": "KB - model is right. agree its a duplicate"
         },
         {
-            "Nerve Name": "Pelvic splanchnic n.",
+            "Nerve Name": "Pelvic splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018675",
             "Label": "pelvic splanchnic nerve",
@@ -9491,7 +12011,7 @@
             "Unnamed: 8": "KB - model is right. agree its a duplicate"
         },
         {
-            "Nerve Name": "Penis dorsal n.",
+            "Nerve Name": "Penis dorsal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0019197",
             "Label": "dorsal nerve of penis",
@@ -9559,7 +12079,7 @@
         },
         {
             "Nerve Name": "Posterior cervical cardiac branch of vagus nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": "",
             "Correct?": "",
@@ -9580,13 +12100,13 @@
             "Unnamed: 8": "KB - im certain model is correct. synonyms also list posterior vagus x nerve trunk"
         },
         {
-            "Nerve Name": "Prevertebral g.",
+            "Nerve Name": "Prevertebral ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "Pterygopalatine g.",
+            "Nerve Name": "Pterygopalatine ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0003962",
             "Label": "pterygopalatine ganglion",
@@ -9597,7 +12117,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Pudendal n.",
+            "Nerve Name": "Pudendal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0011390",
             "Label": "pudendal nerve",
@@ -9609,7 +12129,7 @@
         },
         {
             "Nerve Name": "Pulmonary branches of vagus nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0789095",
             "Label": "Pulmonary branch of vagus nerve",
             "Correct?": "Yes",
@@ -9620,7 +12140,7 @@
         },
         {
             "Nerve Name": "Pulmonary plexus",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0002009",
             "Label": "pulmonary nerve plexus",
             "Correct?": "Yes",
@@ -9688,7 +12208,7 @@
         },
         {
             "Nerve Name": "Renal plexus",
-            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -9712,7 +12232,7 @@
         },
         {
             "Nerve Name": "S1pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0789109",
             "Label": "First sacral ganglion",
             "Correct?": "",
@@ -9741,7 +12261,7 @@
         },
         {
             "Nerve Name": "S2pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0789655",
             "Label": "Second sacral ganglion ",
             "Correct?": "",
@@ -9770,7 +12290,7 @@
         },
         {
             "Nerve Name": "S3pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0790394",
             "Label": "Third sacral ganglion",
             "Correct?": "",
@@ -9798,7 +12318,7 @@
         },
         {
             "Nerve Name": "S4pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0786049",
             "Label": "Fourth sacral ganglion",
             "Correct?": "",
@@ -9808,7 +12328,7 @@
             "Unnamed: 8": "KB - agree"
         },
         {
-            "Nerve Name": "Sacral splanchnic n.",
+            "Nerve Name": "Sacral splanchnic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0018684",
             "Label": "sacral splanchnic nerve",
@@ -9831,7 +12351,7 @@
         },
         {
             "Nerve Name": "SCG",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "UBERON:0001989",
             "Label": "superior cervical ganglion",
             "Correct?": "",
@@ -9859,7 +12379,7 @@
         },
         {
             "Nerve Name": "Stellate/ICG",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "UBERON:0002440",
             "Label": "inferior cervical ganglion",
             "Correct?": "",
@@ -9869,7 +12389,7 @@
             "Unnamed: 8": "KB - the stellate ganglion UBERON:0002440. also known as inferior cervical ganglion. probably should change name. ZE: It again\"hasrelatedSynonym\". Are they both the same, then? KB - yup they are the same"
         },
         {
-            "Nerve Name": "Submandibular g.",
+            "Nerve Name": "Submandibular ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0002059",
             "Label": "submandibular ganglion",
@@ -9953,7 +12473,7 @@
         },
         {
             "Nerve Name": "Superior hypogastric pl.",
-            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -9980,8 +12500,8 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Superior mesenteric g.",
-            "Organ/System": "Prevertebral g.",
+            "Nerve Name": "Superior mesenteric ganglion",
+            "Organ/System": "Prevertebral ganglion",
             "Models": "UBERON:0005479",
             "Label": "superior mesenteric ganglion",
             "Correct?": "Yes",
@@ -10028,7 +12548,7 @@
         },
         {
             "Nerve Name": "T10pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738343",
             "Label": "T10 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10057,7 +12577,7 @@
         },
         {
             "Nerve Name": "T11pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738344",
             "Label": "T11 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10085,7 +12605,7 @@
         },
         {
             "Nerve Name": "T12pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738345",
             "Label": "T12 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10114,7 +12634,7 @@
         },
         {
             "Nerve Name": "T2pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738346",
             "Label": "T2 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10143,7 +12663,7 @@
         },
         {
             "Nerve Name": "T3pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738347",
             "Label": "T3 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10172,7 +12692,7 @@
         },
         {
             "Nerve Name": "T4pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738348",
             "Label": "T4 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10201,7 +12721,7 @@
         },
         {
             "Nerve Name": "T5pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738349",
             "Label": "T5 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10230,7 +12750,7 @@
         },
         {
             "Nerve Name": "T6pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738350",
             "Label": "T6 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10259,7 +12779,7 @@
         },
         {
             "Nerve Name": "T7pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738351",
             "Label": "T7 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10288,7 +12808,7 @@
         },
         {
             "Nerve Name": "T8pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738352",
             "Label": "T8 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10317,7 +12837,7 @@
         },
         {
             "Nerve Name": "T9pv",
-            "Organ/System": "Paravertebral g.",
+            "Organ/System": "Paravertebral ganglion",
             "Models": "ILX:0738353",
             "Label": "T9 paravertebral ganglion",
             "Correct?": "Yes",
@@ -10345,7 +12865,7 @@
         },
         {
             "Nerve Name": "Tracheal branch of recurrent laryngeal nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0793070",
             "Label": "Tracheal branch of recurrent laryngeal nerve",
             "Correct?": "Yes",
@@ -10355,14 +12875,14 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Trigeminal nerve g.",
+            "Nerve Name": "Trigeminal nerve ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001675",
             "Label": "trigeminal ganglion",
             "Correct?": "",
             "Confirmed by": "",
             "Checked by": "KB",
-            "Unnamed: 7": "ZE: Not sure if nerve g. refers to nerve or ganglion.",
+            "Unnamed: 7": "ZE: Not sure if nerve ganglion refers to nerve or ganglion.",
             "Unnamed: 8": "KB - i assume its not referring to the nerve because the trigeminial nerve is already listed below. and a ganglion is a collection of nerve cells so i assume its ganglion...? ZE: Not sure if it refers to nerve or ganglion? KB - most likely nerve"
         },
         {
@@ -10377,7 +12897,7 @@
             "Unnamed: 8": "KB - TSN = tractus solitarius nucleus. repeat of 95"
         },
         {
-            "Nerve Name": "Tympanic n.",
+            "Nerve Name": "Tympanic nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0036216",
             "Label": "tympanic nerve",
@@ -10389,7 +12909,7 @@
         },
         {
             "Nerve Name": "Upper branch of internal laryngeal nerve",
-            "Organ/System": "DIGESTIVE SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "ILX:0789613",
             "Label": "Upper branch of internal laryngeal nerve",
             "Correct?": "Yes",
@@ -10399,7 +12919,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "Uterine cervical g.",
+            "Nerve Name": "Uterine cervical ganglion",
             "Organ/System": "",
             "Models": "ILX:0740224",
             "Label": "Uterine cervical ganglion",
@@ -10410,13 +12930,13 @@
             "Unnamed: 8": "KB - uterine cervical ganlion ILX:0740224 "
         },
         {
-            "Nerve Name": "Uterine cervical g.",
+            "Nerve Name": "Uterine cervical ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "V. Trigeminal n.",
+            "Nerve Name": "V. Trigeminal nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001645",
             "Label": "trigeminal nerve",
@@ -10450,30 +12970,30 @@
         },
         {
             "Nerve Name": "Ventricular ICG",
-            "Organ/System": "INTEGUMENTARY SYSTEM",
+            "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
-            "Nerve Name": "Vestibular g.",
+            "Nerve Name": "Vestibular ganglion",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0002824",
             "Label": "Vestibular ganglion",
             "Correct?": "",
             "Confirmed by": "",
             "Checked by": "KB",
-            "Unnamed: 7": "ZE: it is correct if g. refers to ganglion.",
+            "Unnamed: 7": "ZE: it is correct if ganglion refers to ganglion.",
             "Unnamed: 8": "KB - i think it does. dont think it can be gland because thats not in brain?"
         },
         {
-            "Nerve Name": "Vestibular n.",
+            "Nerve Name": "Vestibular nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0003723",
             "Label": "vestibular nerve",
             "Correct?": "",
             "Confirmed by": "",
             "Checked by": "KB",
-            "Unnamed: 7": "ZE: it is correct if n. refers to nerve.",
+            "Unnamed: 7": "ZE: it is correct if nerve refers to nerve.",
             "Unnamed: 8": "KB - most likely to be nerve, considering its part of nervous system. but there is also vestibular nucleus UBERON:0007228 which is a cranial nucleus so is it nerve or nuclues? ZE: not sure if it is nerve or nucleus. KB - most likely to be nerve."
         },
         {
@@ -10488,7 +13008,7 @@
             "Unnamed: 8": ""
         },
         {
-            "Nerve Name": "VII . Facial n.",
+            "Nerve Name": "VII . Facial nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001647",
             "Label": "facial nerve",
@@ -10499,7 +13019,7 @@
             "Unnamed: 8": "KB - duplicate term"
         },
         {
-            "Nerve Name": "VII. Facial n.",
+            "Nerve Name": "VII. Facial nerve",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
             "Models": "UBERON:0001647",
             "Label": "facial nerve",
