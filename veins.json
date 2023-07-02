@@ -1,0 +1,2176 @@
+{
+    "Femoral vein": [
+        {
+            "Veins": "Femoral vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "Top in the group of Femoral vein"
+        },
+        {
+            "Veins": "Femoral vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "Top in the group of Femoral vein"
+        }
+    ],
+    "Lateral circumflex femoral veins": [
+        {
+            "Veins": "Lateral circumflex femoral veins",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Lateral circumflex femoral veins",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Great saphneous vein": [
+        {
+            "Veins": "Great saphneous vein",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Great saphneous vein",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Superficial epigastric vein": [
+        {
+            "Veins": "Superficial epigastric vein",
+            "Parent vein": "Great saphneous vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Superficial epigastric vein",
+            "Parent vein": "Great saphneous vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "External pudendal veins": [
+        {
+            "Veins": "External pudendal veins",
+            "Parent vein": "Great saphneous vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "External pudendal veins",
+            "Parent vein": "Great saphneous vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Superficial dorsal veins of penis": [
+        {
+            "Veins": "Superficial dorsal veins of penis",
+            "Parent vein": "External pudendal veins",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Medial circumflex femoral veins": [
+        {
+            "Veins": "Medial circumflex femoral veins",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Medial circumflex femoral veins",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Deep femoral vein": [
+        {
+            "Veins": "Deep femoral vein",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Deep femoral vein",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Perforating veins": [
+        {
+            "Veins": "Perforating veins",
+            "Parent vein": "Deep femoral vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Perforating veins",
+            "Parent vein": "Deep femoral vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Popliteal vein": [
+        {
+            "Veins": "Popliteal vein",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Popliteal vein",
+            "Parent vein": "Femoral vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Anterior tibial veins": [
+        {
+            "Veins": "Anterior tibial veins",
+            "Parent vein": "Popliteal vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Anterior tibial veins",
+            "Parent vein": "Popliteal vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Posterior tibial veins": [
+        {
+            "Veins": "Posterior tibial veins",
+            "Parent vein": "Popliteal vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Posterior tibial veins",
+            "Parent vein": "Popliteal vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Fibular veins": [
+        {
+            "Veins": "Fibular veins",
+            "Parent vein": "Posterior tibial veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Fibular veins",
+            "Parent vein": "Posterior tibial veins",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Medial plantar veins": [
+        {
+            "Veins": "Medial plantar veins",
+            "Parent vein": "Posterior tibial veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Medial plantar veins",
+            "Parent vein": "Posterior tibial veins",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Lateral plantar veins": [
+        {
+            "Veins": "Lateral plantar veins",
+            "Parent vein": "Posterior tibial veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Lateral plantar veins",
+            "Parent vein": "Posterior tibial veins",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Plantar venous arch": [
+        {
+            "Veins": "Plantar venous arch",
+            "Parent vein": "Lateral plantar veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Plantar venous arch",
+            "Parent vein": "Lateral plantar veins",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Plantar metatarsal veins": [
+        {
+            "Veins": "Plantar metatarsal veins",
+            "Parent vein": "Plantar venous arch",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Plantar metatarsal veins",
+            "Parent vein": "Plantar venous arch",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Plantar digital veins": [
+        {
+            "Veins": "Plantar digital veins",
+            "Parent vein": "Plantar metatarsal veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Plantar digital veins",
+            "Parent vein": "Plantar metatarsal veins",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Small saphenous vein": [
+        {
+            "Veins": "Small saphenous vein",
+            "Parent vein": "Popliteal vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Small saphenous vein",
+            "Parent vein": "Popliteal vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Dorsal venous arch of foot": [
+        {
+            "Veins": "Dorsal venous arch of foot",
+            "Parent vein": "Small saphenous vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Dorsal venous arch of foot",
+            "Parent vein": "Small saphenous vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Intercapitular veins of foot": [
+        {
+            "Veins": "Intercapitular veins of foot",
+            "Parent vein": "Dorsal venous arch of foot",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Intercapitular veins of foot",
+            "Parent vein": "Dorsal venous arch of foot",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Dorsal metatarsal veins": [
+        {
+            "Veins": "Dorsal metatarsal veins",
+            "Parent vein": "Dorsal venous arch of foot",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Dorsal metatarsal veins",
+            "Parent vein": "Dorsal venous arch of foot",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Dorsal digital veins of foot": [
+        {
+            "Veins": "Dorsal digital veins of foot",
+            "Parent vein": "Dorsal metatarsal veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Dorsal digital veins of foot",
+            "Parent vein": "Dorsal metatarsal veins",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Genicular vein": [
+        {
+            "Veins": "Genicular vein",
+            "Parent vein": "Popliteal vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Genicular vein",
+            "Parent vein": "Popliteal vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior vena cava (thoracic part)": [
+        {
+            "Veins": "Inferior vena cava (thoracic part)",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "Top in the group of Inferior vena cava (thoracic part)"
+        }
+    ],
+    "Inferior vena cava (abdominal part)": [
+        {
+            "Veins": "Inferior vena cava (abdominal part)",
+            "Parent vein": "Inferior vena cava (thoracic part)",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Left renal vein": [
+        {
+            "Veins": "Left renal vein",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Intrarenal veins of left kidney": [
+        {
+            "Veins": "Intrarenal veins of left kidney",
+            "Parent vein": "Left renal vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Left testicular vein": [
+        {
+            "Veins": "Left testicular vein",
+            "Parent vein": "Left renal vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Right renal vein": [
+        {
+            "Veins": "Right renal vein",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Intrarenal veins of right kidney": [
+        {
+            "Veins": "Intrarenal veins of right kidney",
+            "Parent vein": "Right renal vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Right testicular vein": [
+        {
+            "Veins": "Right testicular vein",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Lumbar veins": [
+        {
+            "Veins": "Lumbar veins",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Lumbar veins",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Common iliac vein": [
+        {
+            "Veins": "Common iliac vein",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes /  Yes",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Common iliac vein",
+            "Parent vein": "Inferior vena cava (abdominal part)",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "Yes /  Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Iliolumbar vein": [
+        {
+            "Veins": "Iliolumbar vein",
+            "Parent vein": "Common iliac vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Iliolumbar vein",
+            "Parent vein": "Common iliac vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Internal iliac vein": [
+        {
+            "Veins": "Internal iliac vein",
+            "Parent vein": "Common iliac vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Internal iliac vein",
+            "Parent vein": "Common iliac vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Superior gluteal veins": [
+        {
+            "Veins": "Superior gluteal veins",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Superior gluteal veins",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior gluteal veins": [
+        {
+            "Veins": "Inferior gluteal veins",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Inferior gluteal veins",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Lateral sacral veins": [
+        {
+            "Veins": "Lateral sacral veins",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Lateral sacral veins",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Internal pudendal vein": [
+        {
+            "Veins": "Internal pudendal vein",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Internal pudendal vein",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Deep dorsal vein of penis": [
+        {
+            "Veins": "Deep dorsal vein of penis",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "The deep dorsal vein of penis is connected visually to left and right internal pudendal vein in the atlas. However it is connectedted it to the internal iliac vein in the FC flatmap according to the structure heirachy in the app."
+        },
+        {
+            "Veins": "Deep dorsal vein of penis",
+            "Parent vein": "Internal iliac vein",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "The deep dorsal vein of penis is connected visually to left and right internal pudendal vein in the atlas. However it is connectedted it to the internal iliac vein in the FC flatmap according to the structure heirachy in the app."
+        }
+    ],
+    "External iliac vein": [
+        {
+            "Veins": "External iliac vein",
+            "Parent vein": "Common iliac vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "External iliac vein",
+            "Parent vein": "Common iliac vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior epigastric vein": [
+        {
+            "Veins": "Inferior epigastric vein",
+            "Parent vein": "External iliac vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Inferior epigastric vein",
+            "Parent vein": "External iliac vein",
+            "ID": "nan",
+            "Laterality": "Left ",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Hepatic veins": [
+        {
+            "Veins": "Hepatic veins",
+            "Parent vein": "Inferior vena cava (thoracic part)",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Hepatic portal vein": [
+        {
+            "Veins": "Hepatic portal vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "Top in the group of Hepatic portal vein"
+        }
+    ],
+    "Superior mesentric vein": [
+        {
+            "Veins": "Superior mesentric vein",
+            "Parent vein": "Hepatic portal vein",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "It is Tributaries of hepatic portal vein in the hierachy, then the hepatic portal vein. In the FC flatmap, It is connected to the hepatic portal vein which is an actual vein.  "
+        }
+    ],
+    "Right gastro-omental vein": [
+        {
+            "Veins": "Right gastro-omental vein",
+            "Parent vein": "Superior mesentric vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Middle colic vein": [
+        {
+            "Veins": "Middle colic vein",
+            "Parent vein": "Superior mesentric vein",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Right colic vein": [
+        {
+            "Veins": "Right colic vein",
+            "Parent vein": "Superior mesentric vein",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Splenic vein": [
+        {
+            "Veins": "Splenic vein",
+            "Parent vein": "Hepatic portal vein",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "It is Tributaries of hepatic portal vein in the hierachy, then the hepatic portal vein. In the FC flatmap, It is connected to the hepatic portal vein which is an actual vein.  "
+        }
+    ],
+    "Left gastro-omental vein": [
+        {
+            "Veins": "Left gastro-omental vein",
+            "Parent vein": "Splenic vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior mesentric vein": [
+        {
+            "Veins": "Inferior mesentric vein",
+            "Parent vein": "Splenic vein",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Sigmoid veins": [
+        {
+            "Veins": "Sigmoid veins",
+            "Parent vein": "Inferior mesentric vein",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Superior vena cava": [
+        {
+            "Veins": "Superior vena cava",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "Top in the group of Superior vena cava"
+        }
+    ],
+    "Right brachiocephalic vein": [
+        {
+            "Veins": "Right brachiocephalic vein",
+            "Parent vein": "Superior vena cava",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Internal thoracic vein": [
+        {
+            "Veins": "Internal thoracic vein",
+            "Parent vein": "Right brachiocephalic vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Right branch"
+        },
+        {
+            "Veins": "Internal thoracic vein",
+            "Parent vein": "Left brachiocephalic vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Left branch"
+        }
+    ],
+    "Superior epigastric veins": [
+        {
+            "Veins": "Superior epigastric veins",
+            "Parent vein": "Internal thoracic vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Right branch"
+        },
+        {
+            "Veins": "Superior epigastric veins",
+            "Parent vein": "Internal thoracic vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Left branch"
+        }
+    ],
+    "Musculophrenic veins": [
+        {
+            "Veins": "Musculophrenic veins",
+            "Parent vein": "Internal thoracic vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Right branch"
+        },
+        {
+            "Veins": "Musculophrenic veins",
+            "Parent vein": "Internal thoracic vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Left branch"
+        }
+    ],
+    "Vertebral vein": [
+        {
+            "Veins": "Vertebral vein",
+            "Parent vein": "Right brachiocephalic vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Right branch"
+        },
+        {
+            "Veins": "Vertebral vein",
+            "Parent vein": "Left brachiocephalic vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Left branch"
+        }
+    ],
+    "Occipital vein": [
+        {
+            "Veins": "Occipital vein",
+            "Parent vein": "Vertebral vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Right branch"
+        },
+        {
+            "Veins": "Occipital vein",
+            "Parent vein": "Vertebral vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Left branch"
+        }
+    ],
+    "Left brachiocephalic vein": [
+        {
+            "Veins": "Left brachiocephalic vein",
+            "Parent vein": "Superior vena cava",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Left superior intercostal vein": [
+        {
+            "Veins": "Left superior intercostal vein",
+            "Parent vein": "Left brachiocephalic vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Are posterior intercostal veins are labled as superior intercostal vein?"
+        }
+    ],
+    "Azygos vein ": [
+        {
+            "Veins": "Azygos vein ",
+            "Parent vein": "Superior vena cava",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Right superior intercostal vein": [
+        {
+            "Veins": "Right superior intercostal vein",
+            "Parent vein": "Azygos vein ",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Are posterior intercostal veins are labled as superior intercostal vein?"
+        }
+    ],
+    "Accessory hemi-azygos vein": [
+        {
+            "Veins": "Accessory hemi-azygos vein",
+            "Parent vein": "Azygos vein ",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Right superior phrenic vein": [
+        {
+            "Veins": "Right superior phrenic vein",
+            "Parent vein": "Azygos vein ",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Right subcostal vein": [
+        {
+            "Veins": "Right subcostal vein",
+            "Parent vein": "Azygos vein ",
+            "ID": "nan",
+            "Laterality": "Right ",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Hemi-azygos vein": [
+        {
+            "Veins": "Hemi-azygos vein",
+            "Parent vein": "Azygos vein ",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Left subcostal vein": [
+        {
+            "Veins": "Left subcostal vein",
+            "Parent vein": "Hemi-azygos vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Left ascending lumbar vein": [
+        {
+            "Veins": "Left ascending lumbar vein",
+            "Parent vein": "Hemi-azygos vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Right ascending lumbar vein": [
+        {
+            "Veins": "Right ascending lumbar vein",
+            "Parent vein": "Azygos vein ",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Right subclavian vein ": [
+        {
+            "Veins": "Right subclavian vein ",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "It is top in the group of the Right Subclavian Vein. It is connected to the Right branchiocephalic vein in the FC flatmap."
+        }
+    ],
+    "External jugular vein": [
+        {
+            "Veins": "External jugular vein",
+            "Parent vein": "Right subclavian vein ",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "External jugular vein",
+            "Parent vein": "Right subclavian vein ",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Suprascapular vein": [
+        {
+            "Veins": "Suprascapular vein",
+            "Parent vein": "External jugular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Suprascapular vein",
+            "Parent vein": "External jugular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Anterior jugular vein": [
+        {
+            "Veins": "Anterior jugular vein",
+            "Parent vein": "External jugular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Anterior jugular vein",
+            "Parent vein": "External jugular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Posterior division of retromandibular vein": [
+        {
+            "Veins": "Posterior division of retromandibular vein",
+            "Parent vein": "External jugular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Posterior division of retromandibular vein",
+            "Parent vein": "External jugular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Posterior auricular vein": [
+        {
+            "Veins": "Posterior auricular vein",
+            "Parent vein": "External jugular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Posterior auricular vein",
+            "Parent vein": "External jugular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Axillary vein": [
+        {
+            "Veins": "Axillary vein",
+            "Parent vein": "Right subclavian vein ",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Axillary vein",
+            "Parent vein": "Right subclavian vein ",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Cephalic vein": [
+        {
+            "Veins": "Cephalic vein",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Cephalic vein",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Dorsal venouse network of hand": [
+        {
+            "Veins": "Dorsal venouse network of hand",
+            "Parent vein": "Cephalic vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Dorsal venouse network of hand",
+            "Parent vein": "Cephalic vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Dorsal digital veins of hand": [
+        {
+            "Veins": "Dorsal digital veins of hand",
+            "Parent vein": "Dorsal venouse network of hand",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Dorsal digital veins of hand",
+            "Parent vein": "Dorsal venouse network of hand",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Lateral thoracic vein": [
+        {
+            "Veins": "Lateral thoracic vein",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Lateral thoracic vein",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Subscapular vein": [
+        {
+            "Veins": "Subscapular vein",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Subscapular vein",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Circumflex scapular vein": [
+        {
+            "Veins": "Circumflex scapular vein",
+            "Parent vein": "Subscapular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Circumflex scapular vein",
+            "Parent vein": "Subscapular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Thoracodorsal vein": [
+        {
+            "Veins": "Thoracodorsal vein",
+            "Parent vein": "Subscapular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Thoracodorsal vein",
+            "Parent vein": "Subscapular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Posterior circumflex humeral": [
+        {
+            "Veins": "Posterior circumflex humeral",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Posterior circumflex humeral",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Anterior circumflex humeral": [
+        {
+            "Veins": "Anterior circumflex humeral",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Anterior circumflex humeral",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Basilic veins": [
+        {
+            "Veins": "Basilic veins",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Basilic veins",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Median cubital vein": [
+        {
+            "Veins": "Median cubital vein",
+            "Parent vein": "Basilic veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Median cubital vein",
+            "Parent vein": "Basilic veins",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Median antebrachial vein": [
+        {
+            "Veins": "Median antebrachial vein",
+            "Parent vein": "Median cubital vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Median antebrachial vein",
+            "Parent vein": "Median cubital vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Brachial veins": [
+        {
+            "Veins": "Brachial veins",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Brachial veins",
+            "Parent vein": "Axillary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Ulnar veins": [
+        {
+            "Veins": "Ulnar veins",
+            "Parent vein": "Brachial veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Ulnar veins",
+            "Parent vein": "Brachial veins",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Superficial venous palmar arch": [
+        {
+            "Veins": "Superficial venous palmar arch",
+            "Parent vein": "Ulnar veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Superficial venous palmar arch",
+            "Parent vein": "Ulnar veins",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "palmar digital veins": [
+        {
+            "Veins": "palmar digital veins",
+            "Parent vein": "Superficial venous palmar arch",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "palmar digital veins",
+            "Parent vein": "Superficial venous palmar arch",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Radial veins": [
+        {
+            "Veins": "Radial veins",
+            "Parent vein": "Brachial veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Radial veins",
+            "Parent vein": "Brachial veins",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Deep venous palmar arch": [
+        {
+            "Veins": "Deep venous palmar arch",
+            "Parent vein": "Radial veins",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Deep venous palmar arch",
+            "Parent vein": "Radial veins",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Left subclavian vein ": [
+        {
+            "Veins": "Left subclavian vein ",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "It is top in the group of the Left Subclavian Vein. It is connected to the Left branchiocephalic vein in the FC flatmap."
+        }
+    ],
+    "Internal jugular vein": [
+        {
+            "Veins": "Internal jugular vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "It is top in the list of the Internal jugular vein and therefore does not show the connected branch in the Structure but it is connected to Right branchiocephalic vein. I have connected to the branchiocephalic in the FC flatmap."
+        },
+        {
+            "Veins": "Internal jugular vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "It is top in the list of the Internal jugular vein and therefore does not show the connected branch in the Structure but it is connected to the left branchiocephalic vein. I have connected to the branchiocephalic in the FC flatmap."
+        }
+    ],
+    "Superior thyroid vein": [
+        {
+            "Veins": "Superior thyroid vein",
+            "Parent vein": "Internal jugular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Superior thyroid vein",
+            "Parent vein": "Internal jugular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Lingual vein": [
+        {
+            "Veins": "Lingual vein",
+            "Parent vein": "Internal jugular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Lingual vein",
+            "Parent vein": "Internal jugular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Common facial vein": [
+        {
+            "Veins": "Common facial vein",
+            "Parent vein": "Internal jugular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Common facial vein",
+            "Parent vein": "Internal jugular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Facial vein": [
+        {
+            "Veins": "Facial vein",
+            "Parent vein": "Common facial vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Facial vein",
+            "Parent vein": "Common facial vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Angular vein": [
+        {
+            "Veins": "Angular vein",
+            "Parent vein": "Facial vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Angular vein",
+            "Parent vein": "Facial vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Superior labial vein": [
+        {
+            "Veins": "Superior labial vein",
+            "Parent vein": "Facial vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Superior labial vein",
+            "Parent vein": "Facial vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior labial veins": [
+        {
+            "Veins": "Inferior labial veins",
+            "Parent vein": "Facial vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Inferior labial veins",
+            "Parent vein": "Facial vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Submental vein": [
+        {
+            "Veins": "Submental vein",
+            "Parent vein": "Facial vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Submental vein",
+            "Parent vein": "Facial vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Anterior division of retromandibular vein": [
+        {
+            "Veins": "Anterior division of retromandibular vein",
+            "Parent vein": "Common facial vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Anterior division of retromandibular vein",
+            "Parent vein": "Common facial vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Retromandibular vein": [
+        {
+            "Veins": "Retromandibular vein",
+            "Parent vein": "Anterior division of retromandibular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Retromandibular vein",
+            "Parent vein": "Anterior division of retromandibular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Superficial temporal veins": [
+        {
+            "Veins": "Superficial temporal veins",
+            "Parent vein": "Retromandibular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Superficial temporal veins",
+            "Parent vein": "Retromandibular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Maxillary veins": [
+        {
+            "Veins": "Maxillary veins",
+            "Parent vein": "Retromandibular vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / No",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Maxillary veins",
+            "Parent vein": "Retromandibular vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "No / No",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior petrosal sinus": [
+        {
+            "Veins": "Inferior petrosal sinus",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Cranial veins group are devided into two subgroups of sinuses and orbital veis. Since they are not actual veins, I have started from the Inferior petrosal sinus. "
+        },
+        {
+            "Veins": "Inferior petrosal sinus",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Basilar venous plexus": [
+        {
+            "Veins": "Basilar venous plexus",
+            "Parent vein": "Inferior petrosal sinus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Anterior intercavernous sinus": [
+        {
+            "Veins": "Anterior intercavernous sinus",
+            "Parent vein": "Basilar venous plexus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Posterior intercavernous sinus": [
+        {
+            "Veins": "Posterior intercavernous sinus",
+            "Parent vein": "Basilar venous plexus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Cavernous sinus": [
+        {
+            "Veins": "Cavernous sinus",
+            "Parent vein": "Inferior petrosal sinus",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Cavernous sinus",
+            "Parent vein": "Inferior petrosal sinus",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Sigmoid sinus": [
+        {
+            "Veins": "Sigmoid sinus",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Top in the group"
+        },
+        {
+            "Veins": "Sigmoid sinus",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Top in the group"
+        }
+    ],
+    "Transverse sinus": [
+        {
+            "Veins": "Transverse sinus",
+            "Parent vein": "Sigmoid sinus",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        },
+        {
+            "Veins": "Transverse sinus",
+            "Parent vein": "Sigmoid sinus",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Superior petrosal sinus": [
+        {
+            "Veins": "Superior petrosal sinus",
+            "Parent vein": "Transverse sinus",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "synonym:Inferior ophthalmis vein"
+        },
+        {
+            "Veins": "Superior petrosal sinus",
+            "Parent vein": "Transverse sinus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Cofluence of sinuses": [
+        {
+            "Veins": "Cofluence of sinuses",
+            "Parent vein": "Transverse sinus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior sagittal sinus": [
+        {
+            "Veins": "Inferior sagittal sinus",
+            "Parent vein": "Cofluence of sinuses",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Occipital sinus": [
+        {
+            "Veins": "Occipital sinus",
+            "Parent vein": "Cofluence of sinuses",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Straight sinus": [
+        {
+            "Veins": "Straight sinus",
+            "Parent vein": "Cofluence of sinuses",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Superior sagittal sinus": [
+        {
+            "Veins": "Superior sagittal sinus",
+            "Parent vein": "Cofluence of sinuses",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Superior ophthalmic vein": [
+        {
+            "Veins": "Superior ophthalmic vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "part of orbital group veins but connected to cavernous sinus"
+        },
+        {
+            "Veins": "Superior ophthalmic vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "part of orbital group veins but connected to cavernous sinus"
+        }
+    ],
+    "Inferior ophthalmis vein": [
+        {
+            "Veins": "Inferior ophthalmis vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "part of orbital group veins but connected to cavernous sinus"
+        },
+        {
+            "Veins": "Inferior ophthalmis vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "part of orbital group veins but connected to cavernous sinus"
+        }
+    ],
+    "Right superior pulmonary vein": [
+        {
+            "Veins": "Right superior pulmonary vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Top in the pulmonary veins group"
+        }
+    ],
+    "Apical vein of right lung\n": [
+        {
+            "Veins": "Apical vein of right lung\n",
+            "Parent vein": "Right superior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Anterior vein of right lung\n": [
+        {
+            "Veins": "Anterior vein of right lung\n",
+            "Parent vein": "Right superior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Posterior vein of right lung\n": [
+        {
+            "Veins": "Posterior vein of right lung\n",
+            "Parent vein": "Right superior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Lateral vein of right lung\n": [
+        {
+            "Veins": "Lateral vein of right lung\n",
+            "Parent vein": "Right superior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Medial vein of right lung\n": [
+        {
+            "Veins": "Medial vein of right lung\n",
+            "Parent vein": "Right superior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Right inferior pulmonary vein": [
+        {
+            "Veins": "Right inferior pulmonary vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Top in the pulmonary veins group"
+        }
+    ],
+    "Superior vein of right lung\n": [
+        {
+            "Veins": "Superior vein of right lung\n",
+            "Parent vein": "Right inferior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Superior basal vein of right lung\n": [
+        {
+            "Veins": "Superior basal vein of right lung\n",
+            "Parent vein": "Right inferior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior basal vein of right lung\n": [
+        {
+            "Veins": "Inferior basal vein of right lung\n",
+            "Parent vein": "Right inferior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Right",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Left superior pulmonary vein": [
+        {
+            "Veins": "Left superior pulmonary vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Top in the pulmonary veins group"
+        }
+    ],
+    "Apicopoterior vein of left lung \n": [
+        {
+            "Veins": "Apicopoterior vein of left lung \n",
+            "Parent vein": "Left superior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Anterior vein of left lung\n": [
+        {
+            "Veins": "Anterior vein of left lung\n",
+            "Parent vein": "Left superior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Lingular vein of left lung\n": [
+        {
+            "Veins": "Lingular vein of left lung\n",
+            "Parent vein": "Left superior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Superior lingular vein of left lung": [
+        {
+            "Veins": "Superior lingular vein of left lung",
+            "Parent vein": "Lingular vein of left lung\n",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior lingular vein of left lung": [
+        {
+            "Veins": "Inferior lingular vein of left lung",
+            "Parent vein": "Lingular vein of left lung\n",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Left inferior pulmonary vein": [
+        {
+            "Veins": "Left inferior pulmonary vein",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "Top in the pulmonary veins group"
+        }
+    ],
+    "Superior vein of left lung \n": [
+        {
+            "Veins": "Superior vein of left lung \n",
+            "Parent vein": "Left inferior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Superior basal vein of left lung\n": [
+        {
+            "Veins": "Superior basal vein of left lung\n",
+            "Parent vein": "Left inferior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior basal vein of left lung\n": [
+        {
+            "Veins": "Inferior basal vein of left lung\n",
+            "Parent vein": "Left inferior pulmonary vein",
+            "ID": "nan",
+            "Laterality": "Left",
+            "Added / Duplicated in the FC map": "Yes / Yes",
+            "NOTE": "nan"
+        }
+    ],
+    "Coronary sinus": [
+        {
+            "Veins": "Coronary sinus",
+            "Parent vein": "nan",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "Top in the coronary veins"
+        }
+    ],
+    "Great cardiac vein": [
+        {
+            "Veins": "Great cardiac vein",
+            "Parent vein": "Coronary sinus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "Inferior vein of left ventricle": [
+        {
+            "Veins": "Inferior vein of left ventricle",
+            "Parent vein": "Coronary sinus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "It could be left ventricular vein or marginal vein or anterior cardiac veins?"
+        }
+    ],
+    "Inferior vein of left ventricle (//posterior)": [
+        {
+            "Veins": "Inferior vein of left ventricle (//posterior)",
+            "Parent vein": "Coronary sinus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "Is it posterior vein of the left ventricle?"
+        }
+    ],
+    "Middle cardiac vein": [
+        {
+            "Veins": "Middle cardiac vein",
+            "Parent vein": "Coronary sinus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "nan"
+        }
+    ],
+    "????????": [
+        {
+            "Veins": "????????",
+            "Parent vein": "Coronary sinus",
+            "ID": "nan",
+            "Laterality": "nan",
+            "Added / Duplicated in the FC map": "Yes / NA",
+            "NOTE": "It could be small cardiac vein. I used this term instead of unknown ??????? label."
+        }
+    ]
+}
