@@ -8066,7 +8066,7 @@
         },
         {
             "Nerve Name": "Anterior vagal trunk (primarily from left vagus)",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0035020",
             "Label": "left vagus X nerve trunk",
             "Correct?": "Yes",
@@ -8088,7 +8088,7 @@
         },
         {
             "Nerve Name": "Aortic depressor nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0738312",
             "Label": "Aortic arch depressor nerve",
             "Correct?": "Yes",
@@ -8099,7 +8099,7 @@
         },
         {
             "Nerve Name": "Aorticorenal ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0740412",
             "Label": "Aorticorenal ganglion (swannt)",
             "Correct?": "Yes",
@@ -8121,13 +8121,13 @@
         },
         {
             "Nerve Name": "Atrial ICG",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Auricular branch of vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:3010740",
             "Label": "ramus auricularis of the vagus nerve",
             "Correct?": "Yes",
@@ -8138,7 +8138,7 @@
         },
         {
             "Nerve Name": "auriculotemporal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0793723",
             "Label": "Auriculotemporal nerve",
             "Correct?": "Yes",
@@ -8149,7 +8149,7 @@
         },
         {
             "Nerve Name": "Bladder nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0793559",
             "Label": "bladder nerve",
             "Correct?": "Yes",
@@ -8171,7 +8171,7 @@
         },
         {
             "Nerve Name": "Branch of right vagus nerve to pancreas",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -8188,7 +8188,7 @@
         },
         {
             "Nerve Name": "Bronchial branch of vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0789095",
             "Label": "Pulmonary branch of vagus nerve",
             "Correct?": "Yes",
@@ -8343,7 +8343,7 @@
         },
         {
             "Nerve Name": "Cardiac branch",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0786680",
             "Label": "Cardiac branch of vagus nerve",
             "Correct?": "",
@@ -8354,19 +8354,19 @@
         },
         {
             "Nerve Name": "Carotid body",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
-            "Models": "",
-            "Label": ""
-        },
-        {
-            "Nerve Name": "Carotid body",
             "Organ/System": "CARDIORESPIRATORY SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
+            "Nerve Name": "Carotid body",
+            "Organ/System": "NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Carotid plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0740661",
             "Label": "Common carotid plexus (swannt)",
             "Correct?": "",
@@ -8377,19 +8377,19 @@
         },
         {
             "Nerve Name": "Carotid sinus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
-            "Models": "",
-            "Label": ""
-        },
-        {
-            "Nerve Name": "Carotid sinus",
             "Organ/System": "CARDIORESPIRATORY SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
+            "Nerve Name": "Carotid sinus",
+            "Organ/System": "NERVOUS SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
             "Nerve Name": "Carotid sinus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0009009",
             "Label": "carotid sinus nerve",
             "Correct?": "Yes",
@@ -8400,7 +8400,7 @@
         },
         {
             "Nerve Name": "Celiac branch of anterior vagal trunk",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0740316",
             "Label": "Celiac branches of anterior vagal trunk (swannt)",
             "Correct?": "Yes",
@@ -8411,7 +8411,7 @@
         },
         {
             "Nerve Name": "Celiac branch of posterior vagal trunk",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0789580",
             "Label": "Coeliac branch of posterior vagal trunk",
             "Correct?": "Yes",
@@ -8422,7 +8422,7 @@
         },
         {
             "Nerve Name": "Celiac ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -8439,7 +8439,7 @@
         },
         {
             "Nerve Name": "Celiac plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0002010",
             "Label": "celiac nerve plexus",
             "Correct?": "",
@@ -8450,13 +8450,13 @@
         },
         {
             "Nerve Name": "Cerebral cortex",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Cervical cardiac branches",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0793041",
             "Label": "Cervical cardiac branch of vagus nerve",
             "Correct?": "",
@@ -8478,7 +8478,7 @@
         },
         {
             "Nerve Name": "Chorda tympani nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0009675",
             "Label": "chorda tympani branch of facial nerve",
             "Correct?": "Yes",
@@ -8489,7 +8489,7 @@
         },
         {
             "Nerve Name": "Ciliac plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0002010",
             "Label": "celiac nerve plexus",
             "Correct?": "Yes",
@@ -8500,7 +8500,7 @@
         },
         {
             "Nerve Name": "Cochlear ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0000395",
             "Label": "cochlear ganglion",
             "Correct?": "Yes",
@@ -8511,7 +8511,7 @@
         },
         {
             "Nerve Name": "Cochlear nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0004727",
             "Label": "cochlear nerve",
             "Correct?": "Yes",
@@ -8533,7 +8533,7 @@
         },
         {
             "Nerve Name": "communicating branch of auricular branch of vagus nerve with facial nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0791151",
             "Label": "Communicating branch of auricular branch of vagus nerve with facial nerve",
             "Correct?": "Yes",
@@ -8544,7 +8544,7 @@
         },
         {
             "Nerve Name": "communicating branch of auricular branch of vagus nerve with posterior auricular nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0786624",
             "Label": "Communicating branch of auricular branch of vagus nerve with posterior auricular nerve",
             "Correct?": "Yes",
@@ -8555,7 +8555,7 @@
         },
         {
             "Nerve Name": "Communicating branch of internal laryngeal nerve with recurrent laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0787299",
             "Label": "Communicating branch of internal laryngeal nerve with recurrent laryngeal nerve",
             "Correct?": "Yes",
@@ -8566,7 +8566,7 @@
         },
         {
             "Nerve Name": "Communicating branch of vagus nerve with glossopharyngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0793830",
             "Label": "Communicating branch of vagus nerve with glossopharyngeal nerve",
             "Correct?": "Yes",
@@ -8588,13 +8588,13 @@
         },
         {
             "Nerve Name": "Deep cardiac plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Diencephalon",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -8611,13 +8611,13 @@
         },
         {
             "Nerve Name": "DRG",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Esophageal branch of recurrent laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0787303",
             "Label": "Esophageal branch of recurrent laryngeal nerve",
             "Correct?": "Yes",
@@ -8628,7 +8628,7 @@
         },
         {
             "Nerve Name": "esophageal branch of recurrent laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0787303",
             "Label": "Esophageal branch of recurrent laryngeal nerve",
             "Correct?": "Yes",
@@ -8650,13 +8650,13 @@
         },
         {
             "Nerve Name": "Esophageal plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "External carotid plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0745976",
             "Label": "external carotid plexus (TA98)",
             "Correct?": "Yes",
@@ -8667,7 +8667,7 @@
         },
         {
             "Nerve Name": "External laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0793560",
             "Label": "External laryngeal nerve",
             "Correct?": "Yes",
@@ -8725,7 +8725,7 @@
         },
         {
             "Nerve Name": "Gastric branch of anterior vagal trunk",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0787035",
             "Label": "Anterior gastric branch of vagus nerve",
             "Correct?": "Yes",
@@ -8736,7 +8736,7 @@
         },
         {
             "Nerve Name": "Gastric branch of posterior vagal trunk",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0787250",
             "Label": "Posterior gastric branch of vagus nerve",
             "Correct?": "Yes",
@@ -8747,7 +8747,7 @@
         },
         {
             "Nerve Name": "Geniculate ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0001700",
             "Label": "geniculate ganglion",
             "Correct?": "Yes",
@@ -8769,13 +8769,13 @@
         },
         {
             "Nerve Name": "Glumeruli",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Greater splanchnic nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0018680",
             "Label": "greater splanchnic nerve",
             "Correct?": "Yes",
@@ -8786,7 +8786,7 @@
         },
         {
             "Nerve Name": "Hepatic branch of anterior vagal trunk",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0784595",
             "Label": "Hepatic branch of anterior vagal trunk",
             "Correct?": "Yes",
@@ -8797,7 +8797,7 @@
         },
         {
             "Nerve Name": "Hepatic plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0771304",
             "Label": "Hepatic nerve plexus",
             "Correct?": "Yes",
@@ -8808,7 +8808,7 @@
         },
         {
             "Nerve Name": "Hypogastric nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0005303",
             "Label": "hypogastric nerve",
             "Correct?": "Yes",
@@ -8819,7 +8819,7 @@
         },
         {
             "Nerve Name": "II. Optic nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0743421",
             "Label": "optic nerve (TA98)",
             "Correct?": "Yes",
@@ -8852,7 +8852,7 @@
         },
         {
             "Nerve Name": "Inf. mes. ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0005453",
             "Label": "inferior mesenteric ganglion",
             "Correct?": "Yes",
@@ -8863,7 +8863,7 @@
         },
         {
             "Nerve Name": "Inferior cervical cardiac branch of vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0788259",
             "Label": "Inferior cervical cardiac branch of vagus nerve",
             "Correct?": "Yes",
@@ -8896,7 +8896,7 @@
         },
         {
             "Nerve Name": "Inferior hypogastric pl.",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -8935,7 +8935,7 @@
         },
         {
             "Nerve Name": "Internal carotid plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0002024",
             "Label": "internal carotid nerve plexus",
             "Correct?": "Yes",
@@ -8946,7 +8946,7 @@
         },
         {
             "Nerve Name": "Internal laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0738373",
             "Label": "Internal laryngeal nerve",
             "Correct?": "",
@@ -8968,7 +8968,7 @@
         },
         {
             "Nerve Name": "IX. Glossopharyngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0001649",
             "Label": "glossopharyngeal nerve",
             "Correct?": "Yes",
@@ -8979,19 +8979,19 @@
         },
         {
             "Nerve Name": "L. middle cerebral",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "L. posterior cerebral",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "L. superior cerebral",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -9171,7 +9171,7 @@
         },
         {
             "Nerve Name": "Least splanchnic nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -9188,7 +9188,7 @@
         },
         {
             "Nerve Name": "Left recurrent laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0011766",
             "Label": "left recurrent laryngeal nerve",
             "Correct?": "Yes",
@@ -9199,7 +9199,7 @@
         },
         {
             "Nerve Name": "Lesser petrosal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0793722",
             "Label": "Lesser petrosal nerve",
             "Correct?": "Yes",
@@ -9243,7 +9243,7 @@
         },
         {
             "Nerve Name": "lingual branch of vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0791434",
             "Label": "Lingual branch of vagus nerve",
             "Correct?": "",
@@ -9254,7 +9254,7 @@
         },
         {
             "Nerve Name": "Lingual nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0003721",
             "Label": "lingual nerve",
             "Correct?": "Yes",
@@ -9265,7 +9265,7 @@
         },
         {
             "Nerve Name": "Lower branch of internal laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0785556",
             "Label": "Lower branch of internal laryngeal nerve",
             "Correct?": "Yes",
@@ -9287,7 +9287,7 @@
         },
         {
             "Nerve Name": "Lumbar splanchnic nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0018683",
             "Label": "lumbar splanchnic nerve",
             "Correct?": "Yes",
@@ -9298,7 +9298,7 @@
         },
         {
             "Nerve Name": "mandibular nerve (CN V3)",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0000375",
             "Label": "mandibular nerve",
             "Correct?": "Yes",
@@ -9309,7 +9309,7 @@
         },
         {
             "Nerve Name": "Maxillary nerve (CN V2)",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0000377",
             "Label": "maxillary nerve",
             "Correct?": "Yes",
@@ -9342,19 +9342,19 @@
         },
         {
             "Nerve Name": "Mediastinal ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Medulla",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Meningeal branch of vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0793828",
             "Label": "Meningeal branch of vagus nerve",
             "Correct?": "Yes",
@@ -9365,7 +9365,7 @@
         },
         {
             "Nerve Name": "Midbrain",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -11497,7 +11497,7 @@
         },
         {
             "Nerve Name": "Olfactory cortex",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -11514,7 +11514,7 @@
         },
         {
             "Nerve Name": "Otic ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0003963",
             "Label": "otic ganglion",
             "Correct?": "Yes",
@@ -11525,7 +11525,7 @@
         },
         {
             "Nerve Name": "Ovarian plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0793832",
             "Label": "ovarian nerve plexus",
             "Correct?": "Yes",
@@ -11962,13 +11962,13 @@
         },
         {
             "Nerve Name": "Paravertebral ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Pelvic ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0016508",
             "Label": "pelvic ganglion",
             "Correct?": "Yes",
@@ -11979,7 +11979,7 @@
         },
         {
             "Nerve Name": "Pelvic plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0002014",
             "Label": "inferior hypogastric nerve plexus",
             "Correct?": "Yes",
@@ -11990,7 +11990,7 @@
         },
         {
             "Nerve Name": "Pelvic splanch. nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0018675",
             "Label": "pelvic splanchnic nerve",
             "Correct?": "",
@@ -12001,7 +12001,7 @@
         },
         {
             "Nerve Name": "Pelvic splanchnic nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0018675",
             "Label": "pelvic splanchnic nerve",
             "Correct?": "",
@@ -12012,7 +12012,7 @@
         },
         {
             "Nerve Name": "Penis dorsal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0019197",
             "Label": "dorsal nerve of penis",
             "Correct?": "",
@@ -12023,7 +12023,7 @@
         },
         {
             "Nerve Name": "Pharyngeal branch of vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0000929",
             "Label": "pharyngeal branch of vagus nerve",
             "Correct?": "Yes",
@@ -12034,7 +12034,7 @@
         },
         {
             "Nerve Name": "Pharyngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0034725",
             "Label": "pterygopalatine nerve",
             "Correct?": "",
@@ -12056,7 +12056,7 @@
         },
         {
             "Nerve Name": "Pharyngeal nerve plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -12073,13 +12073,13 @@
         },
         {
             "Nerve Name": "Pons",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Posterior cervical cardiac branch of vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": "",
             "Correct?": "",
@@ -12090,7 +12090,7 @@
         },
         {
             "Nerve Name": "Posterior vagal trunk (primarily from right vagus)",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0035021",
             "Label": "right vagus X nerve trunk",
             "Correct?": "",
@@ -12101,13 +12101,13 @@
         },
         {
             "Nerve Name": "Prevertebral ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Pterygopalatine ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0003962",
             "Label": "pterygopalatine ganglion",
             "Correct?": "Yes",
@@ -12118,7 +12118,7 @@
         },
         {
             "Nerve Name": "Pudendal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0011390",
             "Label": "pudendal nerve",
             "Correct?": "Yes",
@@ -12129,7 +12129,7 @@
         },
         {
             "Nerve Name": "Pulmonary branches of vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0789095",
             "Label": "Pulmonary branch of vagus nerve",
             "Correct?": "Yes",
@@ -12140,7 +12140,7 @@
         },
         {
             "Nerve Name": "Pulmonary plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0002009",
             "Label": "pulmonary nerve plexus",
             "Correct?": "Yes",
@@ -12151,25 +12151,25 @@
         },
         {
             "Nerve Name": "R. middle cerebral",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "R. posterior cerebral",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "R. superior cerebral",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Recurrent laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0003716",
             "Label": "recurrent laryngeal nerve",
             "Correct?": "Yes",
@@ -12191,7 +12191,7 @@
         },
         {
             "Nerve Name": "Renal branches of vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -12208,7 +12208,7 @@
         },
         {
             "Nerve Name": "Renal plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -12329,7 +12329,7 @@
         },
         {
             "Nerve Name": "Sacral splanchnic nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0018684",
             "Label": "sacral splanchnic nerve",
             "Correct?": "",
@@ -12362,7 +12362,7 @@
         },
         {
             "Nerve Name": "Spinal cord",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
@@ -12390,7 +12390,7 @@
         },
         {
             "Nerve Name": "Submandibular ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0002059",
             "Label": "submandibular ganglion",
             "Correct?": "Yes",
@@ -12434,13 +12434,13 @@
         },
         {
             "Nerve Name": "Superficial cardiac plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Superior cardiac nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0740631",
             "Label": "Superior cardiac nerve (swannt)",
             "Correct?": "Yes",
@@ -12473,13 +12473,13 @@
         },
         {
             "Nerve Name": "Superior hypogastric pl.",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Superior hypogastric plexus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0002013",
             "Label": "superior hypogastric nerve plexus",
             "Correct?": "Yes",
@@ -12490,7 +12490,7 @@
         },
         {
             "Nerve Name": "Superior laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0011326",
             "Label": "superior laryngeal nerve",
             "Correct?": "Yes",
@@ -12848,13 +12848,13 @@
         },
         {
             "Nerve Name": "Thalamus",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Thoracic cardiac branch",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0785405",
             "Label": "Thoracic cardiac branch of vagus nerve",
             "Correct?": "",
@@ -12865,7 +12865,7 @@
         },
         {
             "Nerve Name": "Tracheal branch of recurrent laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0793070",
             "Label": "Tracheal branch of recurrent laryngeal nerve",
             "Correct?": "Yes",
@@ -12876,7 +12876,7 @@
         },
         {
             "Nerve Name": "Trigeminal nerve ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0001675",
             "Label": "trigeminal ganglion",
             "Correct?": "",
@@ -12898,7 +12898,7 @@
         },
         {
             "Nerve Name": "Tympanic nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0036216",
             "Label": "tympanic nerve",
             "Correct?": "Yes",
@@ -12909,7 +12909,7 @@
         },
         {
             "Nerve Name": "Upper branch of internal laryngeal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0789613",
             "Label": "Upper branch of internal laryngeal nerve",
             "Correct?": "Yes",
@@ -12931,13 +12931,13 @@
         },
         {
             "Nerve Name": "Uterine cervical ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "V. Trigeminal nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0001645",
             "Label": "trigeminal nerve",
             "Correct?": "",
@@ -12948,7 +12948,7 @@
         },
         {
             "Nerve Name": "Vagal branch to carotid body",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "ILX:0786059",
             "Label": "Branch of vagus nerve to carotid body",
             "Correct?": "Yes",
@@ -12970,13 +12970,13 @@
         },
         {
             "Nerve Name": "Ventricular ICG",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
         {
             "Nerve Name": "Vestibular ganglion",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0002824",
             "Label": "Vestibular ganglion",
             "Correct?": "",
@@ -12987,7 +12987,7 @@
         },
         {
             "Nerve Name": "Vestibular nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0003723",
             "Label": "vestibular nerve",
             "Correct?": "",
@@ -13009,7 +13009,7 @@
         },
         {
             "Nerve Name": "VII . Facial nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0001647",
             "Label": "facial nerve",
             "Correct?": "",
@@ -13020,7 +13020,7 @@
         },
         {
             "Nerve Name": "VII. Facial nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0001647",
             "Label": "facial nerve",
             "Correct?": "",
@@ -13031,7 +13031,7 @@
         },
         {
             "Nerve Name": "X. Vagus nerve",
-            "Organ/System": "BRAIN & NERVOUS SYSTEM",
+            "Organ/System": "NERVOUS SYSTEM",
             "Models": "UBERON:0001759",
             "Label": "vagus nerve",
             "Correct?": "",
@@ -13044,7 +13044,7 @@
     "Organs": [
         {
             "Organ Name": "???",
-            "Systems": "BRAIN & NERVOUS SYSTEM",
+            "Systems": "NERVOUS SYSTEM",
             "Models": "ILX:0793620",
             "Label": "dura mater in the posterior cranial fossa"
         },
@@ -13615,11 +13615,6 @@
     ],
     "Systems": [
         {
-            "System Name": "BRAIN & NERVOUS SYSTEM",
-            "Models": "",
-            "Label": ""
-        },
-        {
             "System Name": "CARDIORESPIRATORY SYSTEM",
             "Models": "",
             "Label": ""
@@ -13656,6 +13651,11 @@
         },
         {
             "System Name": "NASO-ORAL-PHARYNGEAL SYSTEM",
+            "Models": "",
+            "Label": ""
+        },
+        {
+            "System Name": "NERVOUS SYSTEM",
             "Models": "",
             "Label": ""
         },
