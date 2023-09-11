@@ -3,7 +3,7 @@
     "kind": "functional",
     "annotation": "annotation.json",
     "description": "description.json",
-    "models": "FunctionalConnectivity",
+    "models": "FunctionalConnectivityNPO",
     "sckan-version": "production",
     "properties": "properties.json",
     "neuronConnectivity": [
