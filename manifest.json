@@ -7,10 +7,7 @@
     "sckan-version": "production",
     "properties": "properties.json",
     "neuronConnectivity": [
-        "ilxtr:sparc-nlp/mmset2cn/6",
-        "ilxtr:sparc-nlp/prostate/24",
-        "ilxtr:sparc-nlp/prostate/26",
-        "ilxtr:sparc-nlp/semves/7"
+        "NPO"
     ],
     "sources": [
         {
