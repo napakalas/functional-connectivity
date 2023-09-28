@@ -45,16 +45,16 @@
             "Ontology ID": "UBERON:0001356",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
-				"Adductor longus",
-				"Adductor brevis",
-				"Adductor magnus",
-				"Adductor minimus",
-				"Obturator externus",
-				"Pectineus muscle",
-				"Gracilis",
-				"Semitendinosus",
-				"Inferior gemellus"
-			],
+                "Adductor longus",
+                "Adductor brevis",
+                "Adductor magnus",
+                "Adductor minimus",
+                "Obturator externus",
+                "Pectineus muscle",
+                "Gracilis",
+                "Semitendinosus",
+                "Inferior gemellus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes ",
             "Duplicated in FC flatmap": "No"
@@ -64,16 +64,16 @@
             "Ontology ID": "UBERON:0001356",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
-				"Adductor longus",
-				"Adductor brevis",
-				"Adductor magnus",
-				"Adductor minimus",
-				"Obturator externus",
-				"Pectineus muscle",
-				"Gracilis",
-				"Semitendinosus",
-				"Inferior gemellus"
-			],
+                "Adductor longus",
+                "Adductor brevis",
+                "Adductor magnus",
+                "Adductor minimus",
+                "Obturator externus",
+                "Pectineus muscle",
+                "Gracilis",
+                "Semitendinosus",
+                "Inferior gemellus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No ",
             "Duplicated in FC flatmap": "No"
@@ -85,13 +85,13 @@
             "Ontology ID": "ILX:0741412",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
-				"Tensor fasciae latae muscle",
-				"Vastus intermedius",
-				"Gluteus medius",
-				"Gluteus minimus",
-				"Sartorius",
-				"Vastus medialis"
-			],
+                "Tensor fasciae latae muscle",
+                "Vastus intermedius",
+                "Gluteus medius",
+                "Gluteus minimus",
+                "Sartorius",
+                "Vastus medialis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -101,13 +101,13 @@
             "Ontology ID": "ILX:0741412",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
-				"Tensor fasciae latae muscle",
-				"Vastus intermedius",
-				"Gluteus medius",
-				"Gluteus minimus",
-				"Sartorius",
-				"Vastus medialis"
-			],
+                "Tensor fasciae latae muscle",
+                "Vastus intermedius",
+                "Gluteus medius",
+                "Gluteus minimus",
+                "Sartorius",
+                "Vastus medialis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -119,11 +119,11 @@
             "Ontology ID": "ILX:0747134",
             "Parent artery": "Lateral circumflex femoral artery",
             "Target FTU": [
-				"Vastus lateralis",
-				"Rectus femoris",
-				"Gluteus medius",
-				"Gluteus minimus"
-			],
+                "Vastus lateralis",
+                "Rectus femoris",
+                "Gluteus medius",
+                "Gluteus minimus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -133,11 +133,11 @@
             "Ontology ID": "ILX:0747134",
             "Parent artery": "Lateral circumflex femoral artery",
             "Target FTU": [
-				"Vastus lateralis",
-				"Rectus femoris",
-				"Gluteus medius",
-				"Gluteus minimus"
-			],
+                "Vastus lateralis",
+                "Rectus femoris",
+                "Gluteus medius",
+                "Gluteus minimus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -149,14 +149,14 @@
             "Ontology ID": "ILX:0744287",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
-				"Adductor longus",
-				"Adductor mangus",
-				"Adductor brevis",
-				"Long head of biceps femoris",
-				"short head of biceps femoris",
-				"Semitendinosus",
-				"Semimembranosus"
-			],
+                "Adductor longus",
+                "Adductor mangus",
+                "Adductor brevis",
+                "Long head of biceps femoris",
+                "short head of biceps femoris",
+                "Semitendinosus",
+                "Semimembranosus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -166,14 +166,14 @@
             "Ontology ID": "ILX:0744287",
             "Parent artery": "Deep femoral artery",
             "Target FTU": [
-				"Adductor longus",
-				"Adductor mangus",
-				"Adductor brevis",
-				"Long head of biceps femoris",
-				"short head of biceps femoris",
-				"Semitendinosus",
-				"Semimembranosus"
-			],
+                "Adductor longus",
+                "Adductor mangus",
+                "Adductor brevis",
+                "Long head of biceps femoris",
+                "short head of biceps femoris",
+                "Semitendinosus",
+                "Semimembranosus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -266,10 +266,10 @@
             "Ontology ID": "ILX:0743858",
             "Parent artery": "Popliteal artery",
             "Target FTU": [
-				"Lateral patellar",
-				"Medial patellar",
-				"Plantaris"
-			],
+                "Lateral patellar",
+                "Medial patellar",
+                "Plantaris"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
@@ -280,10 +280,10 @@
             "Ontology ID": "ILX:0743858",
             "Parent artery": "Popliteal artery",
             "Target FTU": [
-				"Lateral patellar",
-				"Medial patellar",
-				"Plantaris"
-			],
+                "Lateral patellar",
+                "Medial patellar",
+                "Plantaris"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No",
@@ -340,9 +340,9 @@
             "Ontology ID": "ILX:0743923",
             "Parent artery": "Popliteal artery",
             "Target FTU": [
-				"Lateral patellar",
-				"Medial patellar"
-			],
+                "Lateral patellar",
+                "Medial patellar"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
@@ -353,9 +353,9 @@
             "Ontology ID": "ILX:0743923",
             "Parent artery": "Popliteal artery",
             "Target FTU": [
-				"Lateral patellar",
-				"Medial patellar"
-			],
+                "Lateral patellar",
+                "Medial patellar"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No",
@@ -412,10 +412,10 @@
             "Ontology ID": "UBERON:0001537",
             "Parent artery": "Popliteal artery",
             "Target FTU": [
-				"Tibialis anterior",
-				"Extensor hallucis longus",
-				"Extensor digitorum longus"
-			],
+                "Tibialis anterior",
+                "Extensor hallucis longus",
+                "Extensor digitorum longus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"	
@@ -425,10 +425,10 @@
             "Ontology ID": "UBERON:0001537",
             "Parent artery": "Popliteal artery",
             "Target FTU": [
-				"Tibialis anterior",
-				"Extensor hallucis longus",
-				"Extensor digitorum longus"
-			],
+                "Tibialis anterior",
+                "Extensor hallucis longus",
+                "Extensor digitorum longus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -460,11 +460,11 @@
             "Ontology ID": "ILX:0742961",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": [
-				"Fibularis tertius",
-				"Extensor hallucis brevis",
-				"Opponens digit minimi of foot",
-				"Flexor digiti minimi of foot"
-			],
+                "Fibularis tertius",
+                "Extensor hallucis brevis",
+                "Opponens digit minimi of foot",
+                "Flexor digiti minimi of foot"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -474,11 +474,11 @@
             "Ontology ID": "ILX:0742961",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": [
-				"Fibularis tertius",
-				"Extensor hallucis brevis",
-				"Opponens digit minimi of foot",
-				"Flexor digiti minimi of foot"
-			],
+                "Fibularis tertius",
+                "Extensor hallucis brevis",
+                "Opponens digit minimi of foot",
+                "Flexor digiti minimi of foot"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -490,9 +490,9 @@
             "Ontology ID": "ILX:0745825",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": [
-				"Opponens digit minimi of foot",
-				"Flexor digiti minimi of foot"
-			],
+                "Opponens digit minimi of foot",
+                "Flexor digiti minimi of foot"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -502,9 +502,9 @@
             "Ontology ID": "ILX:0745825",
             "Parent artery": "Dorsalis pedis artery",
             "Target FTU": [
-				"Opponens digit minimi of foot",
-				"Flexor digiti minimi of foot"
-			],
+                "Opponens digit minimi of foot",
+                "Flexor digiti minimi of foot"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -536,10 +536,10 @@
             "Ontology ID": "UBERON:0006145",
             "Parent artery": "Dorsal metatarsal arteries",
             "Target FTU": [
-				"Dorsal interossei muscles of foot",
-				"Lumbrical muscles of foot",
-				"Fibularis tertius"
-			],
+                "Dorsal interossei muscles of foot",
+                "Lumbrical muscles of foot",
+                "Fibularis tertius"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -549,10 +549,10 @@
             "Ontology ID": "UBERON:0006145",
             "Parent artery": "Dorsal metatarsal arteries",
             "Target FTU": [
-				"Dorsal interossei muscles of foot",
-				"Lumbrical muscles of foot",
-				"Fibularis tertius"
-			],
+                "Dorsal interossei muscles of foot",
+                "Lumbrical muscles of foot",
+                "Fibularis tertius"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -584,11 +584,11 @@
             "Ontology ID": "UBERON:0001538",
             "Parent artery": "Popliteal artery",
             "Target FTU": [
-				"Flexor digitorum longus",
-				"Quadratus plantae",
-				"Adductor hallucis",
-				"Flexor digitorum brevis"
-			],
+                "Flexor digitorum longus",
+                "Quadratus plantae",
+                "Adductor hallucis",
+                "Flexor digitorum brevis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -598,11 +598,11 @@
             "Ontology ID": "UBERON:0001538",
             "Parent artery": "Popliteal artery",
             "Target FTU": [
-				"Flexor digitorum longus",
-				"Quadratus plantae",
-				"Adductor hallucis",
-				"Flexor digitorum brevis"
-			],
+                "Flexor digitorum longus",
+                "Quadratus plantae",
+                "Adductor hallucis",
+                "Flexor digitorum brevis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -614,10 +614,10 @@
             "Ontology ID": "FMA:71562",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
-				"Adductor hallucis",
-				"Flexor digitorum brevis",
-				"Quadratus plantae"
-			],
+                "Adductor hallucis",
+                "Flexor digitorum brevis",
+                "Quadratus plantae"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -627,10 +627,10 @@
             "Ontology ID": "FMA:71562",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
-				"Adductor hallucis",
-				"Flexor digitorum brevis",
-				"Quadratus plantae"
-			],
+                "Adductor hallucis",
+                "Flexor digitorum brevis",
+                "Quadratus plantae"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -642,14 +642,14 @@
             "Ontology ID": "ILX:0746577",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
-				"Popliteus",
-				"Soleus",
-				"Tibialis posterior",
-				"Flexor hallucis longus",
-				"Fibularis longus",
-				"Fibularis brevis",
-				"Extensor digitorum brevis"
-			],
+                "Popliteus",
+                "Soleus",
+                "Tibialis posterior",
+                "Flexor hallucis longus",
+                "Fibularis longus",
+                "Fibularis brevis",
+                "Extensor digitorum brevis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -659,14 +659,14 @@
             "Ontology ID": "ILX:0746577",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
-				"Popliteus",
-				"Soleus",
-				"Tibialis posterior",
-				"Flexor hallucis longus",
-				"Fibularis longus",
-				"Fibularis brevis",
-				"Extensor digitorum brevis"
-			],
+                "Popliteus",
+                "Soleus",
+                "Tibialis posterior",
+                "Flexor hallucis longus",
+                "Fibularis longus",
+                "Fibularis brevis",
+                "Extensor digitorum brevis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No ",
             "Duplicated in FC flatmap": "No"
@@ -678,11 +678,11 @@
             "Ontology ID": "FMA:44630",
             "Parent artery": "Fibular artery",
             "Target FTU": [
-				"Lateral head of gastrocnemius",
-				"Soleus",
-				"Fibularis longus",
-				"Medial head of gastrocnemius"
-			],
+                "Lateral head of gastrocnemius",
+                "Soleus",
+                "Fibularis longus",
+                "Medial head of gastrocnemius"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -692,11 +692,11 @@
             "Ontology ID": "FMA:44630",
             "Parent artery": "Fibular artery",
             "Target FTU": [
-				"Lateral head of gastrocnemius",
-				"Soleus",
-				"Fibularis longus",
-				"Medial head of gastrocnemius"
-			],
+                "Lateral head of gastrocnemius",
+                "Soleus",
+                "Fibularis longus",
+                "Medial head of gastrocnemius"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -708,10 +708,10 @@
             "Ontology ID": "UBERON:0001541",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
-				"Oblique head of adductor hallucis",
-				"Transverse head of adductor hallucis",
-				"Flexor digitorum brevis"
-			],
+                "Oblique head of adductor hallucis",
+                "Transverse head of adductor hallucis",
+                "Flexor digitorum brevis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -721,10 +721,10 @@
             "Ontology ID": "UBERON:0001541",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
-				"Oblique head of adductor hallucis",
-				"Transverse head of adductor hallucis",
-				"Flexor digitorum brevis"
-			],
+                "Oblique head of adductor hallucis",
+                "Transverse head of adductor hallucis",
+                "Flexor digitorum brevis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -736,9 +736,9 @@
             "Ontology ID": "ILX:0749036",
             "Parent artery": "Medial plantar artery",
             "Target FTU": [
-				"abductor hallucis",
-				"flexor digitorum brevis",
-			],
+                "abductor hallucis",
+                "flexor digitorum brevis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
@@ -749,9 +749,9 @@
             "Ontology ID": "ILX:0749036",
             "Parent artery": "Medial plantar artery",
             "Target FTU": [
-				"abductor hallucis",
-				"flexor digitorum brevis",
-			],
+                "abductor hallucis",
+                "flexor digitorum brevis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -763,9 +763,9 @@
             "Ontology ID": "ILX:0746324",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
-				"Oblique head of adductor hallucis",
-				"Transverse head of adductor hallucis"
-			],
+                "Oblique head of adductor hallucis",
+                "Transverse head of adductor hallucis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -775,9 +775,9 @@
             "Ontology ID": "ILX:0746324",
             "Parent artery": "Posterior tibial artery",
             "Target FTU": [
-				"Oblique head of adductor hallucis",
-				"Transverse head of adductor hallucis"
-			],
+                "Oblique head of adductor hallucis",
+                "Transverse head of adductor hallucis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -809,9 +809,9 @@
             "Ontology ID": "UBERON:0035195",
             "Parent artery": "Plantar arch",
             "Target FTU": [
-				"Oblique head of adductor hallucis",
-				"Transverse head of adductor hallucis"
-			],
+                "Oblique head of adductor hallucis",
+                "Transverse head of adductor hallucis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -821,9 +821,9 @@
             "Ontology ID": "UBERON:0035195",
             "Parent artery": "Plantar arch",
             "Target FTU": [
-				"Oblique head of adductor hallucis",
-				"Transverse head of adductor hallucis"
-			],
+                "Oblique head of adductor hallucis",
+                "Transverse head of adductor hallucis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -875,14 +875,14 @@
             "Ontology ID": "UBERON:0004540",
             "Parent artery": "Common plantar digital arteries",
             "Target FTU": [
-				"Lumbrical muscles of foot",
-				"Flexor digitorum brevis",
-				"Adductor hallucis",
-				"Medial head of flexor hallucis brevis",
-				"Lateral head of flexor hallucis brevis",
-				"Abductor digiti minimi of foot",
-				"Plantar interossei muscles"
-			],
+                "Lumbrical muscles of foot",
+                "Flexor digitorum brevis",
+                "Adductor hallucis",
+                "Medial head of flexor hallucis brevis",
+                "Lateral head of flexor hallucis brevis",
+                "Abductor digiti minimi of foot",
+                "Plantar interossei muscles"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes ",
             "Duplicated in FC flatmap": "No",
@@ -893,14 +893,14 @@
             "Ontology ID": "UBERON:0004540",
             "Parent artery": "Common plantar digital arteries",
             "Target FTU": [
-				"Lumbrical muscles of foot",
-				"Flexor digitorum brevis",
-				"Adductor hallucis",
-				"Medial head of flexor hallucis brevis",
-				"Lateral head of flexor hallucis brevis",
-				"Abductor digiti minimi of foot",
-				"Plantar interossei muscles"
-			],
+                "Lumbrical muscles of foot",
+                "Flexor digitorum brevis",
+                "Adductor hallucis",
+                "Medial head of flexor hallucis brevis",
+                "Lateral head of flexor hallucis brevis",
+                "Abductor digiti minimi of foot",
+                "Plantar interossei muscles"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No ",
             "Duplicated in FC flatmap": "No",
@@ -960,18 +960,18 @@
             "Ontology ID": "ILX:0743226",
             "Parent artery": "Thoracic aorta",
             "Target FTU": [
-				"External intercostals",
-				"Internal intercostals",
-				"Innermost intercostals",
-				"Transversus thoracis",
-				"Levatores longi costarum",
-				"Levatores breves costarum",
-				"Serratus posterior superior",
-				"Iliocostalis thoracis",
-				"Semispinalis thoracis",
-				"Rotatores",
-				"Interspinales thoracis"
-			],
+                "External intercostals",
+                "Internal intercostals",
+                "Innermost intercostals",
+                "Transversus thoracis",
+                "Levatores longi costarum",
+                "Levatores breves costarum",
+                "Serratus posterior superior",
+                "Iliocostalis thoracis",
+                "Semispinalis thoracis",
+                "Rotatores",
+                "Interspinales thoracis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -981,18 +981,18 @@
             "Ontology ID": "ILX:0743226",
             "Parent artery": "Thoracic aorta",
             "Target FTU": [
-				"External intercostals",
-				"Internal intercostals",
-				"Innermost intercostals",
-				"Transversus thoracis",
-				"Levatores longi costarum",
-				"Levatores breves costarum",
-				"Serratus posterior superior",
-				"Iliocostalis thoracis",
-				"Semispinalis thoracis",
-				"Rotatores",
-				"Interspinales thoracis"
-			],
+                "External intercostals",
+                "Internal intercostals",
+                "Innermost intercostals",
+                "Transversus thoracis",
+                "Levatores longi costarum",
+                "Levatores breves costarum",
+                "Serratus posterior superior",
+                "Iliocostalis thoracis",
+                "Semispinalis thoracis",
+                "Rotatores",
+                "Interspinales thoracis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes",
@@ -1005,14 +1005,14 @@
             "Ontology ID": "UBERON:0001561",
             "Parent artery": "Thoracic aorta",
             "Target FTU": [
-				"Quadratus lumborum",
-				"Serratus posterior inferior",
-				"Transversus abdominis",
-				"Internal oblique",
-				"Rectus abdominis",
-				"Iliocostalis thoracis",
-				"Interspinales thoracis"
-			],
+                "Quadratus lumborum",
+                "Serratus posterior inferior",
+                "Transversus abdominis",
+                "Internal oblique",
+                "Rectus abdominis",
+                "Iliocostalis thoracis",
+                "Interspinales thoracis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -1022,14 +1022,14 @@
             "Ontology ID": "UBERON:0001561",
             "Parent artery": "Thoracic aorta",
             "Target FTU": [
-				"Quadratus lumborum",
-				"Serratus posterior inferior",
-				"Transversus abdominis",
-				"Internal oblique",
-				"Rectus abdominis",
-				"Iliocostalis thoracis",
-				"Interspinales thoracis"
-			],
+                "Quadratus lumborum",
+                "Serratus posterior inferior",
+                "Transversus abdominis",
+                "Internal oblique",
+                "Rectus abdominis",
+                "Iliocostalis thoracis",
+                "Interspinales thoracis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes",
@@ -1076,22 +1076,22 @@
             "Ontology ID": "UBERON:0006636",
             "Parent artery": "Abdominal aorta",
             "Target FTU": [
-				"Iliocostalis lumborum",
-				"Longissimus thoracis",
-				"Quadratus lumborum",
-				"Psoas major",
-				"Transversus abdominis",
-				"Internal abdominal oblique",
-				"External abdominal oblique",
-				"Multifidus lumborum",
-				"Dorsal parts of lateral intertransversarii lumborum",
-				"Ventral parts of lateral intertransversarii lumborum",
-				"Intertransversarii",
-				"Multifidus thoracis",
-				"Rotatores",
-				"Interspinales lumborum",
-				"Psoas minor"
-			],
+                "Iliocostalis lumborum",
+                "Longissimus thoracis",
+                "Quadratus lumborum",
+                "Psoas major",
+                "Transversus abdominis",
+                "Internal abdominal oblique",
+                "External abdominal oblique",
+                "Multifidus lumborum",
+                "Dorsal parts of lateral intertransversarii lumborum",
+                "Ventral parts of lateral intertransversarii lumborum",
+                "Intertransversarii",
+                "Multifidus thoracis",
+                "Rotatores",
+                "Interspinales lumborum",
+                "Psoas minor"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -1101,22 +1101,22 @@
             "Ontology ID": "UBERON:0006636",
             "Parent artery": "Abdominal aorta",
             "Target FTU": [
-				"Iliocostalis lumborum",
-				"Longissimus thoracis",
-				"Quadratus lumborum",
-				"Psoas major",
-				"Transversus abdominis",
-				"Internal abdominal oblique",
-				"External abdominal oblique",
-				"Multifidus lumborum",
-				"Dorsal parts of lateral intertransversarii lumborum",
-				"Ventral parts of lateral intertransversarii lumborum",
-				"Intertransversarii",
-				"Multifidus thoracis",
-				"Rotatores",
-				"Interspinales lumborum",
-				"Psoas minor"
-			],
+                "Iliocostalis lumborum",
+                "Longissimus thoracis",
+                "Quadratus lumborum",
+                "Psoas major",
+                "Transversus abdominis",
+                "Internal abdominal oblique",
+                "External abdominal oblique",
+                "Multifidus lumborum",
+                "Dorsal parts of lateral intertransversarii lumborum",
+                "Ventral parts of lateral intertransversarii lumborum",
+                "Intertransversarii",
+                "Multifidus thoracis",
+                "Rotatores",
+                "Interspinales lumborum",
+                "Psoas minor"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -1139,13 +1139,13 @@
             "Ontology ID": "UBERON:0001192",
             "Parent artery": "Coeliac trunk",
             "Target FTU": [
-				"Stomach",
-				"Esophagus"
-			],
+                "Stomach",
+                "Esophagus"
+            ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "It supplies blood to the stomach and the lower part of the esophagus. laterality is NA although there are right and left gastric arteries, as indicated in the literature."
+            "Note": "It supplies blood to the stomach and the lower part of the esophagus. laterality is NA although there are right and left gastric arteries, as indicated in the literature."
         }
     ],
     "Splenic artery": [
@@ -1154,14 +1154,14 @@
             "Ontology ID": "UBERON:0001194",
             "Parent artery": "Coeliac trunk",
             "Target FTU": [
-				"Spleen",
-				"Pancreas",
-				"Stomach"
-			],
+                "Spleen",
+                "Pancreas",
+                "Stomach"
+            ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "It supplies blood to the spleen, pancreas, and stomach. Spleen does not have vascular inlet."
+            "Note": "It supplies blood to the spleen, pancreas, and stomach. Spleen does not have vascular inlet."
         }
     ],
     "Common hepatic artery": [
@@ -1181,14 +1181,14 @@
             "Ontology ID": "UBERON:0010132",
             "Parent artery": "Common hepatic artery",
             "Target FTU": [
-				"Stomach",
-				"Duodenum",
-				"pancreas"
-			],
+                "Stomach",
+                "Duodenum",
+                "pancreas"
+            ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "It supplies the pylorus of the stomach, superior part of the duodenum, and the head of the pancreas."
+            "Note": "It supplies the pylorus of the stomach, superior part of the duodenum, and the head of the pancreas."
         }
     ],
     "Proper hepatic artery": [
@@ -1197,10 +1197,10 @@
             "Ontology ID": "UBERON:0015480",
             "Parent artery": "Common hepatic artery",
             "Target FTU": [
-				"Liver",
-				"Gallbladder",
-				"Stomach"
-			],
+                "Liver",
+                "Gallbladder",
+                "Stomach"
+            ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
@@ -1215,7 +1215,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "NA"
         }
     ],
     "Middle colic artery": [
@@ -1227,7 +1227,7 @@
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "It supplies the proximal two thirds of the transverse colon. There is a single vascular inlet for the lower GI tract in FC. Additionally, laterality is NA although there are right and left middle colic arteries, as indicated in the literature."
+            "Note": "It supplies the proximal two thirds of the transverse colon. There is a single vascular inlet for the lower GI tract in FC. Additionally, laterality is NA although there are right and left middle colic arteries, as indicated in the literature."
         }
     ],
     "Right colic artery": [
@@ -1251,7 +1251,7 @@
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "The marginal artery, also known as the artery of Drummond, supplies the proximal descending colon at the splenic flexure."
+            "Note": "The marginal artery, also known as the artery of Drummond, supplies the proximal descending colon at the splenic flexure."
         }
     ],
     "Ileocolic artery": [
@@ -1275,7 +1275,7 @@
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "It supplies blood to the appendix, a small, finger-like pouch attached to the caecum. There is a single vascular inlet for the lower GI tract in FC."
+            "Note": "It supplies blood to the appendix, a small, finger-like pouch attached to the caecum. There is a single vascular inlet for the lower GI tract in FC."
         }
     ],
     "Ileal branch of ileocolic artery": [
@@ -1287,7 +1287,7 @@
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "laterality is NA although there are right and left middle colic arteries, as indicated in the literature.",
+            "Note": "laterality is NA although there are right and left middle colic arteries, as indicated in the literature.",
             "Note": "It supplies the junction between the ileum and the caecum. There is a single vascular inlet for the lower GI tract in FC."
         }
     ],
@@ -1321,13 +1321,13 @@
             "Ontology ID": "ILX:0747993",
             "Parent artery": "Inferior pancreaticoduodenal artery",
             "Target FTU": [
-				"Pancreas",
-				"Lower GI tract"
-			],
+                "Pancreas",
+                "Lower GI tract"
+            ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "It supplies the head of the pancreas as well as the inferior regions of the duodenum. There is a single vascular inlet for the lower GI tract in FC."
+            "Note": "It supplies the head of the pancreas as well as the inferior regions of the duodenum. There is a single vascular inlet for the lower GI tract in FC."
         }
     ],
     "Inferior mesenteric artery": [
@@ -1361,7 +1361,7 @@
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "It supplies the descending colon. There is a single vascular inlet for the lower GI tract in FC."
+            "Note": "It supplies the descending colon. There is a single vascular inlet for the lower GI tract in FC."
         }
     ],
     "Descending branch of left colic artery": [
@@ -1373,7 +1373,7 @@
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "NA",
-			"Note": "It supplies the descending colon, and the sigmoid colon. There is a single vascular inlet for the lower GI tract in FC. There is no FTU for the descending colon and sigmoid colocn."
+            "Note": "It supplies the descending colon, and the sigmoid colon. There is a single vascular inlet for the lower GI tract in FC. There is no FTU for the descending colon and sigmoid colocn."
         }
     ],
     "Sigmoid arteries": [
@@ -1393,9 +1393,9 @@
             "Ontology ID": "nan",
             "Parent artery": "Inferior mesenteric artery",
             "Target FTU": [
-				"Lower GI tract",
-				"External anal sphincter"
-			],
+                "Lower GI tract",
+                "External anal sphincter"
+            ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "nan"
@@ -1599,9 +1599,9 @@
             "Ontology ID": "UBERON:0001354",
             "Parent artery": "External iliac artery",
             "Target FTU": [
-				"Rectus abdominis",
-				"Pyramidalis"
-			],
+                "Rectus abdominis",
+                "Pyramidalis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -1611,9 +1611,9 @@
             "Ontology ID": "UBERON:0001354",
             "Parent artery": "External iliac artery",
             "Target FTU": [
-				"Rectus abdominis",
-				"Pyramidalis"
-			],
+                "Rectus abdominis",
+                "Pyramidalis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -1685,9 +1685,9 @@
             "Ontology ID": "ILX:0743592",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": [
-				"Quadratus lumborum",
-				"Iliocostalis lumborum"
-			],
+                "Quadratus lumborum",
+                "Iliocostalis lumborum"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -1697,9 +1697,9 @@
             "Ontology ID": "ILX:0743592",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": [
-				"Quadratus lumborum",
-				"Iliocostalis lumborum"
-			],
+                "Quadratus lumborum",
+                "Iliocostalis lumborum"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -1711,7 +1711,7 @@
             "Ontology ID": "ILX:0748730",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": "Multifidus lumborum",
-			"Laterality": "Right",
+            "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
         },
@@ -1731,9 +1731,9 @@
             "Ontology ID": "ILX:0744226",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": [
-				"iliacus",
-				"Psoas major"
-			],
+                "iliacus",
+                "Psoas major"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -1743,9 +1743,9 @@
             "Ontology ID": "ILX:0744226",
             "Parent artery": "Iliolumbar artery",
             "Target FTU": [
-				"iliacus",
-				"Psoas major"
-			],
+                "iliacus",
+                "Psoas major"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -1757,10 +1757,10 @@
             "Ontology ID": "UBERON:0001315",
             "Parent artery": "Posterior division of iliac artery",
             "Target FTU": [
-				"Gluteus medius",
-				"Gluteus minimus",
-				"Tensor fasciae latae"
-			],
+                "Gluteus medius",
+                "Gluteus minimus",
+                "Tensor fasciae latae"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -1770,10 +1770,10 @@
             "Ontology ID": "UBERON:0001315",
             "Parent artery": "Posterior division of iliac artery",
             "Target FTU": [
-				"Gluteus medius",
-				"Gluteus minimus",
-				"Tensor fasciae latae"
-			],
+                "Gluteus medius",
+                "Gluteus minimus",
+                "Tensor fasciae latae"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -1805,17 +1805,17 @@
             "Ontology ID": "ILX:0742448",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": [
-				"Gluteus maximus",
-				"Gluteus medius",
-				"Gluteus minimus",
-				"Piriformis",
-				"Coccygeus",
-				"Iliococcygeus",
-				"Pubococcygeus",
-				"Pubo-analis",
-				"Semitendinosus",
-				"Quadratus femoris"
-			],
+                "Gluteus maximus",
+                "Gluteus medius",
+                "Gluteus minimus",
+                "Piriformis",
+                "Coccygeus",
+                "Iliococcygeus",
+                "Pubococcygeus",
+                "Pubo-analis",
+                "Semitendinosus",
+                "Quadratus femoris"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -1825,17 +1825,17 @@
             "Ontology ID": "ILX:0742448",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": [
-				"Gluteus maximus",
-				"Gluteus medius",
-				"Gluteus minimus",
-				"Piriformis",
-				"Coccygeus",
-				"Iliococcygeus",
-				"Pubococcygeus",
-				"Pubo-analis",
-				"Semitendinosus",
-				"Quadratus femoris"
-			],
+                "Gluteus maximus",
+                "Gluteus medius",
+                "Gluteus minimus",
+                "Piriformis",
+                "Coccygeus",
+                "Iliococcygeus",
+                "Pubococcygeus",
+                "Pubo-analis",
+                "Semitendinosus",
+                "Quadratus femoris"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -1907,12 +1907,12 @@
             "Ontology ID": "UBERON:0001314",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": [
-				"Gracilis",
-				"Adductor brevis",
-				"Adductor longus",
-				"Obturator externus",
-				"Obturator internus"
-			],
+                "Gracilis",
+                "Adductor brevis",
+                "Adductor longus",
+                "Obturator externus",
+                "Obturator internus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -1922,12 +1922,12 @@
             "Ontology ID": "UBERON:000131",
             "Parent artery": "Anterior division of iliac artery",
             "Target FTU": [
-				"Gracilis",
-				"Adductor brevis",
-				"Adductor longus",
-				"Obturator externus",
-				"Obturator internus"
-			],
+                "Gracilis",
+                "Adductor brevis",
+                "Adductor longus",
+                "Obturator externus",
+                "Obturator internus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2035,7 +2035,7 @@
             "Duplicated in FC flatmap": "Yes"
         }
     ],
-	"Medial pontine branches of basilar artery": [
+    "Medial pontine branches of basilar artery": [
         {
             "Arteries": "Medial pontine branches of basilar artery",
             "Ontology ID": "nan",
@@ -2182,9 +2182,9 @@
             "Ontology ID": "UBERON:0006632",
             "Parent artery": "Internal thoracic artery",
             "Target FTU": [
-				"diaphragm",
-				"Internal intercostals",
-			],
+                "diaphragm",
+                "Internal intercostals"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -2194,9 +2194,9 @@
             "Ontology ID": "UBERON:0006632",
             "Parent artery": "Internal thoracic artery",
             "Target FTU": [
-				"diaphragm",
-				"Internal intercostals"
-			],
+                "diaphragm",
+                "Internal intercostals"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -2210,8 +2210,8 @@
             "Target FTU": "Rectus abdominis",
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "Yes"
-			"note": "add the Pyramidalis to here and map."
+            "Duplicated in FC flatmap": "Yes",
+            "note": "add the Pyramidalis to here and map."
         },
         {
             "Arteries": "Superior epigastric artery",
@@ -2249,23 +2249,23 @@
             "Ontology ID": "UBERON:0007149",
             "Parent artery": "Thyrocervical trunk",
             "Target FTU": [
-				"Inferior pharyngeal constrictor",
-				"Longus colli",
-				"Longus capitis",
-				"Omohyoid",
-				"Rectus anterior capitis",
-				"Rectus lateralis capitis",
-				"Scalenus anterior",
-				"Scalenus midius",
-				"Scalenus posterior",
-				"Transverse arytenoid",
-				"Ary-epiglottic part of oblique arytenoid",
-				"External part of thyro-arytenoid",
-				"Thyro-epiglottic part of thyro-arytenoid",
-				"Posterior crico-arytenoid muscles",
-				"Lateral crico-arytenoid muscles",
-				"Longissimus colli"
-			],
+                "Inferior pharyngeal constrictor",
+                "Longus colli",
+                "Longus capitis",
+                "Omohyoid",
+                "Rectus anterior capitis",
+                "Rectus lateralis capitis",
+                "Scalenus anterior",
+                "Scalenus midius",
+                "Scalenus posterior",
+                "Transverse arytenoid",
+                "Ary-epiglottic part of oblique arytenoid",
+                "External part of thyro-arytenoid",
+                "Thyro-epiglottic part of thyro-arytenoid",
+                "Posterior crico-arytenoid muscles",
+                "Lateral crico-arytenoid muscles",
+                "Longissimus colli"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2275,23 +2275,23 @@
             "Ontology ID": "UBERON:0007149",
             "Parent artery": "Thyrocervical trunk",
             "Target FTU": [
-				"Inferior pharyngeal constrictor",
-				"Longus colli",
-				"Longus capitis",
-				"Omohyoid",
-				"Rectus anterior capitis",
-				"Rectus lateralis capitis",
-				"Scalenus anterior",
-				"Scalenus midius",
-				"Scalenus posterior",
-				"Transverse arytenoid",
-				"Ary-epiglottic part of oblique arytenoid",
-				"External part of thyro-arytenoid",
-				"Thyro-epiglottic part of thyro-arytenoid",
-				"Posterior crico-arytenoid muscles",
-				"Lateral crico-arytenoid muscles",
-				"Longissimus colli"
-			],
+                "Inferior pharyngeal constrictor",
+                "Longus colli",
+                "Longus capitis",
+                "Omohyoid",
+                "Rectus anterior capitis",
+                "Rectus lateralis capitis",
+                "Scalenus anterior",
+                "Scalenus midius",
+                "Scalenus posterior",
+                "Transverse arytenoid",
+                "Ary-epiglottic part of oblique arytenoid",
+                "External part of thyro-arytenoid",
+                "Thyro-epiglottic part of thyro-arytenoid",
+                "Posterior crico-arytenoid muscles",
+                "Lateral crico-arytenoid muscles",
+                "Longissimus colli"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2343,12 +2343,12 @@
             "Ontology ID": "UBERON:0001071",
             "Parent artery": "Transverse cervical artery",
             "Target FTU": [
-				"Ascending part of trapezius",
-				"Descending part of trapezius",
-				"Transverse part of trapezius",
-				"Sternocleidomastoid",
-				"Platysma"
-			],
+                "Ascending part of trapezius",
+                "Descending part of trapezius",
+                "Transverse part of trapezius",
+                "Sternocleidomastoid",
+                "Platysma"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2358,12 +2358,12 @@
             "Ontology ID": "UBERON:0001071",
             "Parent artery": "Transverse cervical artery",
             "Target FTU": [
-				"Ascending part of trapezius",
-				"Descending part of trapezius",
-				"Transverse part of trapezius",
-				"Sternocleidomastoid",
-				"Platysma"
-			],
+                "Ascending part of trapezius",
+                "Descending part of trapezius",
+                "Transverse part of trapezius",
+                "Sternocleidomastoid",
+                "Platysma"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2375,11 +2375,11 @@
             "Ontology ID": "ILX:0747787",
             "Parent artery": "Transverse cervical artery",
             "Target FTU": [
-				"Rhomboid major",
-				"Rhomboid minor",
-				"levator scapulae",
-				"Longissimus capitis"
-			],
+                "Rhomboid major",
+                "Rhomboid minor",
+                "levator scapulae",
+                "Longissimus capitis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2389,11 +2389,11 @@
             "Ontology ID": "ILX:0747787",
             "Parent artery": "Transverse cervical artery",
             "Target FTU": [
-				"Rhomboid major",
-				"Rhomboid minor",
-				"levator scapulae",
-				"Longissimus capitis"
-			],
+                "Rhomboid major",
+                "Rhomboid minor",
+                "levator scapulae",
+                "Longissimus capitis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2425,17 +2425,17 @@
             "Ontology ID": "UBERON:0012321",
             "Parent artery": "Costocervical trunk",
             "Target FTU": [
-				"longus colli",
-				"Longus capitis",
-				"Iliocostalis colli",
-				"Longissimus capitis",
-				"Spinalis thoracis",
-				"Spinalis capitis",
-				"Splenius colli",
-				"Multifidus colli",
-				"Multifidus thoracis",
-				"Interspinales colli"
-			],
+                "longus colli",
+                "Longus capitis",
+                "Iliocostalis colli",
+                "Longissimus capitis",
+                "Spinalis thoracis",
+                "Spinalis capitis",
+                "Splenius colli",
+                "Multifidus colli",
+                "Multifidus thoracis",
+                "Interspinales colli"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2445,17 +2445,17 @@
             "Ontology ID": "UBERON:0012321",
             "Parent artery": "Costocervical trunk",
             "Target FTU": [
-				"longus colli",
-				"Longus capitis",
-				"Iliocostalis colli",
-				"Longissimus capitis",
-				"Spinalis thoracis",
-				"Spinalis capitis",
-				"Splenius colli",
-				"Multifidus colli",
-				"Multifidus thoracis",
-				"Interspinales colli"
-			],
+                "longus colli",
+                "Longus capitis",
+                "Iliocostalis colli",
+                "Longissimus capitis",
+                "Spinalis thoracis",
+                "Spinalis capitis",
+                "Splenius colli",
+                "Multifidus colli",
+                "Multifidus thoracis",
+                "Interspinales colli"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2487,11 +2487,11 @@
             "Ontology ID": "ILX:0743301",
             "Parent artery": "Supreme intercostal artery",
             "Target FTU": [
-				"External intercostals",
-				"Internal intercostals",
-				"Innermost intercostals",
-				"Iliocostalis thoracis"
-			],
+                "External intercostals",
+                "Internal intercostals",
+                "Innermost intercostals",
+                "Iliocostalis thoracis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2501,11 +2501,11 @@
             "Ontology ID": "ILX:0743301",
             "Parent artery": "Supreme intercostal artery",
             "Target FTU": [
-				"External intercostals",
-				"Internal intercostals",
-				"Innermost intercostals",
-				"Iliocostalis thoracis"
-			],
+                "External intercostals",
+                "Internal intercostals",
+                "Innermost intercostals",
+                "Iliocostalis thoracis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2517,11 +2517,11 @@
             "Ontology ID": "ILX:0743655",
             "Parent artery": "Supreme intercostal artery",
             "Target FTU": [
-				"External intercostals",
-				"Internal intercostals",
-				"Innermost intercostals",
-				"Iliocostalis thoracis" 
-			],
+                "External intercostals",
+                "Internal intercostals",
+                "Innermost intercostals",
+                "Iliocostalis thoracis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2531,11 +2531,11 @@
             "Ontology ID": "ILX:0743655",
             "Parent artery": "Supreme intercostal artery",
             "Target FTU": [
-				"External intercostals",
-				"Internal intercostals",
-				"Innermost intercostals",
-				"Iliocostalis thoracis"
-			],
+                "External intercostals",
+                "Internal intercostals",
+                "Innermost intercostals",
+                "Iliocostalis thoracis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2558,8 +2558,8 @@
             "Target FTU": "NA",
             "Laterality": "Left",
             "Added in FC flatmap": "No",
-            "Duplicated in FC flatmap": "No"
-			"Note": " add Subclavius here and connect in the map"
+            "Duplicated in FC flatmap": "No",
+            "Note": " add Subclavius here and connect in the map"
         }
     ],
     "Thoraco-acromial artery": [
@@ -2588,11 +2588,11 @@
             "Ontology ID": "ILX:0744853",
             "Parent artery": "Thoraco-acromial artery",
             "Target FTU": [
-				"Clavicular head of pectoralis major",
-				"Sternocostal head of pectoralis major",
-				"Abdominal part of pectoralis major",
-				"Pectoralis minor"
-			],
+                "Clavicular head of pectoralis major",
+                "Sternocostal head of pectoralis major",
+                "Abdominal part of pectoralis major",
+                "Pectoralis minor"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2602,11 +2602,11 @@
             "Ontology ID": "ILX:0744853",
             "Parent artery": "Thoraco-acromial artery",
             "Target FTU": [
-				"Clavicular head of pectoralis major",
-				"Sternocostal head of pectoralis major",
-				"Abdominal part of pectoralis major",
-				"Pectoralis minor"
-			],
+                "Clavicular head of pectoralis major",
+                "Sternocostal head of pectoralis major",
+                "Abdominal part of pectoralis major",
+                "Pectoralis minor"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2618,13 +2618,13 @@
             "Ontology ID": "UBERON:0001396",
             "Parent artery": "Axillary artery",
             "Target FTU": [
-				"Serratus anterior",
-				"Subscapularis",
-				"Clavicular head of pectoralis major",
-				"Sternocostal head of pectoralis major",
-				"Abdominal part of pectoralis major",
-				"Pectoralis minor"
-			],
+                "Serratus anterior",
+                "Subscapularis",
+                "Clavicular head of pectoralis major",
+                "Sternocostal head of pectoralis major",
+                "Abdominal part of pectoralis major",
+                "Pectoralis minor"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2634,13 +2634,13 @@
             "Ontology ID": "UBERON:0001396",
             "Parent artery": "Axillary artery",
             "Target FTU": [
-				"Serratus anterior",
-				"Subscapularis",
-				"Clavicular head of pectoralis major",
-				"Sternocostal head of pectoralis major",
-				"Abdominal part of pectoralis major",
-				"Pectoralis minor"
-			],
+                "Serratus anterior",
+                "Subscapularis",
+                "Clavicular head of pectoralis major",
+                "Sternocostal head of pectoralis major",
+                "Abdominal part of pectoralis major",
+                "Pectoralis minor"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2712,32 +2712,32 @@
             "Ontology ID": "ILX:0742490",
             "Parent artery": "Axillary artery",
             "Target FTU": [
-				"Clavicular part of deltoid",
-				"Acromial part of deltoid",
-				"Scapular spinal part of deltoid",
-				"Supraspinatus",
-				"Infraspinatus",
-				"Teres minor",
-				"Subscapularis"
-			],
+                "Clavicular part of deltoid",
+                "Acromial part of deltoid",
+                "Scapular spinal part of deltoid",
+                "Supraspinatus",
+                "Infraspinatus",
+                "Teres minor",
+                "Subscapularis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "No""
-			"note": " remove from here."
+            "Duplicated in FC flatmap": "No",
+            "note": " remove from here."
         },
         {
             "Arteries": "Anterior circumflex humeral artery",
             "Ontology ID": "ILX:0742490",
             "Parent artery": "Axillary artery",
             "Target FTU": [
-				"Clavicular part of deltoid",
-				"Acromial part of deltoid",
-				"Scapular spinal part of deltoid",
-				"Supraspinatus",
-				"Infraspinatus",
-				"Teres minor",
-				"Subscapularis"
-			],
+                "Clavicular part of deltoid",
+                "Acromial part of deltoid",
+                "Scapular spinal part of deltoid",
+                "Supraspinatus",
+                "Infraspinatus",
+                "Teres minor",
+                "Subscapularis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2749,14 +2749,14 @@
             "Ontology ID": "ILX:0742363",
             "Parent artery": "Axillary artery",
             "Target FTU": [
-				"Clavicular part of deltoid",
-				"Acromial part of deltoid",
-				"Teres minor",
-				"Teres major",
-				"Long head of triceps brachii",
-				"Lateral head of triceps brachii",
-				"Medial head of triceps brachii"
-			],
+                "Clavicular part of deltoid",
+                "Acromial part of deltoid",
+                "Teres minor",
+                "Teres major",
+                "Long head of triceps brachii",
+                "Lateral head of triceps brachii",
+                "Medial head of triceps brachii"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2766,14 +2766,14 @@
             "Ontology ID": "ILX:0742363",
             "Parent artery": "Axillary artery",
             "Target FTU": [
-				"Clavicular part of deltoid",
-				"Acromial part of deltoid",
-				"Teres minor",
-				"Teres major",
-				"Long head of triceps brachii",
-				"Lateral head of triceps brachii",
-				"Medial head of triceps brachii"
-			],
+                "Clavicular part of deltoid",
+                "Acromial part of deltoid",
+                "Teres minor",
+                "Teres major",
+                "Long head of triceps brachii",
+                "Lateral head of triceps brachii",
+                "Medial head of triceps brachii"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2885,14 +2885,14 @@
             "Ontology ID": "ILX:0746584",
             "Parent artery": "Brachial artery",
             "Target FTU": [
-				"Brachialis",
-				"Long head of biceps brachii",
-				"Short head of biceps brachii",
-				"Coracobrachialis",
-				"Superficial head of pronator teres",
-				"Deep head of pronator teres",
-				"Flexor digitorum profundus"
-			],
+                "Brachialis",
+                "Long head of biceps brachii",
+                "Short head of biceps brachii",
+                "Coracobrachialis",
+                "Superficial head of pronator teres",
+                "Deep head of pronator teres",
+                "Flexor digitorum profundus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2902,14 +2902,14 @@
             "Ontology ID": "ILX:0746584",
             "Parent artery": "Brachial artery",
             "Target FTU": [
-				"Brachialis",
-				"Long head of biceps brachii",
-				"Short head of biceps brachii",
-				"Coracobrachialis",
-				"Superficial head of pronator teres",
-				"Deep head of pronator teres",
-				"Flexor digitorum profundus"
-			],
+                "Brachialis",
+                "Long head of biceps brachii",
+                "Short head of biceps brachii",
+                "Coracobrachialis",
+                "Superficial head of pronator teres",
+                "Deep head of pronator teres",
+                "Flexor digitorum profundus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2921,16 +2921,16 @@
             "Ontology ID": "UBERON:0001404",
             "Parent artery": "Brachial artery",
             "Target FTU": [
-				"Brachial artery",
-				"Extensor carpi radialis longus",
-				"Extensor carpi radialis brevis",
-				"Opponens pollicis",
-				"Superficial head of flexor pollicis brevis",
-				"Deep head of flexor pollicis brevis",
-				"Abductor pollicis brevis",
-				"Oblique head of adductor pollicis",
-				"Transverse head of adductor pollicis"
-			],
+                "Brachial artery",
+                "Extensor carpi radialis longus",
+                "Extensor carpi radialis brevis",
+                "Opponens pollicis",
+                "Superficial head of flexor pollicis brevis",
+                "Deep head of flexor pollicis brevis",
+                "Abductor pollicis brevis",
+                "Oblique head of adductor pollicis",
+                "Transverse head of adductor pollicis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -2940,16 +2940,16 @@
             "Ontology ID": "UBERON:0001404",
             "Parent artery": "Brachial artery",
             "Target FTU": [
-				"Brachial artery",
-				"Extensor carpi radialis longus",
-				"Extensor carpi radialis brevis",
-				"Opponens pollicis",
-				"Superficial head of flexor pollicis brevis",
-				"Deep head of flexor pollicis brevis",
-				"Abductor pollicis brevis",
-				"Oblique head of adductor pollicis",
-				"Transverse head of adductor pollicis"
-			],
+                "Brachial artery",
+                "Extensor carpi radialis longus",
+                "Extensor carpi radialis brevis",
+                "Opponens pollicis",
+                "Superficial head of flexor pollicis brevis",
+                "Deep head of flexor pollicis brevis",
+                "Abductor pollicis brevis",
+                "Oblique head of adductor pollicis",
+                "Transverse head of adductor pollicis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -2964,7 +2964,7 @@
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
-			"Note": "It supplies the anterior aspect of the wrist via their contribution to forming the palmar carpal arch."
+            "Note": "It supplies the anterior aspect of the wrist via their contribution to forming the palmar carpal arch."
         },
         {
             "Arteries": "Palmar carpal branch of radial artery",
@@ -2974,7 +2974,7 @@
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No",
-			"Note": "It supplies the anterior aspect of the wrist via their contribution to forming the palmar carpal arch."
+            "Note": "It supplies the anterior aspect of the wrist via their contribution to forming the palmar carpal arch."
         }
     ],
     "Dorsal carpal anastomosis": [
@@ -3023,10 +3023,10 @@
             "Ontology ID": "UBERON:0006146",
             "Parent artery": "Dorsal metacarpal arteries",
             "Target FTU": [
-				"Lumbrical muscles of hand",
-				"Dorsal interossei muscles of hand",
-				"Palmar interossei muscles"
-			],
+                "Lumbrical muscles of hand",
+                "Dorsal interossei muscles of hand",
+                "Palmar interossei muscles"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3036,10 +3036,10 @@
             "Ontology ID": "UBERON:0006146",
             "Parent artery": "Dorsal metacarpal arteries",
             "Target FTU": [
-				"Lumbrical muscles of hand",
-				"Dorsal interossei muscles of hand",
-				"Palmar interossei muscles"
-			],
+                "Lumbrical muscles of hand",
+                "Dorsal interossei muscles of hand",
+                "Palmar interossei muscles"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3074,7 +3074,7 @@
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
-			"Note": "They supply bones, joints and deep muscles of the hand."
+            "Note": "They supply bones, joints and deep muscles of the hand."
         },
         {
             "Arteries": "Palmar metacarpal arteries",
@@ -3084,7 +3084,7 @@
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No",
-			"Note": "They supply bones, joints and deep muscles of the hand."
+            "Note": "They supply bones, joints and deep muscles of the hand."
         }
     ],
     "Ulnar artery": [
@@ -3093,11 +3093,11 @@
             "Ontology ID": "UBERON:0001406",
             "Parent artery": "Brachial artery",
             "Target FTU": [
-				"Humeral head of extensor carpi ulnaris",
-				"Ulnar head of extensor carpi ulnaris",
-				"Flexor digiti minimi of hand",
-				"Opponens digiti minimi of hand"
-			],
+                "Humeral head of extensor carpi ulnaris",
+                "Ulnar head of extensor carpi ulnaris",
+                "Flexor digiti minimi of hand",
+                "Opponens digiti minimi of hand"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3107,11 +3107,11 @@
             "Ontology ID": "UBERON:0001406",
             "Parent artery": "Brachial artery",
             "Target FTU": [
-				"Humeral head of extensor carpi ulnaris",
-				"Ulnar head of extensor carpi ulnaris",
-				"Flexor digiti minimi of hand",
-				"Opponens digiti minimi of hand"
-			],
+                "Humeral head of extensor carpi ulnaris",
+                "Ulnar head of extensor carpi ulnaris",
+                "Flexor digiti minimi of hand",
+                "Opponens digiti minimi of hand"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3123,14 +3123,14 @@
             "Ontology ID": "ILX:0746157",
             "Parent artery": "Ulnar artery",
             "Target FTU": [
-				"Flexor carpi radialis",
-				"Palmaris longus",
-				"Humeral head of flexor carpi ulnaris",
-				"Ulnar head of flexor carpi ulnaris",
-				"Humero-ulnar head of flexor digitorum superficialis",
-				"Radial head of Flexor digitorum superficialis",
-				"Flexor digitorum profundus"
-			],
+                "Flexor carpi radialis",
+                "Palmaris longus",
+                "Humeral head of flexor carpi ulnaris",
+                "Ulnar head of flexor carpi ulnaris",
+                "Humero-ulnar head of flexor digitorum superficialis",
+                "Radial head of Flexor digitorum superficialis",
+                "Flexor digitorum profundus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3140,14 +3140,14 @@
             "Ontology ID": "ILX:0746157",
             "Parent artery": "Ulnar artery",
             "Target FTU": [
-				"Flexor carpi radialis",
-				"Palmaris longus",
-				"Humeral head of flexor carpi ulnaris",
-				"Ulnar head of flexor carpi ulnaris",
-				"Humero-ulnar head of flexor digitorum superficialis",
-				"Radial head of Flexor digitorum superficialis",
-				"Flexor digitorum profundus"
-			],
+                "Flexor carpi radialis",
+                "Palmaris longus",
+                "Humeral head of flexor carpi ulnaris",
+                "Ulnar head of flexor carpi ulnaris",
+                "Humero-ulnar head of flexor digitorum superficialis",
+                "Radial head of Flexor digitorum superficialis",
+                "Flexor digitorum profundus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3159,9 +3159,9 @@
             "Ontology ID": "ILX:0746667",
             "Parent artery": "Ulnar artery",
             "Target FTU": [
-				"Pronator quadratus",
-				"Flexor pollicis longus"
-			],
+                "Pronator quadratus",
+                "Flexor pollicis longus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3171,9 +3171,9 @@
             "Ontology ID": "ILX:0746667",
             "Parent artery": "Ulnar artery",
             "Target FTU": [
-				"Pronator quadratus",
-				"Flexor pollicis longus"
-			],
+                "Pronator quadratus",
+                "Flexor pollicis longus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3185,14 +3185,14 @@
             "Ontology ID": "ILX:0746749",
             "Parent artery": "Common interosseous artery",
             "Target FTU": [
-				"Abductor pollicis longus",
-				"Supinator",
-				"Extensor pollicis longus",
-				"Extensor indicis",
-				"Extensor digitorum",
-				"Extensor pollicis brevis",
-				"Extensor digiti minimi"
-			],
+                "Abductor pollicis longus",
+                "Supinator",
+                "Extensor pollicis longus",
+                "Extensor indicis",
+                "Extensor digitorum",
+                "Extensor pollicis brevis",
+                "Extensor digiti minimi"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3202,14 +3202,14 @@
             "Ontology ID": "ILX:0746749",
             "Parent artery": "Common interosseous artery",
             "Target FTU": [
-				"Abductor pollicis longus",
-				"Supinator",
-				"Extensor pollicis longus",
-				"Extensor indicis",
-				"Extensor digitorum",
-				"Extensor pollicis brevis",
-				"Extensor digiti minimi"
-			],
+                "Abductor pollicis longus",
+                "Supinator",
+                "Extensor pollicis longus",
+                "Extensor indicis",
+                "Extensor digitorum",
+                "Extensor pollicis brevis",
+                "Extensor digiti minimi"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3263,7 +3263,7 @@
             "Target FTU": "NA",
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "No",
+            "Duplicated in FC flatmap": "No"
         },
         {
             "Arteries": "Superficial palmar arch",
@@ -3301,9 +3301,9 @@
             "Ontology ID": "UBERON:0006137",
             "Parent artery": "Common palmar digital arteries",
             "Target FTU": [
-				"Abductor digiti minimi of hand",
-				"Lumbrical muscles of hand"
-			],
+                "Abductor digiti minimi of hand",
+                "Lumbrical muscles of hand"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3313,9 +3313,9 @@
             "Ontology ID": "UBERON:0006137",
             "Parent artery": "Common palmar digital arteries",
             "Target FTU": [
-				"Abductor digiti minimi of hand",
-				"Lumbrical muscles of hand"
-			],
+                "Abductor digiti minimi of hand",
+                "Lumbrical muscles of hand"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3349,19 +3349,19 @@
             "Ontology ID": "UBERON:0001070",
             "Parent artery": "Right common carotid artery",
             "Target FTU": [
-				"Extrinsic auricular muscles",
-				"Intrinsic auricular muscles",
-				"Genioglossus",
-				"Hyoglossus",
-				"Geniohyoid",
-				"Sternohyoid",
-				"Sternothyroid",
-				"Thyrohyoid",
-				"Omohyoid",
-				"Straight part of cricothyroid",
-				"oblique part of cricothyroid",
-				"Posterior crico-arytenoid muscles"
-			],
+                "Extrinsic auricular muscles",
+                "Intrinsic auricular muscles",
+                "Genioglossus",
+                "Hyoglossus",
+                "Geniohyoid",
+                "Sternohyoid",
+                "Sternothyroid",
+                "Thyrohyoid",
+                "Omohyoid",
+                "Straight part of cricothyroid",
+                "oblique part of cricothyroid",
+                "Posterior crico-arytenoid muscles"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -3371,19 +3371,19 @@
             "Ontology ID": "UBERON:0001070",
             "Parent artery": "Left common carotid artery",
             "Target FTU": [
-				"Extrinsic auricular muscles",
-				"Intrinsic auricular muscles",
-				"Genioglossus",
-				"Hyoglossus",
-				"Geniohyoid",
-				"Sternohyoid",
-				"Sternothyroid",
-				"Thyrohyoid",
-				"Omohyoid",
-				"Straight part of cricothyroid",
-				"Oblique part of cricothyroid",
-				"Posterior crico-arytenoid muscles"
-			],
+                "Extrinsic auricular muscles",
+                "Intrinsic auricular muscles",
+                "Genioglossus",
+                "Hyoglossus",
+                "Geniohyoid",
+                "Sternohyoid",
+                "Sternothyroid",
+                "Thyrohyoid",
+                "Omohyoid",
+                "Straight part of cricothyroid",
+                "Oblique part of cricothyroid",
+                "Posterior crico-arytenoid muscles"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -3395,14 +3395,14 @@
             "Ontology ID": "ILX:0745026",
             "Parent artery": "External carotid artery",
             "Target FTU": [
-				"Longus capitis"
-				"Longus colli"
-				"Stylopharyngeus",
-				"Palatopharyngeus",
-				"Middle pharyngeal constrictor",
-				"Superior pharyngeal constrictor",
-				"Longissimus colli"
-			],
+                "Longus capitis",
+                "Longus colli",
+                "Stylopharyngeus",
+                "Palatopharyngeus",
+                "Middle pharyngeal constrictor",
+                "Superior pharyngeal constrictor",
+                "Longissimus colli"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -3412,14 +3412,14 @@
             "Ontology ID": "ILX:0745026",
             "Parent artery": "External carotid artery",
             "Target FTU": [
-				"Longus capitis"
-				"Longus colli"
-				"Stylopharyngeus",
-				"Palatopharyngeus",
-				"Middle pharyngeal constrictor",
-				"Superior pharyngeal constrictor",
-				"Longissimus colli"
-			],
+                "Longus capitis",
+                "Longus colli",
+                "Stylopharyngeus",
+                "Palatopharyngeus",
+                "Middle pharyngeal constrictor",
+                "Superior pharyngeal constrictor",
+                "Longissimus colli"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -3451,10 +3451,10 @@
             "Ontology ID": "ILX:0743443",
             "Parent artery": "Facial artery",
             "Target FTU": [
-				"Mylohyoid",
-				"Anterior belly of digastric",
-				"Hyoglossus"
-			],
+                "Mylohyoid",
+                "Anterior belly of digastric",
+                "Hyoglossus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
@@ -3465,10 +3465,10 @@
             "Ontology ID": "ILX:0743443",
             "Parent artery": "Facial artery",
             "Target FTU": [
-				"Mylohyoid",
-				"Anterior belly of digastric",
-				"Hyoglossus"
-			],
+                "Mylohyoid",
+                "Anterior belly of digastric",
+                "Hyoglossus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3480,11 +3480,11 @@
             "Ontology ID": "ILX:0744268",
             "Parent artery": "Facial artery",
             "Target FTU": [
-				"Orbicularis oris",
-				"Depressor anguli oris",
-				"Depressor labii inferioris",
-				"Mentalis"
-			],
+                "Orbicularis oris",
+                "Depressor anguli oris",
+                "Depressor labii inferioris",
+                "Mentalis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3494,11 +3494,11 @@
             "Ontology ID": "ILX:0744268",
             "Parent artery": "Facial artery",
             "Target FTU": [
-				"Orbicularis oris",
-				"Depressor anguli oris",
-				"Depressor labii inferioris",
-				"Mentalis"
-			],
+                "Orbicularis oris",
+                "Depressor anguli oris",
+                "Depressor labii inferioris",
+                "Mentalis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3510,15 +3510,15 @@
             "Ontology ID": "ILX:0745453",
             "Parent artery": "Facial artery",
             "Target FTU": [
-				"Levator labii superioris",
-				"Depressor septi nasi",
-				"Levator nasolabialis",
-				"Nasalis",
-				"Risorius",
-				"Zygomaticus major",
-				"Zygomaticus minor",
-				"Levator anguli oris"
-			],
+                "Levator labii superioris",
+                "Depressor septi nasi",
+                "Levator nasolabialis",
+                "Nasalis",
+                "Risorius",
+                "Zygomaticus major",
+                "Zygomaticus minor",
+                "Levator anguli oris"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3528,15 +3528,15 @@
             "Ontology ID": "ILX:0745453",
             "Parent artery": "Facial artery",
             "Target FTU": [
-				"Levator labii superioris",
-				"Depressor septi nasi",
-				"Levator nasolabialis",
-				"Nasalis",
-				"Risorius",
-				"Zygomaticus major",
-				"Zygomaticus minor",
-				"Levator anguli oris"
-			],
+                "Levator labii superioris",
+                "Depressor septi nasi",
+                "Levator nasolabialis",
+                "Nasalis",
+                "Risorius",
+                "Zygomaticus major",
+                "Zygomaticus minor",
+                "Levator anguli oris"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3548,10 +3548,10 @@
             "Ontology ID": "ILX:0745781",
             "Parent artery": "Facial artery",
             "Target FTU": [
-				"Palpebral part of orbicularis oculi",
-				"Orbital part of orbicularis oculi",
-				"Procerus"
-			],
+                "Palpebral part of orbicularis oculi",
+                "Orbital part of orbicularis oculi",
+                "Procerus"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3561,10 +3561,10 @@
             "Ontology ID": "ILX:0745781",
             "Parent artery": "Facial artery",
             "Target FTU": [
-				"Palpebral part of orbicularis oculi",
-				"Orbital part of orbicularis oculi",
-				"Procerus"
-			],
+                "Palpebral part of orbicularis oculi",
+                "Orbital part of orbicularis oculi",
+                "Procerus"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3576,23 +3576,23 @@
             "Ontology ID": "UBERON:0001613",
             "Parent artery": "External carotid artery",
             "Target FTU": [
-				"Occipitalis",
-				"Intrinsic auricular muscles",
-				"Posterior belly of digastric",
-				"Stylohyoid",
-				"Rectus posterior major capitis",
-				"Rectus posterior minor capitis",
-				"Obliquus superior capitis",
-				"Obliquus inferior capitis",
-				"Iliocostalis colli",
-				"Longissimus capitis",
-				"Splenius capitis",
-				"Splenius colli",
-				"Multifidus colli",
-				"Multifidus thoracis",
-				"Semispinalis colli",
-				"Interspinales colli"
-			],
+                "Occipitalis",
+                "Intrinsic auricular muscles",
+                "Posterior belly of digastric",
+                "Stylohyoid",
+                "Rectus posterior major capitis",
+                "Rectus posterior minor capitis",
+                "Obliquus superior capitis",
+                "Obliquus inferior capitis",
+                "Iliocostalis colli",
+                "Longissimus capitis",
+                "Splenius capitis",
+                "Splenius colli",
+                "Multifidus colli",
+                "Multifidus thoracis",
+                "Semispinalis colli",
+                "Interspinales colli"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -3602,23 +3602,23 @@
             "Ontology ID": "UBERON:0001613",
             "Parent artery": "External carotid artery",
             "Target FTU": [
-				"Occipitalis",
-				"Intrinsic auricular muscles",
-				"Posterior belly of digastric",
-				"Stylohyoid",
-				"Rectus posterior major capitis",
-				"Rectus posterior minor capitis",
-				"Obliquus superior capitis",
-				"Obliquus inferior capitis",
-				"Iliocostalis colli",
-				"Longissimus capitis",
-				"Splenius capitis",
-				"Splenius colli",
-				"Multifidus colli",
-				"Multifidus thoracis",
-				"Semispinalis colli",
-				"Interspinales colli"
-			],
+                "Occipitalis",
+                "Intrinsic auricular muscles",
+                "Posterior belly of digastric",
+                "Stylohyoid",
+                "Rectus posterior major capitis",
+                "Rectus posterior minor capitis",
+                "Obliquus superior capitis",
+                "Obliquus inferior capitis",
+                "Iliocostalis colli",
+                "Longissimus capitis",
+                "Splenius capitis",
+                "Splenius colli",
+                "Multifidus colli",
+                "Multifidus thoracis",
+                "Semispinalis colli",
+                "Interspinales colli"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -3670,9 +3670,9 @@
             "Ontology ID": "ILX:0747530",
             "Parent artery": "Superficial temporal artery",
             "Target FTU": [
-				"Temporoparietalis",
-				"Epicranial aponeurosis"
-			],
+                "Temporoparietalis",
+                "Epicranial aponeurosis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3682,9 +3682,9 @@
             "Ontology ID": "ILX:0747530",
             "Parent artery": "Superficial temporal artery",
             "Target FTU": [
-				"Temporoparietalis",
-				"Epicranial aponeurosis"
-			],
+                "Temporoparietalis",
+                "Epicranial aponeurosis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -3696,9 +3696,9 @@
             "Ontology ID": "UBERON:0001616",
             "Parent artery": "External carotid artery",
             "Target FTU": [
-				"Superficial part of masseter",
-				"Deep part of masseter"
-			],
+                "Superficial part of masseter",
+                "Deep part of masseter"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -3708,9 +3708,9 @@
             "Ontology ID": "UBERON:0001616",
             "Parent artery": "External carotid artery",
             "Target FTU": [
-				"Superficial part of masseter",
-				"Deep part of masseter"
-			],
+                "Superficial part of masseter",
+                "Deep part of masseter"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "Yes"
@@ -3725,7 +3725,7 @@
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
-			"Note": "The inferior alveolar artery is the main blood supply to the mandible bone."
+            "Note": "The inferior alveolar artery is the main blood supply to the mandible bone."
         },
         {
             "Arteries": "Inferior alveolar artery",
@@ -3735,7 +3735,7 @@
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No",
-			"Note": "The inferior alveolar artery is the main blood supply to the mandible bone."
+            "Note": "The inferior alveolar artery is the main blood supply to the mandible bone."
         }
     ],
     "Mylohyoid branch of inferior alveolar artery": [
@@ -3778,7 +3778,7 @@
             "Duplicated in FC flatmap": "No"
         }
     ],
-	"Middle meningeal artery": [
+    "Middle meningeal artery": [
         {
             "Arteries": "Middle meningeal artery",
             "Ontology ID": "UBERON:0010250",
@@ -3884,10 +3884,10 @@
             "Ontology ID": "ILX:0744505",
             "Parent artery": "Maxillary artery",
             "Target FTU": [
-				"Superior head of lateral pterygoid",
-				"Inferior head of lateral pterygoid",
-				"Medial pterygoid"
-			],
+                "Superior head of lateral pterygoid",
+                "Inferior head of lateral pterygoid",
+                "Medial pterygoid"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -3897,10 +3897,10 @@
             "Ontology ID": "ILX:0744505",
             "Parent artery": "Maxillary artery",
             "Target FTU": [
-				"Superior head of lateral pterygoid",
-				"Inferior head of lateral pterygoid",
-				"Medial pterygoid"
-			],
+                "Superior head of lateral pterygoid",
+                "Inferior head of lateral pterygoid",
+                "Medial pterygoid"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -4427,7 +4427,7 @@
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
-			"Note": "It supplies the gyri of the occipital lobe"
+            "Note": "It supplies the gyri of the occipital lobe"
         },
         {
             "Arteries": "Temporal occipital branch",
@@ -4437,7 +4437,7 @@
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No",
-			"Note": "It supplies the gyri of the occipital lobe"
+            "Note": "It supplies the gyri of the occipital lobe"
         }
     ],
     "Branch of angular gyrus": [
@@ -4606,10 +4606,10 @@
             "Ontology ID": "UBERON:0001622",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": [
-				"Levator palpebrae superioris",
-				"Palpebral part of orbicularis oculi",
-				"Orbital part of orbicularis oculi"
-			],
+                "Levator palpebrae superioris",
+                "Palpebral part of orbicularis oculi",
+                "Orbital part of orbicularis oculi"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -4619,10 +4619,10 @@
             "Ontology ID": "UBERON:0001622",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": [
-				"Levator palpebrae superioris",
-				"Palpebral part of orbicularis oculi",
-				"Orbital part of orbicularis oculi"
-			],
+                "Levator palpebrae superioris",
+                "Palpebral part of orbicularis oculi",
+                "Orbital part of orbicularis oculi"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -4714,10 +4714,10 @@
             "Ontology ID": "UBERON:0015160",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": [
-				"Levator palpebrae superioris",
-				"Occipitalis",
-				"Frontalis"
-			],
+                "Levator palpebrae superioris",
+                "Occipitalis",
+                "Frontalis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -4727,10 +4727,10 @@
             "Ontology ID": "UBERON:0015160",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": [
-				"Levator palpebrae superioris",
-				"Occipitalis",
-				"Frontalis"
-			],
+                "Levator palpebrae superioris",
+                "Occipitalis",
+                "Frontalis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
@@ -4742,10 +4742,10 @@
             "Ontology ID": "ILX:0746692",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": [
-				"Corrugator supercilii",
-				"Occipitalis",
-				"Frontalis"
-			],
+                "Corrugator supercilii",
+                "Occipitalis",
+                "Frontalis"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No"
@@ -4755,56 +4755,57 @@
             "Ontology ID": "ILX:0746692",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": [
-				"Corrugator supercilii",
-				"Occipitalis",
-				"Frontalis"
-			],
+                "Corrugator supercilii",
+                "Occipitalis",
+                "Frontalis"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No"
-     ],
-	"Muscular branches of ophthalmic artery": [
+        }
+    ],
+    "Muscular branches of ophthalmic artery": [
         {
             "Arteries": "Muscular branches of ophthalmic artery",
             "Ontology ID": "FMA:49961",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": [
-				"Levator palpebrae superioris",
-				"Superior tarsus",
-				"Inferior tarsus",
-				"Superior rectus",
-				"Inferior rectus",
-				"Medial rectus",
-				"Lateral rectus",
-				"Superior oblique",
-				"Trochlea of superior oblique",
-				"Inferior oblique"
-			],
+                "Levator palpebrae superioris",
+                "Superior tarsus",
+                "Inferior tarsus",
+                "Superior rectus",
+                "Inferior rectus",
+                "Medial rectus",
+                "Lateral rectus",
+                "Superior oblique",
+                "Trochlea of superior oblique",
+                "Inferior oblique"
+            ],
             "Laterality": "Right",
             "Added in FC flatmap": "Yes",
             "Duplicated in FC flatmap": "No",
-			"Note": "The muscular branches of ophthalmic artery is not in the Z-Anatomy. I have added because it is the main branch of the ophthalmic artery that supply the extraocular muscles"
+            "Note": "The muscular branches of ophthalmic artery is not in the Z-Anatomy. I have added because it is the main branch of the ophthalmic artery that supply the extraocular muscles"
         },
         {
             "Arteries": "Muscular branches of ophthalmic artery",
             "Ontology ID": "FMA:49961",
             "Parent artery": "Ophthalmic artery",
             "Target FTU": [
-				"Levator palpebrae superioris",
-				"Superior tarsus",
-				"Inferior tarsus",
-				"Superior rectus",
-				"Inferior rectus",
-				"Medial rectus",
-				"Lateral rectus",
-				"Superior oblique",
-				"Trochlea of superior oblique",
-				"Inferior oblique"
-			],
+                "Levator palpebrae superioris",
+                "Superior tarsus",
+                "Inferior tarsus",
+                "Superior rectus",
+                "Inferior rectus",
+                "Medial rectus",
+                "Lateral rectus",
+                "Superior oblique",
+                "Trochlea of superior oblique",
+                "Inferior oblique"
+            ],
             "Laterality": "Left",
             "Added in FC flatmap": "No",
             "Duplicated in FC flatmap": "No",
-			"Note": "The muscular branches of ophthalmic artery is not in the Z-Anatomy. I have added because it is the main branch of the ophthalmic artery that supply the extraocular muscles"
+            "Note": "The muscular branches of ophthalmic artery is not in the Z-Anatomy. I have added because it is the main branch of the ophthalmic artery that supply the extraocular muscles"
         }
     ],
     "Left common carotid artery": [
