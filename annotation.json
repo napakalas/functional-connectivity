@@ -8092,6 +8092,36 @@
             "Organ": "Brain",
             "Model" : "UBERON:0005807",
             "Label": "rostral ventrolateral medulla"
+        },
+        {
+            "FTU Name": "Respiratory center",
+            "Organ": "Brain",
+            "Model" : "ILX:0486575",
+            "Label": "Respiratory center"
+        },
+        {
+            "FTU Name": "Islets of Langerhans",
+            "Organ": "Endocrine pancreas",
+            "Model" : "UBERON:0000006",
+            "Label": "Islet of Langerhans"
+        },
+        {
+            "FTU Name": "Aortic chemoreceptor",
+            "Organ": "Heart",
+            "Model" : "ILX:0738177",
+            "Label": "Aortic chemoreceptor"
+        },
+        {
+            "FTU Name": "Myocardial sheet",
+            "Organ": "Heart",
+            "Model" : "UBERON:0004123",
+            "Label": "Myocardial layer"
+        },
+        {
+            "FTU Name": "Cortical collecting ducts",
+            "Organ": "Kidney",
+            "Model" : "UBERON:0004203",
+            "Label": "Cortical collecting duct"
         }
     ],
     "Neural": [
