@@ -8050,6 +8050,78 @@
             "Checked by": "",
             "Unnamed: 8": "",
             "Unnamed: 9": ""
+        },
+        {
+            "FTU Name": "Lobule",
+            "Organ": "Liver",
+            "Model" : "UBERON:0004647",
+            "Label": "liver lobule"
+        },
+        {
+            "FTU Name": "Juxtaglomerular apparatus",
+            "Organ": "Kidney",
+            "Model" : "UBERON:0002303",
+            "Label": "Juxtaglomerular apparatus"
+        },
+        {
+            "FTU Name": "Adrenal gland",
+            "Organ": "Kidneys",
+            "Model" : "UBERON:0002369",
+            "Label": "Adrenal gland"
+        },
+        {
+            "FTU Name": "Endothelium",
+            "Organ": "Lungs",
+            "Model" : "UBERON:0013479",
+            "Label": "lung endothelium"
+        },
+        {
+            "FTU Name": "Sinoatrial node",
+            "Organ": "Heart",
+            "Model" : "UBERON:0002351",
+            "Label": "sinoatrial node"
+        },
+        {
+            "FTU Name": "Atrioventricular node",
+            "Organ": "Heart",
+            "Model" : "UBERON:0002352",
+            "Label": "artioventricular node"
+        },
+        {
+            "FTU Name": "VLM",
+            "Organ": "Brain",
+            "Model" : "UBERON:0005807",
+            "Label": "rostral ventrolateral medulla"
+        },
+        {
+            "FTU Name": "Respiratory center",
+            "Organ": "Brain",
+            "Model" : "ILX:0486575",
+            "Label": "Respiratory center"
+        },
+        {
+            "FTU Name": "Islets of Langerhans",
+            "Organ": "Endocrine pancreas",
+            "Model" : "UBERON:0000006",
+            "Label": "Islet of Langerhans"
+        },
+        {
+            "FTU Name": "Aortic chemoreceptor",
+            "Organ": "Heart",
+            "Model" : "ILX:0738177",
+            "Label": "Aortic chemoreceptor"
+        },
+        {
+            "FTU Name": "Myocardial sheet",
+            "Organ": "Heart",
+            "Model" : "UBERON:0004123",
+            "Label": "Myocardial layer"
+        },
+        {
+            "FTU Name": "Cortical collecting ducts",
+            "Organ": "Kidney",
+            "Model" : "UBERON:0004203",
+            "Label": "Cortical collecting duct"
         }
     ],
     "Neural": [
