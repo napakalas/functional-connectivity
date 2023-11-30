@@ -6,9 +6,6 @@
     "models": "FunctionalConnectivityNPO",
     "sckan-version": "production",
     "properties": "properties.json",
-    "neuronConnectivity": [
-        "NPO"
-    ],
     "sources": [
         {
             "id": "organ-blocks",
@@ -18,6 +15,11 @@
         {
             "id": "cardiorespiratory",
             "href": "Cardiorespiratory_System.pptx",
+            "kind": "layer"
+        },
+        {
+            "id": "vascular",
+            "href": "Vascular_System.pptx",
             "kind": "layer"
         },
         {
@@ -32,7 +34,7 @@
         },
         {
             "id": "urinary",
-            "href": "Urinary_System.pptx",
+            "href": "Urinary_System_with_details.pptx",
             "kind": "layer"
         },
         {
