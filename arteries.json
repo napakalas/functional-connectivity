@@ -915,7 +915,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "Top in the group of Aorta. Connected to the left ventricle in the FC flatmap."
         }
     ],
@@ -927,7 +927,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "Top in the group of Aorta. Connected to the ascending aorta in the FC flatmap."
         }
     ],
@@ -939,7 +939,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Thoracic aorta": [
@@ -950,7 +950,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "Top in the group of Aorta. Connected to the aortic arch in the FC flatmap."
         }
     ],
@@ -1044,7 +1044,7 @@
             "Target FTU": "Diaphragm",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "laterality is NA although there are right and left superior phrenic arteries, as indicated in the literature."
         }
     ],
@@ -1056,7 +1056,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Inferior phrenic artery": [
@@ -1067,7 +1067,7 @@
             "Target FTU": "Diaphragm",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Lumbar arteries": [
@@ -1130,7 +1130,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Left gastric artery": [
@@ -1144,7 +1144,7 @@
             ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It supplies blood to the stomach and the lower part of the esophagus. laterality is NA although there are right and left gastric arteries, as indicated in the literature."
         }
     ],
@@ -1160,7 +1160,7 @@
             ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It supplies blood to the spleen, pancreas, and stomach. Spleen does not have vascular inlet."
         }
     ],
@@ -1172,7 +1172,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Gastroduodenal artery": [
@@ -1187,7 +1187,7 @@
             ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It supplies the pylorus of the stomach, superior part of the duodenum, and the head of the pancreas."
         }
     ],
@@ -1203,7 +1203,7 @@
             ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It primarily supplies the left and right lobes of the liver, as well as the gallbladder and part of the stomach."
         }
     ],
@@ -1215,7 +1215,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Middle colic artery": [
@@ -1226,7 +1226,7 @@
             "Target FTU": "Lower GI tract",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It supplies the proximal two thirds of the transverse colon. There is a single vascular inlet for the lower GI tract in FC. Additionally, laterality is NA although there are right and left middle colic arteries, as indicated in the literature."
         }
     ],
@@ -1250,7 +1250,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "The marginal artery, also known as the artery of Drummond, supplies the proximal descending colon at the splenic flexure."
         }
     ],
@@ -1262,7 +1262,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "laterality is NA although there are right and left middle colic arteries, as indicated in the literature."
         }
     ],
@@ -1274,7 +1274,7 @@
             "Target FTU": "Lower GI tract",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It supplies blood to the appendix, a small, finger-like pouch attached to the caecum. There is a single vascular inlet for the lower GI tract in FC."
         }
     ],
@@ -1286,7 +1286,7 @@
             "Target FTU": "Lower GI tract",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "laterality is NA although there are right and left middle colic arteries, as indicated in the literature.",
             "Note": "It supplies the junction between the ileum and the caecum. There is a single vascular inlet for the lower GI tract in FC."
         }
@@ -1299,7 +1299,7 @@
             "Target FTU": "Lower GI tract",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It supplies the ascending colon. There is a single vascular inlet for the lower GI tract in FC."
         }
     ],
@@ -1311,7 +1311,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "laterality is NA although there are right and left middle colic arteries, as indicated in the literature."
         }
     ],
@@ -1326,7 +1326,7 @@
             ],
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It supplies the head of the pancreas as well as the inferior regions of the duodenum. There is a single vascular inlet for the lower GI tract in FC."
         }
     ],
@@ -1338,7 +1338,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Left colic artery": [
@@ -1360,7 +1360,7 @@
             "Target FTU": "Lower GI tract",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It supplies the descending colon. There is a single vascular inlet for the lower GI tract in FC."
         }
     ],
@@ -1372,7 +1372,7 @@
             "Target FTU": "Lower GI tract",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It supplies the descending colon, and the sigmoid colon. There is a single vascular inlet for the lower GI tract in FC. There is no FTU for the descending colon and sigmoid colocn."
         }
     ],
@@ -1384,7 +1384,7 @@
             "Target FTU": "Lower GI tract",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Superior anorectal artery": [
@@ -1531,7 +1531,7 @@
         {
             "Arteries": "Aortic bifurcation",
             "Ontology ID": "ILX:0744099",
-            "Parent artery": "nan",
+            "Parent artery": "NA",
             "Target FTU": "nan",
             "Laterality": "nan",
             "Added in FC flatmap": "Yes",
@@ -1547,7 +1547,7 @@
             "Target FTU": "gold diamond",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "It is connected to the Aortic bifurcation in the atlas tree, but it is connected to the abdominal aorta in the FC flatmap. "
         }
     ],
@@ -1992,7 +1992,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Anterior inferior cerebellar artery": [
@@ -4827,7 +4827,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "In the group of the Cerebral arterial circle - Top in the group but it connects the two left and right anterior cerebral arteries."
         }
     ],
@@ -4883,7 +4883,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA",
+            "Duplicated in FC flatmap": "No",
             "Note": "Top in the pulmonary trunk group.The pulmonary trunk, also known as the pulmonary artery, originates from the right ventricle. "
         }
     ],
@@ -4895,7 +4895,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Right pulmonary artery": [
@@ -5227,14 +5227,14 @@
             "Target FTU": "Heart",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Left coronary artery": [
         {
             "Arteries": "Left coronary artery",
             "Ontology ID": "UBERON:0001626",
-            "Parent artery": "nan",
+            "Parent artery": "NA",
             "Target FTU": "NA",
             "Laterality": "Left",
             "Added in FC flatmap": "Yes",
@@ -5250,7 +5250,7 @@
             "Target FTU": "NA",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Septal branches of anterior interventricular artery": [
@@ -5261,7 +5261,7 @@
             "Target FTU": "Heart",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ],
     "Circumflex artery of heart": [
@@ -5272,7 +5272,7 @@
             "Target FTU": "Heart",
             "Laterality": "NA",
             "Added in FC flatmap": "Yes",
-            "Duplicated in FC flatmap": "NA"
+            "Duplicated in FC flatmap": "No"
         }
     ]
 }
