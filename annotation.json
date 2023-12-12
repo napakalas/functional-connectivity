@@ -16858,8 +16858,8 @@
         {
             "Organ Name": "Pancreas",
             "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0001264",
+            "Label": "pancreas"
         },
         {
             "Organ Name": "Pancreaticobiliary duct",
