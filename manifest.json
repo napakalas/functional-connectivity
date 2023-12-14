@@ -6,6 +6,9 @@
     "models": "FunctionalConnectivityNPO",
     "sckan-version": "production",
     "properties": "properties.json",
+    "neuronConnectivity": [
+        "NPO"
+    ],
     "sources": [
         {
             "id": "organ-blocks",
@@ -47,5 +50,6 @@
             "href": "Special-Sense_Organs.pptx",
             "kind": "layer"
         }
-    ]
+    ],
+    "connectivityTerms": "connectivity_terms.json"
 }

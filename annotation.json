@@ -16858,8 +16858,8 @@
         {
             "Organ Name": "Pancreas",
             "Systems": "DIGESTIVE SYSTEM, ENTERIC SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0001264",
+            "Label": "pancreas"
         },
         {
             "Organ Name": "Pancreaticobiliary duct",
@@ -17092,28 +17092,28 @@
         },
         {
             "System Name": "CARDIORESPIRATORY SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0004535",
+            "Label": "cardiovascular system"
         },
         {
             "System Name": "DIGESTIVE SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0001007",
+            "Label": "digestive system"
         },
         {
             "System Name": "ENDOCRINE SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0000949",
+            "Label": "endocrine system"
         },
         {
             "System Name": "ENTERIC SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0002005",
+            "Label": "enteric nervous system"
         },
         {
             "System Name": "IMMUNE SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0002405",
+            "Label": "immune system"
         },
         {
             "System Name": "INTEGUMENTARY SYSTEM",
@@ -17122,8 +17122,8 @@
         },
         {
             "System Name": "MSK SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0002204",
+            "Label": "musculoskeletal system"
         },
         {
             "System Name": "NASO-ORAL-PHARYNGEAL SYSTEM",
@@ -17132,18 +17132,18 @@
         },
         {
             "System Name": "NERVOUS SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0001016",
+            "Label": "nervous system"
         },
         {
             "System Name": "REPRODUCTIVE SYSTEM FEMALE",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0000474",
+            "Label": "female reproductive female"
         },
         {
             "System Name": "REPRODUCTIVE SYSTEM MALE",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0000079",
+            "Label": "male reproductive system"
         },
         {
             "System Name": "SPECIAL SENSES",
@@ -17152,8 +17152,8 @@
         },
         {
             "System Name": "URINARY SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0001008",
+            "Label": "renal/urinary system"
         }
     ],
     "Vascular": [
