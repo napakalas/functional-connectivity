@@ -1,5 +1,5 @@
 {
-    "id": "functional-connectivity-npo",
+    "id": "functional-connectivity",
     "kind": "functional",
     "annotation": "annotation.json",
     "description": "description.json",
