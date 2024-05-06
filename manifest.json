@@ -4,7 +4,7 @@
     "annotation": "annotation.json",
     "description": "description.json",
     "models": "FunctionalConnectivity",
-    "sckan-version": "production",
+    "sckan-version": "sckan-2024-03-26",
     "properties": "properties.json",
     "neuronConnectivity": [
         "NPO"
