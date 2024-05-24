@@ -1087,32 +1087,6 @@
     },
     {
         "id": [
-            "UBERON:0005441",
-            []
-        ],
-        "aliases": [
-            [
-                "ILX:0738319",
-                []
-            ]
-        ],
-        "name": "external intercostal muscle"
-    },
-    {
-        "id": [
-            "UBERON:0002403",
-            []
-        ],
-        "aliases": [
-            [
-                "ILX:0738319",
-                []
-            ]
-        ],
-        "name": "internal intercostal muscle"
-    },
-    {
-        "id": [
             "UBERON:0008617",
             []
         ],
