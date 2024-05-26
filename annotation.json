@@ -10685,14 +10685,16 @@
         {
             "Nerve Name": "DRG",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0000044",
+            "Label": "dorsal root ganglion",
+            "Updated": "YM"
         },
         {
             "Nerve Name": "DRG",
             "Organ/System": "NERVOUS SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0000044",
+            "Label": "dorsal root ganglion",
+            "Updated": "YM"
         },
         {
             "Nerve Name": "Esophageal branch of recurrent laryngeal nerve",
@@ -15467,8 +15469,9 @@
         {
             "Nerve Name": "S4",
             "Organ/System": "DRG",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0007713",
+            "Label": "fourth sacral dorsal root ganglion",
+            "Updated": "YM"
         },
         {
             "Nerve Name": "S4",
@@ -15534,14 +15537,16 @@
         {
             "Nerve Name": "Spinal cord",
             "Organ/System": "BRAIN & NERVOUS SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0002240",
+            "Label": "Spinal cord",
+            "Updated": "YM"
         },
         {
             "Nerve Name": "Spinal cord",
             "Organ/System": "NERVOUS SYSTEM",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0002240",
+            "Label": "Spinal cord",
+            "Updated": "YM"
         },
         {
             "Nerve Name": "SSN",
@@ -15802,8 +15807,9 @@
         {
             "Nerve Name": "T12",
             "Organ/System": "DRG",
-            "Models": "",
-            "Label": ""
+            "Models": "UBERON:0002855",
+            "Label": "twelfth thoracic dorsal root ganglion",
+            "Updated": "YM"
         },
         {
             "Nerve Name": "T12",
